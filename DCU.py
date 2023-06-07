@@ -44,7 +44,7 @@ def find_missing_services(csv_file):
                     services.setdefault(service, []).append(device)
 
     # List devices missing ALL services
-    for service, missing devices in services.items():
+    # for service, missing devices in services.items():
         
 
     # List devices missing each service
