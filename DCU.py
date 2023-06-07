@@ -7,7 +7,7 @@ import csv
 
 def check_duplicates():
     current_files = [] #list of current pdf files to skip
-    csv_directory = '202304 copy'
+    csv_directory = 'csvFolder'
     for filename in os.listdir(csv_directory):
         if filename.endswith('.pdf'): #Ignores pdf files
             new_filename = filename[:-3]
@@ -16,7 +16,7 @@ def check_duplicates():
 
 
 def convert(processed_count):
-    csv_directory = '202304 copy'
+    csv_directory = 'csvFolder'
 
     # iterate over files in
     # that directory
@@ -73,8 +73,8 @@ def main():
     print("{}{}".format(convert_counter, ' files have been converted'))
     
     # Usage
-    #csv_file = input("Enter the CSV file name: ")
-    #find_missing_services(csv_file)
+    csv_file = input("Enter the CSV file name: ")
+    find_missing_services(csv_file)
     
                                
 if __name__ == "__main__":
