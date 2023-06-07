@@ -22,9 +22,40 @@ def convert():
                 buffer = f[:-3]
                 pdf_file = buffer + "pdf"
                 pdfkit.from_string(html_file, pdf_file, configuration=config)
+                
+import csv
+
+def find_missing_services(csv_file):
+    services = {}
+    devices = []
+
+    # Read CSV file
+    with open(csv_file, 'r') as file:
+        reader = csv.reader(file)
+        for row in reader:
+            device = row[0]
+            services_data = row[1:]  # Remaining elements on the line
+
+            devices.append(device)
+
+            for service in services_data:
+                if service.strip() != '':
+                    services.setdefault(service, []).append(device)
+
+    # List devices missing each service
+    for service, missing_devices in services.items():
+        present_devices = set(missing_devices)
+        all_devices = set(devices)
+        missing = all_devices - present_devices
+        print(f"Missing devices for service '{service}': {', '.join(sorted(missing))}")
+
 
 def main():
     convert()
+    
+    # Usage
+    csv_file = input("Enter the CSV file name: ")
+    find_missing_services(csv_file)
     
                                
 if __name__ == "__main__":
