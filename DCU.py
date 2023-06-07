@@ -4,6 +4,9 @@ import pandas as pd
 import pdfkit
 import os
 import csv
+import sys
+import getopt
+import argparse
 
 def check_duplicates():
     current_files = [] #list of current pdf files to skip
@@ -15,12 +18,17 @@ def check_duplicates():
     return current_files
 
 
-def convert(processed_count):
+def convert(processed_count, process_type):
     csv_directory = 'csvFolder'
 
     # iterate over files in
     # that directory
-    current_files = check_duplicates()
+    if process_type == 'reprocess':
+        print("reprocess")
+        current_files = []
+    else:
+        print("smart")
+        current_files = check_duplicates()
     for filename in os.listdir(csv_directory):
         buffer_filename = filename[:-3]
         if buffer_filename not in current_files:
@@ -39,6 +47,9 @@ def convert(processed_count):
                     #Utilies the pdfkit API to convert the html to a pdf
                     pdfkit.from_string(html_file, pdf_file, configuration=config)
                     processed_count+=1
+        elif process_type == 'abort':
+            print("abort")
+            return processed_count
     return processed_count
                 
 
@@ -65,18 +76,22 @@ def find_missing_services(csv_file):
         all_devices = set(devices)
         missing = all_devices - present_devices
         print(f"Missing devices for service '{service}': {', '.join(sorted(missing))}")
-
-
-def main():
-    convert_counter = 0 #Keeps track of files that have been converted
-    convert_counter = convert(convert_counter)
-    print("{}{}".format(convert_counter, ' files have been converted'))
-    
-    # Usage
-    csv_file = input("Enter the CSV file name: ")
-    find_missing_services(csv_file)
     
                                
-if __name__ == "__main__":
-    # execute only if run as a script
-    main()
+class CommandLine:
+    def __init__(self):
+        if len(sys.argv) == 2:
+            argument = sys.argv[1]
+        else:
+            argument = 'smart'
+        convert_counter = 0 #Keeps track of files that have been converted
+        convert_counter = convert(convert_counter, argument)
+        print("{}{}".format(convert_counter, ' files have been converted'))
+    
+    # Usage
+    #csv_file = input("Enter the CSV file name: ")
+    #find_missing_services(csv_file) 
+
+
+if __name__ == '__main__':
+    app = CommandLine()
