@@ -49,14 +49,15 @@ def find_missing_services(csv_file):
     # Read CSV file
     with open(csv_file, 'r') as file:
         reader = csv.reader(file)
-        for row in reader:
-            device = row[0]
-            services_data = row[1:]  # Remaining elements on the line
+        for col in reader:
+            device = col[0]
+            op_sys = col[1]
+            services_data = col[2:]  # Services
 
             devices.append(device)
 
             for service in services_data:
-                if service.strip() != '':
+                if service.strip() != '' or False:
                     services.setdefault(service, []).append(device)
 
     # List devices missing each service
