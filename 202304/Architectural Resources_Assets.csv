@@ -1,0 +1,78 @@
+Asset Name,OS,cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+acm-20m-he,b'Windows 11 Pro 22621',cisco-umbrella, , ,microsoft-ad,sentinelone
+acm2-20m-le,b'Windows 11 Pro 22621',cisco-umbrella, , , ,sentinelone
+ajf-20m-he,b'Windows 10 Pro 19044',cisco-umbrella, ,huntress,microsoft-ad,sentinelone
+ajr-20m-he,b'Windows 11 Pro 22621',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+amr-20m-he,b'Windows 11 Pro 22000',cisco-umbrella, ,huntress,microsoft-ad,sentinelone
+archres-dc1,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+archres-dc2,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+archres-fs1,b'Windows Server 2019 Standard', ,cybercns-sec-vm,huntress,microsoft-ad, 
+archres-proxy1,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+archres-sql01,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+arp-20m-he,b'Windows 10 Pro 19044',cisco-umbrella, ,huntress,microsoft-ad,sentinelone
+artouchscreen,b'Windows 10 Pro', ,cybercns-sec-vm, ,microsoft-ad, 
+bmd-20m-he2,b'Windows 11 Pro 22621',cisco-umbrella, ,huntress,microsoft-ad,sentinelone
+cac2-20m-he,b'Windows 11 Pro 22621',cisco-umbrella, ,huntress, ,sentinelone
+cap-20m-le,b'Windows 11 Pro 22621',cisco-umbrella, , , ,sentinelone
+cek-20m,b'Windows 10 Business 19043', , ,huntress,microsoft-ad,sentinelone
+cjd-20md,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cls2-20m-he,b'Windows 11 Business 22621',cisco-umbrella, , , ,sentinelone
+cmv2-20m-he,b'Windows 11 Pro 22621',cisco-umbrella, , , ,sentinelone
+cmw2-20m-he,b'Windows 11 Pro 22000', , , , ,sentinelone
+cnw-20m-he,b'Windows 10 Business 19044',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cvr-20m-he,b'Windows 11',cisco-umbrella, , , , 
+ddr2-20m-he,b'Windows 11 Pro 22000',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-7bh6m2v,b'Windows 10 Home', , ,huntress, , 
+desktop-hed7qrg,b'Windows 11 Business 22621',cisco-umbrella, , , ,sentinelone
+desktop-huklo78,b'Microsoft Windows 10 Home', ,cybercns-sec-vm, , , 
+dms-20m,b'Windows 11 Pro 22621',cisco-umbrella, ,huntress, ,sentinelone
+emm-20m-he,b'Windows 11 Pro 22000',cisco-umbrella, , ,microsoft-ad,sentinelone
+hrm-20m-le,b'Windows 11',cisco-umbrella, , ,microsoft-ad, 
+jad2-20m-he,b'Windows 11 Pro 22621',cisco-umbrella, , , ,sentinelone
+jao2-20m-he,b'Windows 10 Pro 22621',cisco-umbrella, , , ,sentinelone
+jda-20m-he,b'Windows 11',cisco-umbrella, , , ,sentinelone
+jdd2-20m-he,b'Windows 11 Pro 22621',cisco-umbrella, ,huntress, ,sentinelone
+jes-20m-le,b'Windows 10 Pro 19044',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jhs-20m-le,b'Windows 11 Pro 22621',cisco-umbrella, ,huntress, ,sentinelone
+jmm-20m-he,b'Windows 11 Pro 22000',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jrm-10m,b'Windows 10 Pro 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jsc-20m-he,b'Windows 11 Business 22621',cisco-umbrella, , , ,sentinelone
+jzw-20m-he,b'Windows 11 Pro 22621',cisco-umbrella, ,huntress, ,sentinelone
+kas-20m-le,b'Windows 11 Pro 22621',cisco-umbrella, , ,microsoft-ad,sentinelone
+kdm-20m-he,b'Windows 10 Pro 19045',cisco-umbrella, ,huntress, ,sentinelone
+klw-20m-he,b'Windows 11 Pro 22621', , , , ,sentinelone
+laptop-tqn4mnl8,b'Windows 10 Home 19043', , ,huntress, ,sentinelone
+lho-20m-h,b'Windows 11 Home', , ,huntress, , 
+lho3-20m-he,b'Windows 11 Pro 22000',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mab-10md,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+macbook pro,b'OS X 12.4 (21F79)', , , , ,sentinelone
+mae-20m-he,b'Windows 10 Pro 19044',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mbb-20m-he,b'Windows 10 Business 19044',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mcs2-20m,b'Windows 10 Pro 19044',cisco-umbrella, ,huntress,microsoft-ad,sentinelone
+mds-20m,b'Windows 11 Pro 22621',cisco-umbrella, , ,microsoft-ad,sentinelone
+met-20m-he,b'Windows 10 Pro 19044',cisco-umbrella, ,huntress,microsoft-ad,sentinelone
+mev-20m-le,b'Windows 10 Pro 19044',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mgb-20m,b'Windows 11 Business 22621',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mjm2-20m-le,b'Windows 10 Pro 19044',cisco-umbrella, ,huntress, ,sentinelone
+mlma-20m-he,b'Windows 11 Pro 22621',cisco-umbrella, , ,microsoft-ad,sentinelone
+mmp-20m-he,b'Windows 11 Business 22621',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nrw-20m-he,b'Windows 10 Business 19044',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+onp-20m-he,b'Windows 11 Business 22621',cisco-umbrella, ,huntress, ,sentinelone
+pcm-20md,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+protodeco-spin,b'Microsoft Windows 11 Home', ,cybercns-sec-vm, , , 
+ras-20m-le,b'Windows 10 Pro 19044',cisco-umbrella, , ,microsoft-ad,sentinelone
+rcv-20m-he,b'Windows 11 Pro 22000',cisco-umbrella, ,huntress,microsoft-ad,sentinelone
+rmv-20m-he,b'Windows 11 Business 22621',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+rpp-20m-he,b'Windows 11 Pro 22621',cisco-umbrella,cybercns-sec-vm, ,microsoft-ad,sentinelone
+rrn-20m-he,b'Windows 11 Business 22621',cisco-umbrella, ,huntress, ,sentinelone
+rtg2-20m-he,b'Windows 10 Pro 19045',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+rtr-20m,b'Windows 10 Pro',cisco-umbrella, ,huntress,microsoft-ad, 
+sja-20m-he,b'Windows 10 Business 19044',cisco-umbrella, ,huntress,microsoft-ad,sentinelone
+solis2-20d,b'Windows 10 Pro 19044',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+srk-20m-he,b'Windows 11 Pro 22621',cisco-umbrella, ,huntress,microsoft-ad,sentinelone
+tau3-20m-he,b'Windows 11 Pro',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad, 
+tsa-20m-he,b'Windows 10 Pro 22621',cisco-umbrella, , , ,sentinelone
+weq-20m-he,b'Windows 11 Pro 22000', , ,huntress,microsoft-ad,sentinelone
+wpm2-20m-he,b'Windows 11 Pro 22621',cisco-umbrella, , , ,sentinelone
+ymb-20md,b'Windows 10 Pro for Workstations 19044',cisco-umbrella,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+zrm-20m-he,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone

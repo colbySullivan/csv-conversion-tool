@@ -1,0 +1,101 @@
+Asset Name,OS,cybercns-sec-vm,huntress,sentinelone
+alsql04oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+amsql04oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm, ,sentinelone
+amweb01oc,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,sentinelone
+bbweb01oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+bbweb02oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+bbweb03oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+bbweb04oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+bbweb05oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+bzweb01oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+bzweb03oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+desktop-5kggk5k,b'Windows 10 Pro 19045', ,huntress,sentinelone
+desktop-suvp5nv,b'Windows 10 Home', ,huntress, 
+devimap01oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+devsqlimap01oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm, ,sentinelone
+edna-pc5,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,sentinelone
+emde01oc,b'Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+emweb03oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+emweb04oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+emweb05oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+icssql01oc,b'Windows Server 2012 R2 Standard', ,huntress, 
+icsweb01oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+imaptest01,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+imaptest03,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+imaptest04,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+lu-search01,b'Windows Server 2022 Standard 20348', ,huntress,sentinelone
+lusearch02oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+lusql01oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+lusql02oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+lusql03oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+lusql04oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+lusql05oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+luweb01oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+luweb02oc,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+luweb03oc,b'Windows Server 2012 R2 Standard', ,huntress, 
+luweb04oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+luweb05oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+luweb06oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+luweb07oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+luweb08oc,b'Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+luweb09oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+luweb10oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+luweb11oc,b'Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+m2waccount,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mwde07oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm, , 
+mwde08oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwdns10vmoc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwdns12vmoc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwftp02vmoc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwjunk01oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm, ,sentinelone
+mwmedia01oc,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+mwpop02oc,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+mwpop04oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwpop05oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwpop07oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwpop08oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwpop11oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwpop12oc,b'Windows Server 2012 R2 Standard', ,huntress, 
+mwpop13oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+mwrest01oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+mwrest04oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwsearch01oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwsearch02oc,b'Windows Server 2012 R2 Standard', ,huntress, 
+mwsearch03oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm, ,sentinelone
+mwsearch05oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwsearch06oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwsmtp02oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwsmtp03oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+mwsqlback10,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+mwstage13oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwweb01oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+mwweb07oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwweb08oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm, ,sentinelone
+mwweb09oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+mwweb10oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwweb11oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwweb13oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mwweb14oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+my-pc,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+ownerow-1u7s2n3,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+spsql09oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+tmpop01oc,b'Windows Server 2008 R2 Standard  7601 SP1', ,huntress,sentinelone
+tmpop02oc,b'Windows Server 2008 R2 Standard', ,huntress, 
+tmrv01oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+tmrv02oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+tmsmtp03oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+tmsmtp04oc,b'Microsoft Windows Server 2012 R2 Standard',cybercns-sec-vm,huntress, 
+tmsql07oc,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+vm-dc01,b'Windows Server 2019 Standard 17763', , ,sentinelone
+vm-dc02,b'Windows Server 2019 Standard 17763', , ,sentinelone
+vm-dc03,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,sentinelone
+vm-dc04,b'Windows Server 2019 Standard 17763', , ,sentinelone
+vm-dns-m2w01,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,sentinelone
+vm-dns-m2w02,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,sentinelone
+vm-monitor01,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress,sentinelone
+vm-monitor02,b'Windows Server 2022 Standard 20348', , ,sentinelone
+vm-pking,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress,sentinelone
+vm-publicdns02,b'Windows Server 2019 Standard 17763', , ,sentinelone
+vm-test-win10-01,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,sentinelone
+vm-util-kj01,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+vm-util-solisecurity,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,sentinelone

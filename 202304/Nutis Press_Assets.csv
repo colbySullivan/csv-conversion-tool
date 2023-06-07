@@ -1,0 +1,86 @@
+Asset Name,OS,huntress,microsoft-ad,sentinelone
+3d-laptop,b'Windows 10 Pro', ,microsoft-ad, 
+access,b'Windows 7 Professional', ,microsoft-ad, 
+admin-5ubm57t3b,b'Windows 7 Professional  7601 SP1',huntress, ,sentinelone
+alum-creek,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+angie-lap,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+aposerver,b'Windows Server 2012 R2 Standard 9600', , ,sentinelone
+axyz-nutis,b'Windows 7 Professional  7601 SP1', ,microsoft-ad,sentinelone
+axyzdigico2-pc,b'Windows 7 Professional  7601 SP1',huntress, ,sentinelone
+basement,b'Windows 10 Pro',huntress, , 
+borthwick-lap,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+byspeed-lap,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+chris-laptop,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+chris-rosan,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+cnc-1,b'Windows 10 Pro', ,microsoft-ad, 
+conference,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+david-new,b'Windows 10 Pro for Workstations 19044',huntress,microsoft-ad,sentinelone
+dell-desktop1,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+dell-lap-lat,b'Windows 10 Pro 19045', , ,sentinelone
+dell-lap-tred,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+dell-lap23,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+dell-lap24,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+dell-lap25,b'Windows 10 Pro', ,microsoft-ad, 
+dell-lap26,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+desktop-gacjueq,b'Windows 10 Pro 19044', , ,sentinelone
+desktop-jr397d6,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+desktop-s5comeq,b'Windows 10 Pro 19044',huntress, ,sentinelone
+digico-shipping,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+epms,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+erik-new,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+erp,b'Windows Server 2008 R2 Standard', ,microsoft-ad, 
+erp15,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+exchange16,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad,sentinelone
+fix-laptop,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+foam110714gtc,b'Windows 7 Professional', ,microsoft-ad, 
+gary-lap,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+gered,b'Windows 10 Pro for Workstations 19044',huntress,microsoft-ad,sentinelone
+greg-360,b'Windows 10 Pro',huntress,microsoft-ad, 
+hillary-pc,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+host-1b,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+host-1c,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+host-1d,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad,sentinelone
+host-1e,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad,sentinelone
+hp-lap-i5,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+hp-lap6,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+jim,b'Windows 10 Pro for Workstations 19045',huntress,microsoft-ad,sentinelone
+joey-restore,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+klieverik-new,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+mary-restore,b'Windows 10 Pro for Workstations 19044',huntress,microsoft-ad,sentinelone
+michellerestore,b'Windows 10 Pro for Workstations 19045',huntress,microsoft-ad,sentinelone
+mimaki-uv,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+nutis-2019dc2,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+nutis-2019dc3,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+operations,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+oriscgs,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+phone-server,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+portal,b'Ubuntu 14.04.5 LTS 4.4.0-134-generic', ,microsoft-ad,sentinelone
+powerspec1,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec10,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec11,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec13,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec16,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec17,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec18a,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec19,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec2,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec21,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec3,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec4,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec6,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec7,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec8,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+powerspec9,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+roland2-xeon,b'Windows 7 Professional  7601 SP1',huntress, ,sentinelone
+sam-nutis-laptop,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+shonda-lap,b'Windows 11 Pro 22000',huntress, ,sentinelone
+sydney-laptop,b'Windows 10 Pro', ,microsoft-ad, 
+tony-desktop,b'Windows 10 Pro',huntress,microsoft-ad, 
+travis-new,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+veeamdr,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+vutekrip-xeon,b'Windows 7 Professional  7601 SP1',huntress, ,sentinelone
+vytek-pc,b'Windows 7 Professional',huntress, , 
+wendel-lap,b'Windows 11 Pro', ,microsoft-ad, 
+wendel-xeon,b'Windows 10 Pro for Workstations 19044',huntress,microsoft-ad,sentinelone
+whs-new,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+zund-i5,b'Windows 7 Professional', ,microsoft-ad, 

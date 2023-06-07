@@ -1,0 +1,54 @@
+Asset Name,OS,huntress,microsoft-ad,sentinelone
+apps,b'Windows Server 2022 Standard 20348',huntress,microsoft-ad,sentinelone
+data, , ,microsoft-ad, 
+dc1,b'Windows Server 2022 Standard 20348',huntress,microsoft-ad,sentinelone
+dc2,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad,sentinelone
+diskstation, , ,microsoft-ad, 
+indexergx4,b'Windows 10 Pro', ,microsoft-ad, 
+rdsgw,b'Windows Server 2022 Standard 20348',huntress,microsoft-ad,sentinelone
+rose-w10console,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rose-w11console,b'Windows 11 Enterprise', ,microsoft-ad, 
+rosellp-dt-01,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dt-02,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dtm-01,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dtm-02,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dtm-03,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dtm-04,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dtm-05,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dtm-06,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dtm-07,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dtm-08,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dtm-09,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dtm-10v,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dtm-12,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-dtm-13,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-02,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-04,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-05,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-06,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-07,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-08,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-09,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-10,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-11,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-13,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-14,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-16,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-17,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-21,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-22,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-23,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-24,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-25,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-26,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-27,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-28,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellp-lt-29,b'Windows 10 Enterprise 19044',huntress,microsoft-ad,sentinelone
+rosellpprobook2,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+rosew10console2,b'Windows 10 Enterprise', ,microsoft-ad, 
+rsql,b'Windows Server 2008 R2 Standard', ,microsoft-ad, 
+rsvr2,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+sshv1,b'Windows Storage Server 2016 Standard 14393',huntress, ,sentinelone
+storage, , ,microsoft-ad, 
+storageserver,b'Windows Server 2022 Standard 20348',huntress,microsoft-ad,sentinelone
+whv2,b'Windows Server 2022 Standard 20348',huntress, ,sentinelone

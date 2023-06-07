@@ -1,0 +1,463 @@
+Asset Name,OS,cb-cloud,huntress,microsoft-ad,sentinelone
+abtbtl-l00084,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+administorsmini,b'MAC OS 13.2.1',cb-cloud, , , 
+app01,b'Server 2012 R2 x64',cb-cloud, , , 
+argcl-l07467,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-09390,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-d09611,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+argcle-l00062,b'Windows 10 Pro', , ,microsoft-ad, 
+argcle-l007468,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-l05868,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-l07450,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-l07452,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+argcle-l07454,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+argcle-l07464,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+argcle-l07465,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+argcle-l07466,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-l07470,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+argcle-l07479,b'Windows 11 Pro 22621',cb-cloud,huntress,microsoft-ad,sentinelone
+argcle-l07481,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+argcle-l09020,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+argcle-l09377,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+argcle-l09380,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+argcle-l09386,b'Windows 10 Pro', , ,microsoft-ad, 
+argcle-l09387,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-l09389,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+argcle-l09403,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+argcle-l09413,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+argcle-l09414,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-l09425,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+argcle-l09426,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+argcle-l09429,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+argcle-l09473,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-l09518,b'Windows 10 Pro 19044',cb-cloud,huntress,microsoft-ad,sentinelone
+argcle-l09604,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+argcle-l09644,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-l09646,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-l09648,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-l09649,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-l09702,b'Windows 10 Pro 19044',cb-cloud,huntress,microsoft-ad,sentinelone
+argcle-l09716,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+argcle-l09723,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+argcle-l09724,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+argcle-l09725,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-ll09416,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+argcle-m09456,b'OS X 12.6 (21G115)', , , ,sentinelone
+argpar-l09721,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+azdevads01,b'Windows Server 2019 x64',cb-cloud, , , 
+azdevbw01,b'Windows Server 2019 x64',cb-cloud, , , 
+azdeverp01,b'Windows Server 2019 x64',cb-cloud, , , 
+azdevpi01,b'Windows Server 2019 x64',cb-cloud, , , 
+azqaads01,b'Windows Server 2019 x64',cb-cloud, , , 
+azqabw01,b'Windows Server 2019 x64',cb-cloud, , , 
+azqaerp01,b'Windows Server 2019 x64',cb-cloud, , , 
+azqapi01,b'Windows Server 2019 x64',cb-cloud, , , 
+c108-01,b'Windows 10 x64',cb-cloud, , , 
+c108-02,b'Windows 10 x64',cb-cloud, , , 
+cgiagdb01,b'Windows Server 2008 R2 Enterprise  7601 SP1', , ,microsoft-ad,sentinelone
+cgiex01,b'Windows Server 2008 R2 Enterprise  7601 SP1', , ,microsoft-ad,sentinelone
+cgiex02,b'Windows Server 2008 R2 Enterprise  7601 SP1', , ,microsoft-ad,sentinelone
+cgiex03,b'Windows Server 2008 R2 Enterprise  7601 SP1', , ,microsoft-ad,sentinelone
+cgilpapp01,b'Windows Server 2008 R2 Enterprise  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+cgilpdbprod01,b'Windows Server 2008 R2 Enterprise  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+cgilpintel01,b'Windows Server 2008 R2 Enterprise',cb-cloud, ,microsoft-ad, 
+cgiproxy01,b'Windows Server 2008 R2 Standard',cb-cloud, ,microsoft-ad, 
+cgisa01,b'Windows Server 2003',cb-cloud, ,microsoft-ad, 
+cgisql02,b'Windows Server 2008 R2 Standard',cb-cloud, ,microsoft-ad, 
+cgivmajbpf01,b'Windows Server 2008 R2 Standard', , ,microsoft-ad, 
+cgivmajbpf02,b'Windows Server 2008 R2 Standard',cb-cloud, ,microsoft-ad, 
+cgivmapp_prod,b'Windows Server 2008 R2 Standard',cb-cloud, ,microsoft-ad, 
+cgivmapp_test,b'Windows Server 2008 R2 Standard  7601 SP1', , ,microsoft-ad,sentinelone
+cgivmcrystal01,b'Windows Server 2008 R2 Standard',cb-cloud, ,microsoft-ad, 
+cgivmeis01,b'Windows Server 2008 R2 Standard  7601 SP1', ,huntress,microsoft-ad,sentinelone
+cgivmspacepro,b'Windows 2000 Server', , ,microsoft-ad, 
+cgivmsql03,b'Windows Server 2012 R2 Standard 9600', ,huntress,microsoft-ad,sentinelone
+cgixcapp01,b'Windows Server 2003', , ,microsoft-ad, 
+cgixcdb01,b'Windows Server 2003',cb-cloud, ,microsoft-ad, 
+cgixlapp01,b'Windows Server 2003',cb-cloud, ,microsoft-ad, 
+citrix01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , , 
+citrix02,b'Server 2008 R2 x64 SP: 1',cb-cloud, , , 
+citrix03,b'Server 2008 R2 x64 SP: 1',cb-cloud, , , 
+citrix05,b'Server 2008 R2 x64 SP: 1',cb-cloud, , , 
+cldc01,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+cmkpos-d09485,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+comarkrdp,b'Server 2008 R2 x64 SP: 1',cb-cloud, , , 
+d011-bu01,b'Windows Server 2019 x64',cb-cloud, , , 
+d011-fp01,b'Server 2012 R2 x64',cb-cloud, , , 
+dc1,b'Windows Server 2019 x64',cb-cloud, , , 
+desktop-1ankh48,b'Windows 11 x64',cb-cloud, , , 
+desktop-a2s8gv7,b'Windows 11 x64',cb-cloud, , , 
+desktop-vj08e3n,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+drs01-rras01,b'Server 2012 R2 x64',cb-cloud, , , 
+fsintra2,b'Windows Server 2003',cb-cloud, ,microsoft-ad, 
+h603-bu01,b'Server 2012 R2 x64',cb-cloud, , , 
+h603-lt041,b'Windows 10 x64',cb-cloud, , , 
+h603-lt061,b'Windows 10 x64',cb-cloud, , , 
+h603-lt085,b'Windows 10 x64',cb-cloud, , , 
+h603-lt111,b'Windows 10 x64',cb-cloud, , , 
+h603-lt115,b'Windows 10 x64',cb-cloud, , , 
+h603-lt116,b'Windows 10 x64',cb-cloud, , , 
+h603-lt153,b'Windows 10 x64',cb-cloud, , , 
+h603-lt156,b'Windows 10 x64',cb-cloud, , , 
+h603-lt157,b'Windows 10 x64',cb-cloud, , , 
+ho-reporting1,b'Windows 7 x64 SP: 1',cb-cloud, , , 
+ho-reporting2,b'Windows 7 x64 SP: 1',cb-cloud, , , 
+ho-reporting3,b'Windows 7 x64 SP: 1',cb-cloud, , , 
+ho-reporting4,b'Windows 7 x64 SP: 1',cb-cloud, , , 
+hodc3,b'Server 2008 R2 x64 SP: 1',cb-cloud, , , 
+horizon1,b'Windows Server 2019 Standard 17763',cb-cloud,huntress,microsoft-ad,sentinelone
+horizonrds,b'Windows Server 2016 Standard 14393',cb-cloud,huntress,microsoft-ad,sentinelone
+it-support-mini,b'MAC OS 12.6.4',cb-cloud, , , 
+kathya129w10,b'Windows 10 x64',cb-cloud, , , 
+landesk00,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+laptop-r4bggf73,b'Windows 11 x64',cb-cloud, , , 
+laurenk158,b'MAC OS 12.6.3',cb-cloud, , , 
+leanne-jones,b'MAC OS 12.6.3',cb-cloud, , , 
+lianp,b'MAC OS X 10.15.7',cb-cloud, , , 
+lornes151w7,b'Windows 7 x64 SP: 1',cb-cloud, , , 
+louisegw10,b'Windows 10 x64',cb-cloud, , , 
+mgmtdc00,b'Windows Server 2019 x64',cb-cloud, , , 
+mil9609,b'Windows 10 Pro 17763', ,huntress,microsoft-ad,sentinelone
+milc07447,b'Windows 7 x64 SP: 1',cb-cloud, ,microsoft-ad, 
+milco7425,b'Windows 10 Pro 17763', ,huntress,microsoft-ad,sentinelone
+milco9536,b'Windows 7 Professional  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+milco9543,b'Windows 7 Professional', , ,microsoft-ad, 
+milco9549,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+milco9550,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+milco9575,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+milco9590,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+milco9603,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+milco9643,b'Windows 10 Pro 19044',cb-cloud,huntress,microsoft-ad,sentinelone
+milco9692,b'Windows 7 Professional',cb-cloud, ,microsoft-ad, 
+milco9733,b'Windows 7 Professional', , ,microsoft-ad, 
+milcodev01,b'Windows 7 Professional  7601 SP1', , ,microsoft-ad,sentinelone
+milcosa00778,b'Windows 7 Professional  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+milvmems01,b'Windows Server 2008 R2 Standard  7601 SP1',cb-cloud,huntress,microsoft-ad,sentinelone
+milvmpostest,b'Windows Server 2003', , ,microsoft-ad, 
+mpr-2016,b'Windows 10 x64',cb-cloud, , , 
+nadinel1266,b'Windows 10 x64',cb-cloud, , , 
+on100spp01,b'Windows Server 2003',cb-cloud, ,microsoft-ad, 
+on100sql01,b'Windows Server 2003',cb-cloud, ,microsoft-ad, 
+onatlasreport01,b'Windows Server 2012 R2 Standard 9600',cb-cloud,huntress,microsoft-ad,sentinelone
+onsql04,b'Windows Server 2012 R2 Standard 9600',cb-cloud,huntress,microsoft-ad,sentinelone
+onsql05,b'Windows Server 2012 R2 Standard 9600',cb-cloud,huntress,microsoft-ad,sentinelone
+ontcle-l09650,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+ontest01,b'Windows 7 Professional  7601 SP1', , ,microsoft-ad,sentinelone
+ontest03,b'Windows 7 Professional  7601 SP1', , ,microsoft-ad,sentinelone
+onutil01,b'Windows Server 2008 R2 Standard  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+onxcmkauth01,b'Windows Server 2012 R2 Standard 9600', ,huntress,microsoft-ad,sentinelone
+onxcmkauthdev01,b'Windows Server 2012 R2 Standard 9600',cb-cloud,huntress,microsoft-ad,sentinelone
+onxdc01,b'Windows Server 2019 Standard 17763',cb-cloud, ,microsoft-ad,sentinelone
+onxvmapp-prod,b'Windows Server 2019 Standard 17763', , ,microsoft-ad,sentinelone
+onxvmapp-test,b'Windows Server 2019 Standard 17763', , ,microsoft-ad,sentinelone
+parecom9762,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+parsa2022-01,b'Windows 7 Professional', ,huntress,microsoft-ad, 
+parsa2022-02,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+pay1,b'Windows 10 x64',cb-cloud, , , 
+pay3,b'Windows 11 x64',cb-cloud, , , 
+pl-purodb,b'Windows Server 2016 x64',cb-cloud, , , 
+pl-sdidb,b'Windows Server 2016 x64',cb-cloud, , , 
+pl-sdiqa,b'Windows Server 2016 x64',cb-cloud, , , 
+poslandesk02,b'Windows Server 2012 R2 Standard 9600', ,huntress,microsoft-ad,sentinelone
+prnfs01,b'Windows Server 2019 Standard 17763',cb-cloud,huntress,microsoft-ad,sentinelone
+prnutil01,b'Windows Server 2008 R2 Standard',cb-cloud, ,microsoft-ad, 
+rbcdc2022az,b'Windows Server 2022 Datacenter Azure Edition', ,huntress,microsoft-ad, 
+retaileasepcang,b'Windows XP Professional', , ,microsoft-ad, 
+sap-bi02,b'Windows Server 2019 x64',cb-cloud, , , 
+sap-bo01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , , 
+sap-crs2020,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+sap-ecc02,b'Windows Server 2019 x64',cb-cloud, , , 
+sap-pi02,b'Windows Server 2019 x64',cb-cloud, , , 
+sap-solman03,b'Windows Server 2016 x64',cb-cloud, , , 
+sql01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , , 
+vadc2,b'Server 2008 R2 x64 SP: 1',cb-cloud, , , 
+vanap007,b'Windows 10 x64',cb-cloud, , , 
+vanap09563,b'Windows 10 x64',cb-cloud, , , 
+vanbdl00630,b'Windows 7 x64 SP: 1',cb-cloud, ,microsoft-ad, 
+vanbt00520,b'Windows 10 Pro 19042', ,huntress,microsoft-ad,sentinelone
+vanbt00629,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+vanbt00654,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+vanbt00664,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+vanbt00669,b'Windows 10 Pro 17763', ,huntress,microsoft-ad,sentinelone
+vanbt00678,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+vanbt07389,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+vanbtbdl00532,b'Windows 7 Professional  7601 SP1', , ,microsoft-ad,sentinelone
+vanbtl00585,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+vanbtl00590,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+vanbtl00592,b'Windows 10 Pro 17763', ,huntress,microsoft-ad,sentinelone
+vanbtl00594,b'Windows 7 Professional  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+vanbtl00619,b'Windows 7 Professional',cb-cloud, ,microsoft-ad, 
+vanbtl00626,b'Windows 7 Professional',cb-cloud, ,microsoft-ad, 
+vanbtl00656,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+vanbtl540,b'Windows 7 Professional', ,huntress,microsoft-ad, 
+vanbtlbdl-l00089,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+vanbtlbdl541,b'Windows 7 Professional  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+vanbtm00531,b'MAC OS X 10.15.7',cb-cloud, ,microsoft-ad, 
+vanbtm06389,b'MAC OS 12.6.3',cb-cloud, , , 
+vanbtm07375p,b'MAC OS X 10.15.7',cb-cloud, , , 
+vancmk-l00070,b'Windows 10 Pro', , ,microsoft-ad, 
+vancmk-l00074,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+vanpar-l00063,b'Windows 10 Pro', , ,microsoft-ad, 
+vdc-app02,b'Server 2008 R2 x64 SP: 1',cb-cloud, , , 
+vdc-app03,b'Server 2008 R2 x64 SP: 1',cb-cloud, , , 
+vdc-rras02,b'Server 2012 R2 x64',cb-cloud, , , 
+vdc-veeam01,b'Server 2012 R2 x64',cb-cloud, , , 
+vdc-wp01,b'Server 2012 R2 x64',cb-cloud, , , 
+w601-lt021,b'Windows 10 x64',cb-cloud, , , 
+w601-lt066,b'Windows 10 x64',cb-cloud, , , 
+w601-lt069,b'Windows 10 x64',cb-cloud, , , 
+w601-lt070,b'Windows 10 x64',cb-cloud, , , 
+w601-lt071,b'Windows 10 x64',cb-cloud, , , 
+w601-lt072,b'Windows 10 x64',cb-cloud, , , 
+w601-lt073,b'Windows 10 x64',cb-cloud, , , 
+w601-lt077,b'Windows 10 x64',cb-cloud, , , 
+w601-lt078,b'Windows 10 x64',cb-cloud, , , 
+w601-lt079,b'Windows 10 x64',cb-cloud, , , 
+w601-lt080,b'Windows 10 x64',cb-cloud, , , 
+w601-lt081,b'Windows 10 x64',cb-cloud, , , 
+w601-lt082,b'Windows 10 x64',cb-cloud, , , 
+w601-lt084,b'Windows 10 x64',cb-cloud, , , 
+w602-ccserver,b'Windows 7 x64 SP: 1',cb-cloud, , , 
+w605-lt014,b'Windows 10 x64',cb-cloud, , , 
+w605-lt118,b'Windows 10 x64',cb-cloud, , , 
+w605-mgr-daio,b'Windows 7 x64 SP: 1',cb-cloud, , , 
+wfhd0013,b'Windows 10 x64',cb-cloud, , , 
+wh1-so-vbp,b'Server 2012 R2 x64',cb-cloud, , , 
+wh1bb16,b'Windows Server 2016 x64',cb-cloud, , , 
+wh1ex2016,b'Windows Server 2016 x64',cb-cloud, , , 
+wh1fs02,b'Server 2012 R2 x64',cb-cloud, , , 
+wh1scc1,b'Server 2012 R2 x64',cb-cloud, , , 
+wh1scc2,b'Server 2012 R2 x64',cb-cloud, , , 
+wh1w7vm2,b'Windows 7 x86 SP: 1',cb-cloud, , , 
+win-bc1961astbc,b'Server 2012 R2 x64',cb-cloud, , , 
+win-ep99h134c9f,b'Windows Server 2012 R2 Standard', , ,microsoft-ad, 
+wpg-atlas-ts,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+wpg-atlas-ts2,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+wpgbcr11-d09508,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgbcr12-d00560,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgbcr14-d00046,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgbcr16-d05668,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgbcr18-d00090,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgbcr20-d05661,b'Windows 10 Pro 19045',cb-cloud, ,microsoft-ad,sentinelone
+wpgbcr21-d09492,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgbcr22-d09576,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgbcr5-d07264,b'Windows 10 Pro', , ,microsoft-ad, 
+wpgcl9562,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgcl9730,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgcmk-d00060,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgcmk-d00064,b'Windows 10 Pro 19045',cb-cloud, ,microsoft-ad,sentinelone
+wpgcmk-d00092,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+wpgcmk-d09438,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgcmk-d09440,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+wpgcmk-d09457,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgcmk-d09494,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgcmk-l00050,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgcmk-l00061,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+wpgcmk-l00080,b'Windows 10 Pro', , ,microsoft-ad, 
+wpgcmk-l00081,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgcmk-l00083,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgcmkcsr56,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgcmkhdesk08,b'Windows 7 Professional  7601 SP1', , ,microsoft-ad,sentinelone
+wpgcmkhdesk20,b'Windows 7 Professional',cb-cloud,huntress,microsoft-ad, 
+wpgcmkhdmgr,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+wpgcsr-l00659,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgdc01,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+wpgex2016,b'Windows Server 2016 Standard 14393', ,huntress,microsoft-ad,sentinelone
+wpgmail,b'Windows Server 2012 R2 Standard',cb-cloud,huntress,microsoft-ad, 
+wpgpar-07471,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-09497,b'Windows 11 Pro 22000', , ,microsoft-ad,sentinelone
+wpgpar-d00029,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-d00071,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d00078,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d00504,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+wpgpar-d05673,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-d05676,b'Windows 10 Pro',cb-cloud, ,microsoft-ad, 
+wpgpar-d05678,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-d05704,b'Windows 10 x64',cb-cloud, , , 
+wpgpar-d05706,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d05737,b'Windows 10 x64',cb-cloud, , , 
+wpgpar-d05795,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d05870,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d05871,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d05872,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d07190,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-d07263,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d07268,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d07342,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d07345,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+wpgpar-d07472,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-d07483,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d09430,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d09490,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+wpgpar-d09511,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d09520,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-d09579,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d09599,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-d09689,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-d09690,b'MAC OS 12.6.3',cb-cloud, , , 
+wpgpar-d09736,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l00045,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l00049,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l00076,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+wpgpar-l00094,b'Windows 10 Pro', , ,microsoft-ad, 
+wpgpar-l00095,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+wpgpar-l00538,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l00615,b'Windows 10 Pro', , ,microsoft-ad, 
+wpgpar-l00626,b'Windows 10 Pro', , ,microsoft-ad, 
+wpgpar-l05875,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+wpgpar-l07316a,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-l07320,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l07445,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-l07474,b'Windows 10 Pro 19044', , ,microsoft-ad,sentinelone
+wpgpar-l07475,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l07476,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-l07477,b'Windows 10 x64',cb-cloud, , , 
+wpgpar-l07480,b'Windows 11 x64',cb-cloud, , , 
+wpgpar-l07484,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone
+wpgpar-l07488,b'Windows 10 x64',cb-cloud, , , 
+wpgpar-l09378,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+wpgpar-l09398,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09402,b'Windows 10 x64',cb-cloud, , , 
+wpgpar-l09404,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09405,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09406,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09407,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09408,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+wpgpar-l09410,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+wpgpar-l09411,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09417,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09419,b'Windows 10 Pro 19044',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-l09423,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+wpgpar-l09424,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09427,b'Windows 10 Pro 19044',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-l09428,b'Windows 10 Pro 19044',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-l09429,b'Windows 10 Pro', , ,microsoft-ad, 
+wpgpar-l09432,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09434,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09436,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-l09442,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09444,b'Windows 10 Pro 19044',cb-cloud, ,microsoft-ad,sentinelone
+wpgpar-l09445,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-l09446,b'Windows 10 x64',cb-cloud, , , 
+wpgpar-l09447,b'Windows 10 x64',cb-cloud, , , 
+wpgpar-l09449,b'Windows 10 x64',cb-cloud, , , 
+wpgpar-l09450,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+wpgpar-l09466,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+wpgpar-l09476,b'MAC OS 13.2.1',cb-cloud, , , 
+wpgpar-l09477,b'MAC OS X 10.15.7',cb-cloud, , , 
+wpgpar-l09478,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09481,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+wpgpar-l09493,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+wpgpar-l09517,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+wpgpar-l09519,b'Windows 11 x64',cb-cloud, , , 
+wpgpar-l09533,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09543,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09552,b'Windows 10 Pro',cb-cloud, ,microsoft-ad, 
+wpgpar-l09553,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09683,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09684,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09685,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09686,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+wpgpar-l09687,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09691,b'Windows 10 x64',cb-cloud, , , 
+wpgpar-l09695,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-l09696,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09698,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09700,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09701,b'Windows 10 Pro 19044',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-l09703,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09704,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09707,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09710,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09711,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar-l09712,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+wpgpar-l09713,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+wpgpar-l09714,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09715,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09751,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar-l09760,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+wpgpar0016,b'Windows 7 Professional',cb-cloud, ,microsoft-ad, 
+wpgpar05613,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+wpgpar05614,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+wpgpar0773,b'Windows 7 Professional  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+wpgpar09469,b'Windows 10 Pro 19044',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgpar5615,b'Windows 7 Professional', ,huntress,microsoft-ad, 
+wpgpar5636,b'Windows 7 x64 SP: 1',cb-cloud, ,microsoft-ad, 
+wpgpar5640,b'Windows 7 x64 SP: 1',cb-cloud, ,microsoft-ad, 
+wpgpar5763,b'Windows 7 Professional  7601 SP1', , ,microsoft-ad,sentinelone
+wpgpar5783,b'Windows 7 Professional  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+wpgpar5793,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+wpgpar5805,b'Windows 7 Professional  7601 SP1', , ,microsoft-ad,sentinelone
+wpgpar5833,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+wpgpar5834,b'Windows 7 Professional  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+wpgpar5873,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+wpgpar6417,b'Windows 7 Professional  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+wpgpar7187,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+wpgpar7246,b'Windows 7 x64 SP: 1',cb-cloud, ,microsoft-ad, 
+wpgpar7287,b'Windows 7 Professional', ,huntress,microsoft-ad, 
+wpgpar7331,b'Windows 10 Pro 17763', ,huntress,microsoft-ad,sentinelone
+wpgpar7335,b'Windows 7 Professional  7601 SP1', , ,microsoft-ad,sentinelone
+wpgpar7336,b'Windows 7 Professional', , ,microsoft-ad, 
+wpgpar7355,b'Windows 10 Pro 17763', ,huntress,microsoft-ad,sentinelone
+wpgpar7359,b'Windows 7 x64 SP: 1',cb-cloud, ,microsoft-ad, 
+wpgpar7407,b'Windows 7 Professional  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+wpgpar7408,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+wpgpar7410,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+wpgpar7494,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+wpgpar9501,b'Windows 10 x64',cb-cloud, ,microsoft-ad, 
+wpgpar9527,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgpar9585,b'Windows 7 x64 SP: 1',cb-cloud, ,microsoft-ad, 
+wpgpar9586,b'Windows 7 Professional  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+wpgpar9672,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+wpgpar9681,b'Windows 7 Professional  7601 SP1', , ,microsoft-ad,sentinelone
+wpgpar9765,b'Windows 7 Professional',cb-cloud, ,microsoft-ad, 
+wpgparutil02,b'Windows Server 2019 Standard 17763',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgparutil03,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+wpgparutil04,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+wpgri-l09396,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone
+wpgri-l09400,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone
+wpgri-l09409,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgri00671,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgri05859,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgri09515,b'Windows 10 x64',cb-cloud, ,microsoft-ad, 
+wpgri5667,b'Windows 10 Pro 17763',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgri5670,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgri5678,b'MAC OS 13.2.1',cb-cloud, , , 
+wpgri5765,b'Windows 7 Professional', , ,microsoft-ad, 
+wpgri5766,b'Windows 7 Professional',cb-cloud, ,microsoft-ad, 
+wpgri5770,b'Windows 7 Professional  7601 SP1',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgri5835,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+wpgri5836,b'MAC OS 13.3.1',cb-cloud, ,microsoft-ad, 
+wpgri5838,b'Windows 10 Pro 17763', ,huntress,microsoft-ad,sentinelone
+wpgri5850,b'Windows 10 Pro 17763',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgri5854,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgri5855,b'Windows 10 Pro 17763', ,huntress,microsoft-ad,sentinelone
+wpgri5856,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgri5861,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wpgri5862,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgri5863,b'Windows 10 Pro 17763', ,huntress,microsoft-ad,sentinelone
+wpgri5867,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgri5876,b'Windows 10 Pro 19045',cb-cloud,huntress,microsoft-ad,sentinelone
+wpgri9464,b'MAC OS 13.2.1',cb-cloud, ,microsoft-ad, 
+wpgri9502,b'Windows 10 x64',cb-cloud,huntress,microsoft-ad, 
+wpgri9507,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgri9669,b'Windows 10 Pro 17763', ,huntress,microsoft-ad,sentinelone
+wpgribdl21,b'Windows 7 x64 SP: 1',cb-cloud, ,microsoft-ad, 
+wpgribdl22,b'Windows 7 Professional  7601 SP1',cb-cloud, ,microsoft-ad,sentinelone
+wpgribdl23,b'Windows 7 Professional',cb-cloud, ,microsoft-ad, 
+wpgribdl27,b'Windows 7 x64 SP: 1',cb-cloud, ,microsoft-ad, 
+wpgribuying1,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wpgribuylap35,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+wpgribuylap36,b'Windows 7 Professional', , ,microsoft-ad, 
+wpgribuypc38,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+wpgriecomtest5,b'Windows 7 Professional',cb-cloud, ,microsoft-ad, 
+wpgriplan12,b'Windows 7 Professional  7601 SP1', , ,microsoft-ad,sentinelone
+wpgriplanlap08,b'Windows 10 Pro',cb-cloud,huntress,microsoft-ad, 
+wpgriplanlap13,b'Windows 7 x64 SP: 1',cb-cloud, ,microsoft-ad, 
+wpgriplanlap15,b'Windows 10 Pro 17763', ,huntress,microsoft-ad,sentinelone
+wpgriship1,b'Windows 7 Professional  7601 SP1', , ,microsoft-ad,sentinelone
+wpgrisourc5,b'Windows 7 Professional',cb-cloud, ,microsoft-ad, 
+wpgwhms02,b'Windows Server 2012 R2 Standard 9600', ,huntress,microsoft-ad,sentinelone
+wpgwhms02_test,b'Windows Server 2012 R2 Standard 9600', ,huntress,microsoft-ad,sentinelone
+wpgwhms02_test2,b'Windows Server 2019 Standard', ,huntress,microsoft-ad, 
+wpgwsus,b'Windows Server 2012 R2 Standard 9600', ,huntress,microsoft-ad,sentinelone

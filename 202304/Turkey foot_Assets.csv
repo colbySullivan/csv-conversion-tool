@@ -1,0 +1,111 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+agclass,b'Windows 10 Pro', ,huntress,microsoft-ad,sentinelone
+allisons-macbook-air,b'OS X 10.13.6 (17G14042)', , , ,sentinelone
+alyssasmith,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ayounkin,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+barlow,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+bfreese,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+bgarland,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+brennabarsic,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+bstempora,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cshilk,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+daniels,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-2p349lf,b'Windows 10 Pro 19044',cybercns-sec-vm, , ,sentinelone
+desktop-53f239b,b'Windows 11 Pro 22621',cybercns-sec-vm, , ,sentinelone
+desktop-6imvobp,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-80n5cea,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-8mdidjr,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-aoe9udr,b'Windows 10 Education 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-d7bhmfo,b'Windows 10 Pro 19045',cybercns-sec-vm, , ,sentinelone
+desktop-lm5vjt5,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+desktop-o4dk23h,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-odiaoc3,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-phv9n15,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-pvcvpca,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-sni5dmd,b'Windows 10 Pro 19044',cybercns-sec-vm, ,microsoft-ad,sentinelone
+desktop-ss3r6uk,b'Windows 10 Home 19045',cybercns-sec-vm,huntress, ,sentinelone
+desktop-tfghnhh,b'Windows 11 Home 22621', , , ,sentinelone
+gary112,b'Windows 10 Pro', , ,microsoft-ad, 
+hoover320,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+imac,b'OS X 12.3.1 (21E258)', , , ,sentinelone
+iu8-13594l,b'Windows 10 Pro',cybercns-sec-vm, , , 
+iu8-13594l,b'Windows 10 Pro 19045', , , ,sentinelone
+jbower,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+joannanieves,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+kathys-imac,b'OS X 12.3.1 (21E258)', , , ,sentinelone
+kreger-pc,b'Windows 7 Professional', ,huntress,microsoft-ad, 
+ksmiths-imac,b'OS X 12.6.5 (21G531)', , , ,sentinelone
+laptop-2rj37i7q,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-3nhkdo5p,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-3vhir4a5,b'Windows 10 Pro 19044',cybercns-sec-vm, ,microsoft-ad,sentinelone
+laptop-47hrsnlu,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-4vnk8u88,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-570dp4pj,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-5s6cvogi,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-6vurmsqp,b'Windows 10 19043', , ,microsoft-ad,sentinelone
+laptop-814mgkeo,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-9jhorcgk,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-a9pk9i4b,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-aca1qn98,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-ad,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+laptop-b9319p2s,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-bnmdoh8o,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-clq85nf3,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-ejp1dr5g,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-eoptf6ou,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-fegkqcnp,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-get57at4,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+laptop-lqqojfc0,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-ngsb4tf1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-o7gmt6po,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-of4mjb3m,b'Windows 11 Home 22621',cybercns-sec-vm,huntress, ,sentinelone
+laptop-ou2qa7af,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-qelutrs0,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+laptop-sd8b7ohn,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-suil7c43,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+librarypc,b'Windows XP Professional', , ,microsoft-ad, 
+linettewagner,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+mikekreger,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mollymcclure,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nucw10trsk,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+rhooverlaptop,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+smiths-imac-9,b'Mac OS X', , ,microsoft-ad, 
+tfafsrv3,b'Windows Server 2016 Standard', ,huntress,microsoft-ad, 
+tfnb1,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+tfw10nucsm,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tfw7labe,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tfw7labg,b'Windows 7 Professional  7601 SP1', , ,microsoft-ad,sentinelone
+tfw7labmm,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tfw7labnn,b'Windows 10 Pro', , ,microsoft-ad, 
+tfw7labzc,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+truskey,b'Windows 7 Professional', ,huntress,microsoft-ad, 
+tvasdbackup01,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasddc01,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+tvasdfacl001,b'Windows 10 Education 19044', , ,microsoft-ad,sentinelone
+tvasdfacl002,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl003,b'Windows 10 Education', , ,microsoft-ad, 
+tvasdfacl004,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl005,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl007,b'Windows 10 Education', , ,microsoft-ad, 
+tvasdfacl008,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl009,b'Windows 10 Education 19044', , ,microsoft-ad,sentinelone
+tvasdfacl010,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl011,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl013,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl014,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl015,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl016,b'Windows 10 Education 19044',cybercns-sec-vm, ,microsoft-ad,sentinelone
+tvasdfacl022,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl024,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl025,b'Windows 10 Education 19044', ,huntress,microsoft-ad,sentinelone
+tvasdfacl026,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl027,b'Windows 11 Education 22621',cybercns-sec-vm, ,microsoft-ad,sentinelone
+tvasdfacl028,b'Windows 10 Education 19044', , ,microsoft-ad,sentinelone
+tvasdfacl029,b'Windows 10 Education 19044', , ,microsoft-ad,sentinelone
+tvasdfacl030,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl031,b'Windows 11 Education 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl032,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl033,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tvasdfacl034,b'Windows 10 Education 19044', , ,microsoft-ad,sentinelone
+tvasdfacl035,b'Windows 10 Education 19044', , ,microsoft-ad,sentinelone
+tvasdstaff01,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone

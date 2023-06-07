@@ -1,0 +1,340 @@
+Asset Name,OS,azure-ad,cb-cloud,kaseya-vsa,microsoft-ad,sentinelone
+avroom,b'Windows 10 Pro 19044', , , , ,sentinelone
+backupnas,b'Windows Server 2019 Standard 17763', , , ,microsoft-ad,sentinelone
+bhtesting2,b'Windows 10 Pro 19045', , , , ,sentinelone
+bmanas,b'Windows Server 2019 Standard 17763', , , ,microsoft-ad,sentinelone
+dc1,b'Windows Server 2019 Standard 17763', , , ,microsoft-ad,sentinelone
+dc2,b'Windows Server 2019 Standard 17763', , , ,microsoft-ad,sentinelone
+dc3,b'Windows Server 2019 Standard 17763', , , ,microsoft-ad,sentinelone
+dentrix2,b'Windows Server 2019 Standard 17763', , , ,microsoft-ad,sentinelone
+dmangold,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+dvr1,b'Windows 10 Pro 18363', , , , ,sentinelone
+hc-1vdlkl3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-235yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-2f6yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-355yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-3sdlkl3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-415yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-505yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-525yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-545yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-5g6yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-5m6yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-725yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-765yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-7sdlkl3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-7y4yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-8b6yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-8k6yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-9sdlkl3,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+hc-b25yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-bpmrgs3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-bsdlkl3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-d15yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-dc6yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-f15yql3,b'Windows 10 Pro', , , ,microsoft-ad, 
+hc-f35yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-ff6yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-gf6yql3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hc-gtdlkl3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc-ad01,b'Windows Server 2012 R2 Datacenter', , , ,microsoft-ad, 
+hcc-app04,b'Windows Server 2019 Datacenter', , , ,microsoft-ad, 
+hcc-app05,b'Windows Server 2019 Datacenter', , , ,microsoft-ad, 
+hcc-app06,b'Windows Server 2019 Datacenter', , , ,microsoft-ad, 
+hcc-app07,b'Windows Server 2019 Datacenter', , , ,microsoft-ad, 
+hcc-app09,b'Windows Server 2019 Datacenter', , , ,microsoft-ad, 
+hcc-app2019,b'Windows Server 2019 Datacenter', , , ,microsoft-ad, 
+hcc-apptest02,b'Windows Server 2019 Datacenter', , , ,microsoft-ad, 
+hcc-ddcsf03,b'Windows Server 2016 Datacenter', , , ,microsoft-ad, 
+hcc-dts01,b'Windows Server 2012 R2 Datacenter', , , ,microsoft-ad, 
+hcc-jboss02,b'Windows Server 2019 Datacenter', , , ,microsoft-ad, 
+hcc-smpp,b'Windows Server 2016 Datacenter', , , ,microsoft-ad, 
+hcc-sql02,b'Windows Server 2019 Datacenter', , , ,microsoft-ad, 
+hcc-util01,b'Windows Server 2016 Datacenter', , , ,microsoft-ad, 
+hcc-util02,b'Windows Server 2016 Datacenter', , , ,microsoft-ad, 
+hcc-vsc,b'Windows Server 2016 Datacenter', , , ,microsoft-ad, 
+hcc010620mx,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc011020a,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+hcc020618bx,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc020620ax,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc020620bx,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc030620ax,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+hcc032118ax,b'Windows 10 Pro', , , ,microsoft-ad, 
+hcc050620ax,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc050620cx,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc050620dx,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+hcc053120bx,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+hcc062817bx,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+hcc070820x,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+hcc080620ax,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc080620bx,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+hcc080620cx,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+hcc080620dx,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc090620ax,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc090620bx,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc110820bx,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc120820ax,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+hcc120820bx,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+hcc150620ax,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc290520ax,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc30052020l,b'Windows 10 Pro', , , ,microsoft-ad, 
+hcc30052020nx,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc300520jx,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+hcc300520rx,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hcc310520vx,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+hcc310620wx,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hccdental1,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hccdental2,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+hccdental3,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+intersect,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+jaysdesktop,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+kh012329ax,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+kh020620cx,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+kh020620ex,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+kh071717ax,b'Windows 10 Pro', , , ,microsoft-ad, 
+mes,b'Windows Server 2019 Standard 17763', , , , ,sentinelone
+mthompson,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+netmon,b'Windows Server 2019 Standard 17763', , , ,microsoft-ad,sentinelone
+nshdsecurity,b'Windows 7 Enterprise  7601 SP1', , , , ,sentinelone
+nst,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+paperp,b'Windows Server 2019 Standard 17763', , , ,microsoft-ad,sentinelone
+pfsl000001,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000002,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000003,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000004,b'Windows 10 Enterprise 19044', , , ,microsoft-ad,sentinelone
+pfsl000007,b'Windows 10 Enterprise 19044', , , ,microsoft-ad,sentinelone
+pfsl000012,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000015,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000016,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000017,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000018,b'Windows 10 Pro', , , ,microsoft-ad, 
+pfsl000020,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000021,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000023,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000024,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000026,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000027,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000031,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000032,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000033,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000035,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000036,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000037,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000039,b'Windows 10 Pro 19042', , , ,microsoft-ad,sentinelone
+pfsl000040,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000041,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000044,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000049,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000055,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000056,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000057,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000060,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000061,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000065,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000068,b'Windows 10 Enterprise 19044', , , ,microsoft-ad,sentinelone
+pfsl000069,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000070,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000071,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000072,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000074,b'Windows 10 Enterprise 19045', , , ,microsoft-ad,sentinelone
+pfsl000075,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000076,b'Windows 10 Enterprise 19045', , , ,microsoft-ad,sentinelone
+pfsl000077,b'Windows 10 Enterprise 19045', , , ,microsoft-ad,sentinelone
+pfsl000081,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000083,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000085,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000087,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000088,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000092,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000093,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000094,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000095,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000097,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000099,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000104,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000108,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000109,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000114,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000116,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000117,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000118,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000122,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000123,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000125,b'Windows 10 Pro 19043', , , ,microsoft-ad,sentinelone
+pfsl000126,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000128,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000132,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000134,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000138,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000139,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000140,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000141,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000143,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000145,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000147,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000148,b'Windows 10 Pro', , , ,microsoft-ad, 
+pfsl000149,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000154,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000156,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000157,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000160,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000162,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000164,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000166,b'Windows 10 Pro 19042', , , ,microsoft-ad,sentinelone
+pfsl000168,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000170,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000171,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000172,b'Windows 10 Pro', , , ,microsoft-ad, 
+pfsl000173,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000183,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000187,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000188,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000196,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000197,b'Windows 10 Pro 18363', ,cb-cloud, ,microsoft-ad,sentinelone
+pfsl000202,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000205,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000209,b'Windows 10 Pro', , , ,microsoft-ad, 
+pfsl000216,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000221,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000222,b'Windows 10 Pro 19042', , , ,microsoft-ad,sentinelone
+pfsl000223,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000224,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000225,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000226,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000227,b'Windows 10 Enterprise 18363', , , ,microsoft-ad,sentinelone
+pfsl000228,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000230,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000231,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000232,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000233,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000234,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000235,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000236,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000237,b'Windows 11 Pro 22000', , , ,microsoft-ad,sentinelone
+pfsl000238,b'Windows 10 Pro 18363', , , ,microsoft-ad,sentinelone
+pfsl000240,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000241,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000243,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000246,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000247,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000249,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000250,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000251,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000253,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000254,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000257,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000258,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000259,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000261,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000262,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000276,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000277,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000280,b'Windows 10 Pro', , , ,microsoft-ad, 
+pfsl000281,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000282,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000290,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000292,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000293,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000294,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000297,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000298,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000299,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000300,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000301,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000302,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000307,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000309,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000310,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000311,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000312,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000313,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000314,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000315,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000316,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000317,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000318,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000319,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000322,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000324,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000327,b'Windows 10 Pro 19042', , , ,microsoft-ad,sentinelone
+pfsl000328,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000329,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000330,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000331,b'Windows 10 Pro 19044', , , , ,sentinelone
+pfsl000332,b'Windows 11 Pro 22621', , , ,microsoft-ad,sentinelone
+pfsl000333,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000334,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000335,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000336,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000340,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000341,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000342,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000343,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000344,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000345,b'Windows 10 Pro', , , ,microsoft-ad, 
+pfsl000346,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000347,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000348,b'Windows 10 Professional x64 Edition  Build 19044', , ,kaseya-vsa,microsoft-ad,sentinelone
+pfsl000349,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000350,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000351,b'Windows 10 Pro 19042', , , ,microsoft-ad,sentinelone
+pfsl000352,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000354,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000355,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000356,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000357,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000358,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000359,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000360,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000361,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000363,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000364,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000365,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000367,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000368,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000370,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000371,b'Windows 10 Pro 19045', ,cb-cloud, ,microsoft-ad,sentinelone
+pfsl000372,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000373,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000374,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000376,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000379,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000380,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000381,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000382,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000384,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000385,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000386,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000387,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000389,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000391,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000392,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000393,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000395,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000396,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000397,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000398,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000399,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+pfsl000405,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000406,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000407,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000408,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000409,b'Windows 10 Professional x64 Edition  Build 19044', , ,kaseya-vsa,microsoft-ad,sentinelone
+pfsl000413,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000414,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000415,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+pfsl000416,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+printnas,b'Windows Server 2019 Standard 17763', , , ,microsoft-ad,sentinelone
+psfl000304,b'Windows 10 Pro', , , ,microsoft-ad, 
+sevcodc,b'Windows Server 2019 Standard 17763', , , ,microsoft-ad,sentinelone
+ubuntutest,b'pc-linux-gnu', , , ,microsoft-ad, 
+vcenter01,b'unknown', , , ,microsoft-ad, 
+vcenter02,b'unknown', , , ,microsoft-ad, 
+vfgpd001,b'Windows 10 Pro 19044', , , , ,sentinelone
+vfgpd002,b'Windows 10 Pro 19045', , , , ,sentinelone
+vfgpd003,b'Windows 10 Pro 19044', , , , ,sentinelone
+vfgpd004,b'Windows 10 Pro 19044', , , , ,sentinelone
+web,b'Windows Server 2019 Standard 17763', , , ,microsoft-ad,sentinelone
+webmon,b'Windows Server 2019 Standard 17763', , , ,microsoft-ad,sentinelone
+zoom45,b'Windows 10 IoT Enterprise 18363', , , , ,sentinelone
+zoom77,b'Windows 10 IoT Enterprise 18363', , , , ,sentinelone

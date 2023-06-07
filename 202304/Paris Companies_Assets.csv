@@ -1,0 +1,104 @@
+Asset Name,OS,cb-cloud,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+bf-1,b'Windows 11 Pro 22000',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+bf-3512,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+bf-3516,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0126,b'Windows 10 Pro 19045', ,cybercns-sec-vm, , ,sentinelone
+db-0171,b'Windows 10 Pro 19045', , , , ,sentinelone
+db-0183,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress, ,sentinelone
+db-0188,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0189,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0191,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0192,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0193,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0194,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0197,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0201,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0202,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0205,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress, ,sentinelone
+db-0207,b'Windows 11 Pro 22621',cb-cloud, ,huntress, ,sentinelone
+db-0209,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress, ,sentinelone
+db-0210,b'Microsoft Windows 10 Pro', ,cybercns-sec-vm, , , 
+db-0210,b'Windows 10 Pro 19044',cb-cloud, ,huntress, ,sentinelone
+db-0213,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm, , ,sentinelone
+db-0216,b'Windows 10 Pro 19044',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0217,b'Windows 10 Pro 19044',cb-cloud, ,huntress, ,sentinelone
+db-0227,b'Windows 11 Pro 22000',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0228,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0229,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0230,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0231,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0232,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0233,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0234,b'Microsoft Windows 10 Pro', ,cybercns-sec-vm, , , 
+db-0234,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0235,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0236,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0238,b'Microsoft Windows 10 Pro', ,cybercns-sec-vm, , , 
+db-0238,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0240,b'Microsoft Windows 10 Pro', ,cybercns-sec-vm, , , 
+db-0240,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0241,b'Microsoft Windows 10 Pro', ,cybercns-sec-vm, , , 
+db-0241,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0243,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0245,b'Microsoft Windows 10 Pro', ,cybercns-sec-vm, , , 
+db-0245,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0246,b'Microsoft Windows 10 Pro', ,cybercns-sec-vm, , , 
+db-0246,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0247,b'Microsoft Windows 10 Pro', ,cybercns-sec-vm, , , 
+db-0247,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0249,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0250,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0251,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0253,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0254,b'Windows 10 Pro 19045',cb-cloud, ,huntress, ,sentinelone
+db-0257,b'Windows 11 Pro 22621',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0262,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0263,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0264,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0266,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0272,b'Windows 10 Pro 19044',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0274,b'Windows 10 Pro 19044',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0276,b'Windows 10 Pro 19044',cb-cloud, ,huntress, ,sentinelone
+db-0277,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0278,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0279,b'Windows 10 Pro 19044',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-0282,b'Windows 10 Pro 19044', , , , ,sentinelone
+db-2062,b'Windows 11 Pro 22000', ,cybercns-sec-vm,huntress, ,sentinelone
+db-2547,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress, ,sentinelone
+db-2800,b'Windows 11 Pro 22621',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-2801,b'Windows 11 Pro 22621',cb-cloud, ,huntress, ,sentinelone
+db-doug,b'Windows 11 Pro', , ,huntress, , 
+db-dslt,b'Windows 11 Pro 22621', ,cybercns-sec-vm,huntress, ,sentinelone
+db-julie,b'Windows 11 Pro 22621', , , , ,sentinelone
+db-rich,b'Windows 11 Pro 22621',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+db-tm2,b'Windows 10 x64',cb-cloud, , , , 
+hb-3513,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+hb-3514,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+hb-3518,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress, ,sentinelone
+hbg-1,b'Windows 11 Pro 22000',cb-cloud, ,huntress, ,sentinelone
+hr-0283,b'Windows 11 Pro 22621',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+it-surfacepro,b'Windows 10 Pro 19044', , , , ,sentinelone
+paris-abs1,b'Microsoft Windows Server 2012 R2 Standard', ,cybercns-sec-vm, , , 
+paris-abshost,b'Windows Server 2016 Standard 14393',cb-cloud, ,huntress, ,sentinelone
+paris-abst,b'Windows Server 2012 R2 Standard Evaluation 9600', ,cybercns-sec-vm,huntress, ,sentinelone
+paris-absthost,b'Windows Server 2012 R2 Standard 9600', ,cybercns-sec-vm, , ,sentinelone
+paris-absweb,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress, ,sentinelone
+paris-aps1,b'Windows Server 2012 R2 Standard 9600', , , , ,sentinelone
+paris-aps2,b'Windows Server 2012 R2 Standard 9600',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+paris-bi,b'Windows Server 2016 Standard 14393', , ,huntress, ,sentinelone
+paris-bihost,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress, ,sentinelone
+paris-db,b'Windows Server 2012 R2 Standard 9600', ,cybercns-sec-vm,huntress, ,sentinelone
+paris-dbhost,b'Windows Server 2016 Standard 14393',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+paris-dc,b'Windows Server 2016 Standard 14393', , , , ,sentinelone
+paris-dc01,b'Windows Server 2016 Standard 14393', , ,huntress, ,sentinelone
+paris-file,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress, ,sentinelone
+paris-host,b'Windows Server 2016 Standard 14393',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+paris-host2016,b'Windows Server 2016 Standard 14393',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+paris-host22,b'Windows Server 2022 Standard Evaluation 20348', , , , ,sentinelone
+paris-mcp,b'Windows Server 2016 Standard 14393',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+paris-ts1,b'Windows Server 2012 R2 Standard 9600', , , , ,sentinelone
+wp-3015,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+wp-3026,b'Windows 10 Pro 19045',cb-cloud,cybercns-sec-vm,huntress, ,sentinelone
+wp-inventory,b'Windows 10 Pro 19044', , ,huntress, ,sentinelone
+wp-matt,b'Windows 11 Pro 22000',cb-cloud, , , ,sentinelone
+wp-sales,b'Windows 11 Pro 22621', , , , ,sentinelone

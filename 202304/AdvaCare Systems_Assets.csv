@@ -1,0 +1,50 @@
+Asset Name,OS,huntress,microsoft-ad,sentinelone
+accounting,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+adv-addison03,b'Windows 10 Pro', ,microsoft-ad, 
+adv-addison04,b'Windows 10 Pro', ,microsoft-ad, 
+adv-billing-00,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+adv-billing-03,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+adv-billing-06,b'Windows 10 Pro', ,microsoft-ad, 
+adv-billing-07,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+adv-hr01,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+adv-hr03,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+adv-hr04-frank,b'Windows 10 Pro', ,microsoft-ad, 
+adv-it,b'Windows 11 Pro for Workstations',huntress,microsoft-ad, 
+adv-n01,b'Windows 10 Pro 19042',huntress,microsoft-ad,sentinelone
+adv-n03,b'Windows 10 Pro 18363',huntress,microsoft-ad,sentinelone
+adv-n06,b'Windows 10 Pro', ,microsoft-ad, 
+adv-n07,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+ap-01,b'Windows 10 Pro', ,microsoft-ad, 
+ap-02,b'Windows 10 Pro', ,microsoft-ad, 
+bburns-zendesk,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+cle-01,b'Windows 10 Pro', ,microsoft-ad, 
+cle-02,b'Windows 10 Pro', ,microsoft-ad, 
+cle-05,b'Windows 10 Pro', ,microsoft-ad, 
+cle-07,b'Windows 10 Pro', ,microsoft-ad, 
+cle-08,b'Windows 10 Pro', ,microsoft-ad, 
+csr-ws05,b'Windows 10 Pro',huntress, , 
+dc01,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad,sentinelone
+dc02,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad,sentinelone
+desktop-3efq6ui,b'Windows 10 Pro',huntress, , 
+exchange-00,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad,sentinelone
+it-manager,b'Windows 11 Pro for Workstations',huntress,microsoft-ad, 
+merry-disp-01,b'Windows 8.1 Pro', ,microsoft-ad, 
+merry-disp-02,b'Windows 10 Pro', ,microsoft-ad, 
+merry-disp-03,b'Windows 8.1 Pro', ,microsoft-ad, 
+mgmnt-00,b'Windows 10 Pro', ,microsoft-ad, 
+mgmnt-01,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+mgmnt-03,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+milena-lenovo,b'Windows 10 Pro 19045',huntress, ,sentinelone
+milena-vm2,b'Windows 10 Pro', ,microsoft-ad, 
+pcrogan-asus,b'Windows 10 Pro', ,microsoft-ad, 
+peo-csr02,b'Windows 8.1 Pro', ,microsoft-ad, 
+peo-csr06,b'Windows 8.1 Pro', ,microsoft-ad, 
+peo-disp-01,b'Windows 10 Pro', ,microsoft-ad, 
+peo-disp-02,b'Windows 10 Pro', ,microsoft-ad, 
+peo-warehouse02,b'Windows 10 Pro', ,microsoft-ad, 
+training-pc-tv,b'Windows 10 Pro', ,microsoft-ad, 
+usersserver,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad,sentinelone
+warehouse-01,b'Windows 10 Pro', ,microsoft-ad, 
+warehouse-03,b'Windows 10 Pro 19041',huntress,microsoft-ad,sentinelone
+warehouse-05,b'Windows 10 Pro', ,microsoft-ad, 
+webserver,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad,sentinelone

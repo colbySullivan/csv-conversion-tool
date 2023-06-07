@@ -1,0 +1,150 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+207-hs-front,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+amanda-minck-lt,b'Windows 10 Pro 19044',cybercns-sec-vm, , ,sentinelone
+cts-lap-225,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+cts-lap-315,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-4bdrdk3,b'Windows 10 Pro 19044', , , ,sentinelone
+desktop-a23o55j,b'Windows 10 Pro 19042',cybercns-sec-vm,huntress, ,sentinelone
+desktop-fmbrjd0,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+desktop-mv4qpsk,b'Windows 10 Pro Education 19043',cybercns-sec-vm,huntress, ,sentinelone
+desktop-qhjubdh,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+dt-325a,b'Windows 10 Pro Education 19043',cybercns-sec-vm,huntress, ,sentinelone
+dt-402,b'Windows 10 Pro Education 19042',cybercns-sec-vm,huntress, ,sentinelone
+dt-403,b'Windows 10 Pro Education 19043',cybercns-sec-vm,huntress, ,sentinelone
+dt-405,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+dt-410a,b'Windows 10 Pro Education 19043',cybercns-sec-vm,huntress, ,sentinelone
+dt-411,b'Windows 10 Pro Education 19043',cybercns-sec-vm,huntress, ,sentinelone
+dt-417,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+dt-dean1,b'Windows 10 Pro Education 19045',cybercns-sec-vm,huntress, ,sentinelone
+ecs-hs-ps-01,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, ,sentinelone
+ecs-ms-dc-01,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+ecs-ms-ps-01,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+ecs-ms-vs-02,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-005,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-009,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-010,b'Windows 10 Pro Education 19045',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-015,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-033,b'Windows 10 Pro Education 19044', , , ,sentinelone
+ecs1-des-035,b'Windows 10 Pro 19044', , , ,sentinelone
+ecs1-des-036,b'Windows 10 Pro Education 19044', , , ,sentinelone
+ecs1-des-041,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-043,b'Windows 10 Pro Education 19042',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-044,b'Windows 10 Pro Education 19042',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-045,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-046,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-050,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-052,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-054,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-055,b'Windows 10 Pro 19044', , , ,sentinelone
+ecs1-des-056,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-057,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-059,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-060,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-062,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-063,b'Windows 10 Pro 19043', , , ,sentinelone
+ecs1-des-064,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-065,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-066,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-067,b'Windows 10 Pro 19044', , , ,sentinelone
+ecs1-des-068,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-069,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-072,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-073,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-076,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-077,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-078,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-080,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-081,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-082,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-083,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-084,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-085,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-086,b'Windows 10 Pro Education 19044', , , ,sentinelone
+ecs1-des-092,b'Windows 10 Pro Education 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-094,b'Windows 10 Pro Education 19044', , , ,sentinelone
+ecs1-des-096,b'Windows 10 Pro Education 19044', , , ,sentinelone
+ecs1-des-097,b'Windows 10 Pro Education 19044', , , ,sentinelone
+ecs1-des-098,b'Windows 10 Pro Education 19044', , , ,sentinelone
+ecs1-des-100,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-103,b'Windows 10 Pro Education 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-108,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-109,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-110,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-111,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-115,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-116,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-des-120,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-lap-005,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-lap-006,b'Windows 10 Pro 19043',cybercns-sec-vm, , ,sentinelone
+ecs1-lap-008,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-lap-011,b'Windows 10 Home 19045', , , ,sentinelone
+ecs1-lap-012,b'Windows 10 Pro 19044', , , ,sentinelone
+ecs1-lap-019,b'Windows 10 Pro 19043', , , ,sentinelone
+ecs1-lap-022,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-lap-023,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-lap-024,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-lap-025,b'Windows 10 Pro 19043', , , ,sentinelone
+ecs1-lap-026,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-lap-027,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-lap-028,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress, ,sentinelone
+ecs1-lap-029,b'Windows 10 Pro 19045', , , ,sentinelone
+ecs2-des-014,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs2-des-027,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs2-des-030,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs2-des-037,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs2-des-045,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ecs2-lap-007,b'Windows 10 Pro 19045', , , ,sentinelone
+ecs2-lap-008,b'Windows 10 Pro Education 17134',cybercns-sec-vm,huntress, ,sentinelone
+ecs2-vsr-app01,b'Windows Server 2022 Standard Evaluation 20348', ,huntress, ,sentinelone
+fs01,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, ,sentinelone
+hs-111-fr,b'Windows 10 Pro Education 19043',cybercns-sec-vm,huntress, ,sentinelone
+hs-112front,b'Windows 10 Pro Education 19043',cybercns-sec-vm,huntress, ,sentinelone
+hs-115-fr,b'Windows 10 Pro Education 19042',cybercns-sec-vm,huntress, ,sentinelone
+hs-117-fr,b'Windows 10 Pro Education 19043',cybercns-sec-vm,huntress, ,sentinelone
+hs-201-fr,b'Windows 10 Pro Education 19043',cybercns-sec-vm,huntress, ,sentinelone
+hs-203front,b'Windows 10 Pro Education 19043',cybercns-sec-vm,huntress, ,sentinelone
+hs-204-fr,b'Windows 10 Pro Education 19043',cybercns-sec-vm,huntress, ,sentinelone
+hs-205-fr,b'Windows 10 Pro Education 19043', , , ,sentinelone
+hs-206-fr,b'Windows 10 Pro Education 19043',cybercns-sec-vm,huntress, ,sentinelone
+hs-angel,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+hs-favrolasst,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+hs-nurse,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+hspci,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+lab-a03,b'Windows 10 Pro Education 19043', , , ,sentinelone
+lab-a07,b'Windows 10 Pro Education 19043', , , ,sentinelone
+lab-a09,b'Windows 10 Pro Education 19044', , , ,sentinelone
+lab-a11,b'Windows 10 Pro Education 19043', , , ,sentinelone
+lab-a13,b'Windows 10 Pro Education 19043', , , ,sentinelone
+lab-a15,b'Windows 10 Pro Education 19043', , , ,sentinelone
+lab-a19,b'Windows 10 Pro Education 19043', , , ,sentinelone
+lab-a23,b'Windows 10 Pro Education 19043', , , ,sentinelone
+lab-b19,b'Windows 10 Pro Education 19043', , , ,sentinelone
+laptop-1d5haij5,b'Windows 10 Pro 19043', , , ,sentinelone
+laptop-6t3oromb,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+laptop-gabe,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+laptop-r2kfqi3f,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+lounge-001,b'Windows 10 Pro 19043', , , ,sentinelone
+lounge-002,b'Windows 10 Pro 19043', ,huntress, ,sentinelone
+ms-0300a,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-0300b,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-0301b,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-0301front,b'Windows 10 Pro 19044',cybercns-sec-vm, , ,sentinelone
+ms-0302a,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-0303a,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-0307,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+ms-0318a,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-0318b,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+ms-0320a,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-0320b,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-0321a,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-0348b,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-0349b,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-0350b,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-alyssa,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+ms-anil,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+ms-caitlin,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+msmain-02,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+msmain-03,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, ,sentinelone
+serverroom,b'Windows 10 Pro Education 19042',cybercns-sec-vm,huntress, ,sentinelone
+util01,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, ,sentinelone
+vs01,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, ,sentinelone

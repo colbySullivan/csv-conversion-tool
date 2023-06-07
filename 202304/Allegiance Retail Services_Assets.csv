@@ -1,0 +1,211 @@
+Asset Name,OS,huntress,microsoft-ad,sentinelone
+apate,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+ar-dc01v,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+ar-dc02v,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+ar-fp01v,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+bbmapp,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+bbmapplab,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+bbmsql,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+bbmsqllab,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+coupons,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+desktop-h855aos,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+desktop-pohc67r,b'Windows 10 Pro 19045',huntress, ,sentinelone
+desktop-q58ppjf,b'Windows 10 Pro 19045',huntress, ,sentinelone
+desktop-qn6mbvl,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+desktop-s0l9aun,b'Windows 10 Pro',huntress,microsoft-ad, 
+desktop-sj948fb,b'Windows 10 Pro 19045',huntress, ,sentinelone
+desktop-sknrukl,b'Windows 10 Pro 19044',huntress, ,sentinelone
+ft-planetpress,b'Windows 10 Pro 18362',huntress,microsoft-ad,sentinelone
+fthq03lab-1,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+fthq03new,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+fthq1,b'Windows Server 2019 Standard 17763', ,microsoft-ad,sentinelone
+fthq6,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+kmbs-test,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+laptop-hf2lq811,b'Windows 11 Pro 22000',huntress, ,sentinelone
+laptop-rmnuvma7,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+laptop-s6s5h9ga,b'Windows 11 Pro 22621',huntress, ,sentinelone
+lt-3mywgy,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-3n2mvf,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-4dsdd430,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-5djbsje,b'Windows 10 Pro 19045',huntress, ,sentinelone
+lt-mf-0fs6ay,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mf-0hemgq,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0ewcvf,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-mj-0ewcvh,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-mj-0ewd8s,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0ewda2,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0ewda3,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-mj-0ewda5,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0ewdb2,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0ewdl5,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0fs6bp,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0fsvwg,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-mj-0helgq,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0sf6bk,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-mj-ohelg6,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-mjohemgj,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pd-1df3hk,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-1319mt,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf-133lxk,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-pf-13abxm,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf-13g04k,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf-141smy,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf-141u7v,b'Windows 11 Pro',huntress,microsoft-ad, 
+lt-pf-141ycg,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-1423nr,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-pf-1423qr,b'Windows 10 Pro',huntress,microsoft-ad, 
+lt-pf-1427c1,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-142tn7,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-142tr0,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-1crun2,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf-1df55s,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf-1df66a,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-1lzxkd,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-1wajec,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-1wdvef,b'Windows 11 Pro',huntress,microsoft-ad, 
+lt-pf-232416,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-28x1am,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+lt-pf-28x1dz,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-3exeyf,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+lt-pf-3exmq2,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+lt-pf-3expyv,b'Windows 11 Pro',huntress,microsoft-ad, 
+lt-pf-3eyc8n,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+lt-pf-3eyetg,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+lt-pf-3hy4sr,b'Windows 11 Pro',huntress,microsoft-ad, 
+lt-pf-3j6bgd,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-3jbbka,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+lt-pf-3jbbve,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+lt-pf-3jcfh3,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+lt-pf-3jct19,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-3n0m38,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-3n2q2t,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+lt-pf-3v52rq,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-3v52t0,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-3zzscs,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf142x2m,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+lt-pf3jat8g,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf3tpqq4,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf3zwwzb,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf3zy4zm,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+lt-sl10q37355,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-tjgsnn2,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+pf-lt-3n0jsf,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+pf1ddr51-lt,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+phqapp1,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+phqapp2,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+phqapplab01,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+phqsql,b'Windows Server 2019 Standard 17763', , ,sentinelone
+phqsql,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+phqweb1,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+phqweb2,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+phqweblab01,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+solis,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+sp-ft-1113,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+sql-lab,b'Windows Server 2012 R2 Standard 9600', , ,sentinelone
+sql-lab01,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+surface-angel,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+apate,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+ar-dc01v,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+ar-dc02v,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+ar-fp01v,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+bbmapp,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+bbmapplab,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+bbmsql,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+bbmsqllab,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+coupons,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+desktop-h855aos,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+desktop-pohc67r,b'Windows 10 Pro 19045',huntress, ,sentinelone
+desktop-q58ppjf,b'Windows 10 Pro 19045',huntress, ,sentinelone
+desktop-qn6mbvl,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+desktop-s0l9aun,b'Windows 10 Pro',huntress,microsoft-ad, 
+desktop-sj948fb,b'Windows 10 Pro 19045',huntress, ,sentinelone
+desktop-sknrukl,b'Windows 10 Pro 19044',huntress, ,sentinelone
+ft-planetpress,b'Windows 10 Pro 18362',huntress,microsoft-ad,sentinelone
+fthq03lab-1,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+fthq03new,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+fthq1,b'Windows Server 2019 Standard 17763', ,microsoft-ad,sentinelone
+fthq6,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+kmbs-test,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+laptop-hf2lq811,b'Windows 11 Pro 22000',huntress, ,sentinelone
+laptop-rmnuvma7,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+laptop-s6s5h9ga,b'Windows 11 Pro 22621',huntress, ,sentinelone
+lt-3mywgy,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-3n2mvf,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-4dsdd430,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-5djbsje,b'Windows 10 Pro 19045',huntress, ,sentinelone
+lt-mf-0fs6ay,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mf-0hemgq,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0ewcvf,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-mj-0ewcvh,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-mj-0ewd8s,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0ewda2,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0ewda3,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-mj-0ewda5,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0ewdb2,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0ewdl5,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0fs6bp,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0fsvwg,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-mj-0helgq,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-mj-0sf6bk,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-mj-ohelg6,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-mjohemgj,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pd-1df3hk,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-1319mt,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf-133lxk,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-pf-13abxm,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf-13g04k,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf-141smy,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf-141u7v,b'Windows 11 Pro',huntress,microsoft-ad, 
+lt-pf-141ycg,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-1423nr,b'Windows 10 Pro 19043',huntress,microsoft-ad,sentinelone
+lt-pf-1423qr,b'Windows 10 Pro',huntress,microsoft-ad, 
+lt-pf-1427c1,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-142tn7,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-142tr0,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-1crun2,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf-1df55s,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf-1df66a,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-1lzxkd,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-1wajec,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-1wdvef,b'Windows 11 Pro',huntress,microsoft-ad, 
+lt-pf-232416,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-28x1am,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+lt-pf-28x1dz,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-3exeyf,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+lt-pf-3exmq2,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+lt-pf-3expyv,b'Windows 11 Pro',huntress,microsoft-ad, 
+lt-pf-3eyc8n,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+lt-pf-3eyetg,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+lt-pf-3hy4sr,b'Windows 11 Pro',huntress,microsoft-ad, 
+lt-pf-3j6bgd,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-3jbbka,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+lt-pf-3jbbve,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+lt-pf-3jcfh3,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+lt-pf-3jct19,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-3n0m38,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-3n2q2t,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+lt-pf-3v52rq,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-3v52t0,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf-3zzscs,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf142x2m,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+lt-pf3jat8g,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+lt-pf3tpqq4,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf3zwwzb,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-pf3zy4zm,b'Windows 11 Pro 22000',huntress,microsoft-ad,sentinelone
+lt-sl10q37355,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+lt-tjgsnn2,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+pf-lt-3n0jsf,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+pf1ddr51-lt,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+phqapp1,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+phqapp2,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+phqapplab01,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+phqsql,b'Windows Server 2019 Standard 17763', , ,sentinelone
+phqsql,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+phqweb1,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+phqweb2,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+phqweblab01,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+solis,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+sp-ft-1113,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+sql-lab,b'Windows Server 2012 R2 Standard 9600', , ,sentinelone
+sql-lab01,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+surface-angel,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone

@@ -1,0 +1,149 @@
+Asset Name,OS,automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+behemoth,"b'Windows, 10.0.18363.0'", ,azure-ad, , , , 
+blue03,"b'Windows, 10.0.22000.675'", ,azure-ad, , , , 
+brandonsurface,b'Windows 11 Home 22000', ,azure-ad, ,huntress, ,sentinelone
+buf-org-009,b'Windows 11 Pro', , , ,huntress, , 
+cams-macbook-air,b'OS X 13.1 (22C65)', , , ,huntress, ,sentinelone
+desktop-0f2ln3f,"b'Windows, 10.0.19043.1237'", ,azure-ad, , , , 
+desktop-9ff5ph6,"b'Windows, 10.0.18363.0'", ,azure-ad, , , , 
+desktop-haqu8r3,"b'Windows, 10.0.19043.1110'", ,azure-ad, , , , 
+desktop-md8tvdq,"b'Windows, 10.0.19042.572'", ,azure-ad, , , , 
+desktop-o799vtq,"b'Windows, 10.0.19042.1110'", ,azure-ad, , , , 
+desktop-qpg144e,"b'Windows, 10.0.22000.739'", ,azure-ad, , , , 
+desktop-vju7scr,"b'Windows, 10.0.19042.1348'", ,azure-ad, , , , 
+dmz-screen,b'Windows Server 2016 Datacenter', , , ,huntress, , 
+googlepixel 5,"b'Android, 13'", ,azure-ad, , , , 
+googlepixel 7,"b'Android, 13'", ,azure-ad, , , , 
+gs-aazevedo-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-abrennon-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-alitton-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-aschott-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-awatren-nb,b'Windows 10 Pro 10.0.19044',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-awatters-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-aweisbrich-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-br-sykes,b'Windows 11 Pro 22000', ,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-br-symonds,b'Windows 11 Pro 22621', ,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-breynolds-lt,b'Windows 11 Enterprise 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-brivera-nb,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-bryanh-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad, 
+gs-bsaia-lt,b'Windows 11 Pro 22621',automox,azure-ad, ,huntress, ,sentinelone
+gs-bstradling-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-clawton-dt,b'Windows 11 Pro 22621', ,azure-ad, ,huntress,microsoft-ad,sentinelone
+gs-clawton-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad, ,huntress, ,sentinelone
+gs-danny-dt,b'Windows 10 Pro 19045', ,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-dheinzel-lt,b'Windows 11 Pro 22621', ,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-dkrupa-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad, ,huntress, ,sentinelone
+gs-dparham-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-dvasquez-lt2,b'Windows 11 Pro 22621',automox, ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-dvillarre-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-dwright-nb1,b'Windows 10 Enterprise 19044', ,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-dwright-surface,b'Windows 10 Home 19044', ,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-dzink-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad, ,huntress, ,sentinelone
+gs-earriaza-lt,b'Windows 11 Pro 10.0.22000',automox,azure-ad,cybercns-sec-vm, , ,sentinelone
+gs-ehough-lt3,b'Windows 11 Pro 10.0.22621',automox,azure-ad, ,huntress, ,sentinelone
+gs-fig-prime,b'Windows 10 Pro 10.0.19045',automox,azure-ad,cybercns-sec-vm, , ,sentinelone
+gs-gmedrano-nb1,b'Windows 11 Pro 10.0.22000',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-hq-bec1,b'Windows 10 Enterprise', , , , ,microsoft-ad, 
+gs-hq-bec2,b'Windows 10 Enterprise', , , , ,microsoft-ad, 
+gs-hq-jadderholt-nb,b'Windows 11 Pro 22621',automox, ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-hq-nb005,b'Windows 10 Pro 19044', ,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-hq-nb006,"b'Windows, 10.0.19041.388'", ,azure-ad, , ,microsoft-ad, 
+gs-hq-srv-dc0,b'Windows Server 2016 Standard 10.0.14393',automox, ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-hq-srv-dc1,b'Windows Server 2016 Standard 10.0.14393',automox, ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-hq-srv-vc1,b'unknown', , , , ,microsoft-ad, 
+gs-irm-if,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-jeff-dt,b'Windows 10 Pro 10.0.19044',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-jgillis-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-jlentz-dt,b'Windows 10 Pro 19044',automox, ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-jlentz-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-jlowe-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-jpnelson-lt,b'Windows 11 Pro 10.0.22621',automox, , ,huntress, ,sentinelone
+gs-jrucker-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-jsantiban-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad, ,huntress, , 
+gs-jsemet-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-jstermer-dt,b'Windows 10 Pro 10.0.19045',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-jstermer-lt2,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-jz-dt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-jz-nb,b'Windows 11 Enterprise 22621', ,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-kamsnell-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-kconrad-lt2,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-klindahl-lt,b'Windows 11 Enterprise 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-kwatson-lt,b'Windows 11 Pro 10.0.22000',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-lalvord-nb,b'Windows 10 Pro 10.0.19045',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-lbown-nb,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-lbown2-lt,b'Windows 11 Pro 22621',automox,azure-ad, ,huntress, ,sentinelone
+gs-lorne-dt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-lpertschi-lt,b'Windows 11 Pro 22000',automox, , ,huntress, ,sentinelone
+gs-mandrade-lt,b'Windows 11 Enterprise 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-mgarza-lt,b'Windows 11 Enterprise 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-mnavarro-lt,b'Windows 11 Enterprise 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-mperry-lt,b'Windows 11 Pro 22621',automox,azure-ad, ,huntress, ,sentinelone
+gs-mstaples-lt,b'Windows 11 Enterprise 10.0.22621',automox,azure-ad, ,huntress, ,sentinelone
+gs-mstaples2-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-mstewart-lt,b'Windows 11 Pro 22621', , ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-mtoups-dt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-mvallejo-nb,b'Windows 10 Pro', ,azure-ad, ,huntress,microsoft-ad, 
+gs-nb-azevedo,b'Windows 11 Pro 22621', ,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-nb-clx1,b'Windows 11 Pro 22624', ,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-nb-peterh,b'Windows 10 Pro 19043', ,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-nb-salesdir,b'Windows 10 Pro 19044',automox, ,cybercns-sec-vm,huntress, ,sentinelone
+gs-nreid-dt,b'Windows 10 Pro 10.0.19044',automox, ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-nrodrigue-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-nrodriguez-lt,b'Windows 11 Pro 22000',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-og-surf,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-pagarwal-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm, ,microsoft-ad,sentinelone
+gs-pscott-lt,b'Windows 11 Enterprise 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-rharrison-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-rmartinez-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-rmcrobbie-dt,b'Windows 11 Pro 10.0.22000',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-rmcrobbie-lt,b'Windows 11 Pro 22621', ,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-rrurode-nb,b'Windows 11 Pro 22000', ,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-sec-netspark,"b'Windows, 10.0.19044.2846'", ,azure-ad, , , , 
+gs-sgarza-dt,b'Windows 10 Pro',automox,azure-ad, ,huntress,microsoft-ad, 
+gs-sgarza-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-smiller-lt,b'Windows 11 Pro 22621', ,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-smohammed-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-spare-lt3,b'Windows 10 Enterprise 19043',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-spare1-lt,b'Windows 11 Pro 22621', , , , , ,sentinelone
+gs-sshakespe-dt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-sshakespeare-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad, ,huntress, ,sentinelone
+gs-tatkinson-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-thowe-nb,b'Windows 11 Pro 22621', ,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-tjones-lt,b'Windows 11 Enterprise 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-tmarley-surf,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-tmatthews-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-tmccune-lt,b'Windows 11 Enterprise 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-tnelms-lt,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-tnelsen-nb,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-toehring-dt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-toehring-lt-surface4,b'Windows 11 Home 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-toehring-nb,b'Windows 11 Enterprise 10.0.22000',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-ttaylor-dt,b'Windows 10 Pro 10.0.19045',automox,azure-ad, ,huntress,microsoft-ad,sentinelone
+gs-ttaylor-nb,b'Windows 11 Pro 22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gs-wallen-lt,b'Windows 11 Enterprise 22000',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-wking-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-wking2-lt,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+gs-zhill-lt,b'Windows 11 Pro 10.0.22000',automox,azure-ad, ,huntress, ,sentinelone
+homedesktop,"b'Windows, 10.0.19041.867'", ,azure-ad, , , , 
+ieg-00294,"b'Windows, 10.0.19042.1288'", ,azure-ad, , , , 
+ir_storage, , , , , ,microsoft-ad, 
+kdehm-surface,"b'Windows, 10.0.18362.0'", ,azure-ad, , , , 
+laptop-519eisf7,"b'Windows, 10.0.19044.2728'", ,azure-ad, , , , 
+laptop-5enstqks,b'Windows 10 Pro 19045', ,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-a83shrk0,"b'Windows, 10.0.19044.1645'", ,azure-ad, , , , 
+laptop-ea09lfoh,"b'Windows, 10.0.19041.264'", ,azure-ad, , , , 
+laptop-g6l5sooa,"b'Windows, 10.0.22000.856'",automox,azure-ad, , , , 
+laptop-r9js5oq4,"b'Windows, 10.0.19044.2604'", ,azure-ad, , , , 
+masons-macbook-pro,b'OS X 13.2.1 (22D68)', , , , , ,sentinelone
+np7340,"b'Windows, 10.0.19041.1110'", ,azure-ad, , , , 
+np7352,"b'Windows, 10.0.19042.1110'", ,azure-ad, , , , 
+phone of iniquity,"b'iOS, 15.7'", ,azure-ad, , , , 
+phvideoeditor,"b'Windows, 10.0.22000.675'", ,azure-ad, , , , 
+red-leader-42,"b'Windows, 10.0.22621.819'", ,azure-ad, , , , 
+sec-scanner,"b'Windows, 10.0.19042.1348'", ,azure-ad, , , , 
+solis-nb-cl1,b'Windows 11 Pro 22621', ,azure-ad,cybercns-sec-vm,huntress, ,sentinelone
+solisir001,"b'Windows, 10.0.17134.0'", ,azure-ad, , , , 
+solisir002,"b'Windows, 10.0.18363.0'", ,azure-ad, , , , 
+solisir003,b'Windows 11 Pro 10.0.22621',automox,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+win-u68gk3an8sk,"b'Windows, 10.0.19044.1766'", ,azure-ad, , , , 
+wyatt-pc,"b'Windows, 10.0.22000.1455'", ,azure-ad, , , , 

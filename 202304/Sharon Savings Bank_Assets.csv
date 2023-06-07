@@ -1,0 +1,82 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad
+astoncsd,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+drbcsd,b'Windows 10 Pro', ,huntress,microsoft-ad
+miserssb2373,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2374,b'Windows 10 Pro', ,huntress,microsoft-ad
+miserssb2375,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2376,b'Windows 10 Pro', , ,microsoft-ad
+miserssb2377,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2380,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2382,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2383,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2384,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2385,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2386,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2388,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2391,b'Windows 10 Pro', ,huntress,microsoft-ad
+miserssb2392,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2393,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2394,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2395,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2396,b'Windows 10 Pro', , ,microsoft-ad
+miserssb2397,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2398,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2400,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2401,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2403,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2407,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2410,b'Windows 10 Pro', ,huntress,microsoft-ad
+miserssb2413,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2414,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2415,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2416,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2417,b'Windows 10 Pro', ,huntress,microsoft-ad
+miserssb2418,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2420,b'Windows 10 Pro', ,huntress,microsoft-ad
+miserssb2421,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2422,b'Windows 10 Pro', ,huntress,microsoft-ad
+miserssb2428,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2429,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2430,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2431,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+miserssb2433,b'Windows 10 Pro', ,huntress,microsoft-ad
+miserssb2435,b'Windows 10 Pro', , ,microsoft-ad
+miserssb2439,b'Windows 10 Pro', ,huntress,microsoft-ad
+phlcsd,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+sb-hq-lt120,b'Windows 10 Pro', ,huntress,microsoft-ad
+sb-hq-lt140,b'Windows 10 Pro', ,huntress,microsoft-ad
+sb-hq-lt210,b'Windows 10 Pro', , ,microsoft-ad
+sprcsd,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssb-brcap07,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssb-drb-tv1,b'Windows 10 Pro',cybercns-sec-vm, ,microsoft-ad
+ssb-drb-tv2,b'Windows 10 Pro', ,huntress,microsoft-ad
+ssb-drb-tv3,b'Windows 10 Pro', ,huntress,microsoft-ad
+ssb-dt-401,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssb-dt-402,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssb-dt-403,b'Windows 10 Pro', , ,microsoft-ad
+ssb-hq-dt01,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssb-hq-dt10,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssb-hq-dt12,b'Windows 10 Pro', , ,microsoft-ad
+ssb-hq-dt14,b'Windows 10 Pro', ,huntress,microsoft-ad
+ssb-hq-dt15,b'Windows 10 Pro', , ,microsoft-ad
+ssb-hq-dt5,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssb-hq-dt6,b'Windows 10 Pro', ,huntress,microsoft-ad
+ssb-hq-dt7,b'Windows 10 Pro', ,huntress,microsoft-ad
+ssb-hq-dt8,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssb-hq-dt9,b'Windows 10 Pro', ,huntress,microsoft-ad
+ssb-hq-lt11,b'Windows 10 Pro', ,huntress,microsoft-ad
+ssb-hq-lt160,b'Windows 10 Pro', , ,microsoft-ad
+ssb-hq-tv1,b'Windows 10 Pro', ,huntress,microsoft-ad
+ssb-hq-tv3,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssb-hq-tv5,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssb-nf-dc0,b'Windows Server 2016 Datacenter',cybercns-sec-vm,huntress,microsoft-ad
+ssb-nf-dc1,b'Windows Server 2016 Datacenter',cybercns-sec-vm,huntress,microsoft-ad
+ssb-nf-fs0,b'Windows Server 2019 Datacenter',cybercns-sec-vm,huntress,microsoft-ad
+ssb-nf-fsv-app1,b'Windows Server 2016 Datacenter', ,huntress,microsoft-ad
+ssb-nf-fsv-eom,b'Windows Server 2016 Datacenter',cybercns-sec-vm,huntress,microsoft-ad
+ssb-nf-lzrp,b'Windows Server 2016 Datacenter',cybercns-sec-vm,huntress,microsoft-ad
+ssb-spr-tv1,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssb-spr-tv2,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssbbrcap01,b'Windows 10 Pro', , ,microsoft-ad
+ssbbrcap02,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad
+ssbbrcap06,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad

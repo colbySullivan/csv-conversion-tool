@@ -1,0 +1,324 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+arcgis,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+c02gk2y1md6q,b'OS X 13.0.1 (22A400)', , , ,sentinelone
+c02j70pmq6l3,b'OS X 13.0.1 (22A400)', , , ,sentinelone
+c02w56j6j1gg,b'OS X 11.7.2 (20G1020)', , , ,sentinelone
+c07yf03kjyvx,b'OS X 13.2.1 (22D68)', , , ,sentinelone
+crs908d6e8cfb66,b'Windows 10 Enterprise', ,huntress, , 
+crs908d6e8d0dbd,b'Windows 10 Enterprise 19044', ,huntress, ,sentinelone
+crs908d6e8d0e1d,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+crs908d6e8db4d9,b'Windows 10 Enterprise', ,huntress, , 
+crs908d6e8de7ed,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+crs908d6e8de83c,b'Windows 10 Enterprise', ,huntress, , 
+crs908d6e8f56dc,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+crs908d6e8f5e20,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+crsa029193deafe,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+crsa029193ec74e,b'Windows 10 Enterprise 19045', , , ,sentinelone
+crsa029193ec760,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+crsa029193f87d7,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+dc01,b'Windows Server 2022 Standard 20348', ,huntress, ,sentinelone
+dc02,b'Windows Server 2022 Standard 20348', ,huntress, ,sentinelone
+desktop-3fuvqkf,b'Windows 10 Enterprise 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-6b3no0u,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-8aok8q1,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+desktop-cflebk5,b'Windows 10 Enterprise 19044', ,huntress, ,sentinelone
+desktop-enr762g,b'Windows 10 Enterprise 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-gn47a5j,b'Windows 10 Enterprise 2015 LTSB 10240', ,huntress, ,sentinelone
+desktop-j2ukb95,b'Windows 10 Enterprise 19044', ,huntress, ,sentinelone
+desktop-k2vu5of,b'Windows 10 Enterprise 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-mn3v2ho,b'Windows 10 Enterprise 19044', ,huntress, ,sentinelone
+desktop-mq29kn0,b'Windows 10 Enterprise 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-pcs15id,b'Windows 10 Enterprise 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-u79k3rv,b'Windows 10 Enterprise 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-v3ovco3,b'Windows 10 Enterprise', ,huntress, , 
+dhcp1,b'Windows Server 2022 Standard 20348', ,huntress, ,sentinelone
+dhcp2,b'Windows Server 2019 Standard 17763', ,huntress, ,sentinelone
+dist-bg4,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, ,sentinelone
+dist-bg5,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, ,sentinelone
+dist-bg6,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, ,sentinelone
+dist-cert1,b'Windows Server 2012 R2 Standard 9600', ,huntress, ,sentinelone
+dist-dns1,b'Windows Server 2012 R2 Standard', ,huntress, , 
+dist-door2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+dist-mt1,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, ,sentinelone
+dist-newbg2,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, ,sentinelone
+dist-pacu1,b'Windows Server 2012 R2 Standard 9600', ,huntress, ,sentinelone
+dist-pd,b'Windows Server 2016 Standard 14393', ,huntress, ,sentinelone
+dist-print1,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, ,sentinelone
+dist-pv1,b'Windows Server 2016 Standard 14393', ,huntress, ,sentinelone
+dist-sftp1,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+dist-st1,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+fax,b'Windows Server 2019 Standard 17763', ,huntress, ,sentinelone
+gam,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, ,sentinelone
+h12dwhd8pn77,b'OS X 10.15.7 (19H1922)', , , ,sentinelone
+h2wfm7fqq6nv,b'OS X 11.3 (20E217)', , , ,sentinelone
+h2wg35flq6nv,b'OS X 11.4 (20F71)', , , ,sentinelone
+h4tgr02cq6x6,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj80gjq6x2,b'OS X 13.3 (22E252)', , , ,sentinelone
+h4tj80gkq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj80gmq6x2,b'OS X 13.0.1 (22A400)', , , ,sentinelone
+h4tj80gnq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj80gpq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj8140q6x2,b'OS X 13.2.1 (22D68)', , , ,sentinelone
+h4tj8141q6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj814rq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj814sq6x2,b'OS X 13.0.1 (22A400)', , , ,sentinelone
+h4tj814tq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj8152q6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj8153q6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj8154q6x2,b'OS X 13.0.1 (22A400)', , , ,sentinelone
+h4tj815bq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj815cq6x2,b'OS X 13.3 (22E252)', , , ,sentinelone
+h4tj815dq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj815eq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj815fq6x2,b'OS X 13.2.1 (22D68)', , , ,sentinelone
+h4tj8168q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8169q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj816bq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj816dq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj816eq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj816fq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj816hq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj816mq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj816nq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj816pq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj816qq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj816sq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8171q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj817pq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj817sq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj817uq6x2,b'OS X 13.2.1 (22D68)', , , ,sentinelone
+h4tj817vq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj817wq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj817xq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj817yq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj817zq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8180q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8181q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8182q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8183q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8184q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8185q6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj8186q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8187q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8188q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8189q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj818aq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj818cq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj818dq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj818hq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj818kq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj818lq6x2,b'OS X 13.3 (22E252)', , , ,sentinelone
+h4tj818mq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj818nq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj818pq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj818uq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj818vq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj818zq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8190q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj8194q6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj819aq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj819bq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj819cq6x2,b'OS X 13.0.1 (22A400)', , , ,sentinelone
+h4tj819dq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj819fq6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj819hq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj819jq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj819kq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj81a4q6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj81a5q6x2,b'OS X 13.3 (22E252)', , , ,sentinelone
+h4tj81a6q6x2,b'OS X 13.0.1 (22A400)', , , ,sentinelone
+h4tj81f0q6x2,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tj81f1q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj81f3q6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tj81g9q6x2,b'OS X 12.2.1 (21D62)', , , ,sentinelone
+h4tj81gbq6x2,b'OS X 13.1 (22C65)', , , ,sentinelone
+h4tjp00gq6x8,b'OS X 13.3 (22E252)', , , ,sentinelone
+h4tjp015q6x9,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+h4tjp01uq6x8,b'OS X 13.1 (22C65)', , , ,sentinelone
+iis-internal,b'Windows Server 2012 R2 Standard 9600', ,huntress, ,sentinelone
+jfcw73xxpg,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+kenf430b9afeb6e,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+kennedyesports1,b'Windows 11 Home 22621', ,huntress, ,sentinelone
+kennedyesports2,b'Windows 11 Home 22621', ,huntress, ,sentinelone
+kennedyesports3,b'Windows 11 Home 22621', ,huntress, ,sentinelone
+kennedyesports4,b'Windows 11 Home 22621', ,huntress, ,sentinelone
+mecm-dp,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+mecm-pri,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+mecm-repo,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+mecm-wsus,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+metasis,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+metasys12,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+new-data3,b'Windows Server 2022 Standard 20348', ,huntress, ,sentinelone
+niagara1,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+onesync,b'Windows Server 2016 Standard 14393', ,huntress, ,sentinelone
+phoenix,b'Windows Server 2019 Standard 17763', ,huntress, ,sentinelone
+printserver,b'Ubuntu 22.04.2 LTS 5.19.0-38-generic', , , ,sentinelone
+prtg,b'Windows Server 2022 Standard 20348', ,huntress, ,sentinelone
+rdsh-elsc-001,b'Windows Server 2022 Standard 20348',cybercns-sec-vm, , ,sentinelone
+rdsh-elsc-002,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+rdsh-elsc-003,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+rdsh-elsc-004,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+ri-bridge,b'Windows Server 2022 Standard 20348', , , ,sentinelone
+rodc1,b'Windows Server 2022 Standard 20348', ,huntress, ,sentinelone
+rodc2,b'Windows Server 2022 Standard 20348', ,huntress, ,sentinelone
+solis,b'Windows Server 2022 Standard 20348', , , ,sentinelone
+sql,b'Windows Server 2022 Standard 20348', ,huntress, ,sentinelone
+sql1,b'Windows Server 2012 R2 Standard 9600', ,huntress, ,sentinelone
+sqlda,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, ,sentinelone
+sqldw,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+tableauapp,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+tableaudb,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+tableaudw,b'Windows Server 2012 R2 Standard 9600', ,huntress, ,sentinelone
+ty2yd4kgft,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+varoniscollect,b'Windows Server 2019 Standard 17763', ,huntress, ,sentinelone
+varonisdsp,b'Windows Server 2016 Standard 14393', ,huntress, ,sentinelone
+varonissolr,b'Windows Server 2016 Standard 14393', ,huntress, ,sentinelone
+varonissql,b'Windows Server 2016 Standard 14393', ,huntress, ,sentinelone
+vdi-conn1,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+vdi-conn2,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+vdi-dem,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+vdi-pltw-lic,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+vdi-rdsh,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+vdi-sql,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+veeambk1,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+veeamnfs1,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+wks0025ab9547c9,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks0025ab9638f7,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025ab963fd1,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025ab971146,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025ab9730e4,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025aba1a5e7,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025aba1d4ab,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025aba29753,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025aba3f21a,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025aba3f319,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025aba40b5a,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025aba498c1,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025aba4db5c,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025aba4db82,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0025aba4dbe9,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0029193e9882,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks004e019e55a4,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks00be4372b1d8,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks047c1623c84e,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks047c1623c84f,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks047c1623c856,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks047c1623c865,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks047c1623c881,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks047c1623c908,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks047c1623c909,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks047c1623c917,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks047c1623c91c,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks047c1623c92c,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks047c1623c931,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks047c1623c937,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks047c1623c938,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks047c1623c93b,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks047c1623c992,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks089204013e11,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks0892041e5e14,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks14b31f0d5e22,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks3814284f6597,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks381428569dcd,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks38142856a23a,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks38142856c58b,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks38142856c9a6,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks38142856cc55,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks38142856cd88,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks38142856f2fa,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks38142856f325,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks381428580663,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks381428588907,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks381428598b6a,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks38142859c6c4,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks38142859c8a7,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks3814285af7e6,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks3814285af93a,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks3814285b051b,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks3814285b0aa0,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks3814285b1ae3,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks3814285b1c7b,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks3814285b203b,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks3814285b2088,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks3814285b20e6,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks3814285b3a2a,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks3814286ff5e4,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks74782765ad3c,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks747827665f81,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks7478276665d9,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wks7478276665e4,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wks7478277ba46f,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029153f45dc,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa02919063105,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa0291909440a,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029192486e4,b'Windows 10 Enterprise', ,huntress, , 
+wksa029192498cc,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksa0291937c166,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksa0291937c16c,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksa0291937c173,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksa0291937c179,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksa0291937c2ec,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa0291937f27b,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa0291937f459,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksa0291937f552,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa0291937f555,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa0291937f5b8,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa0291937f5bb,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa0291937f5bc,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa0291937f5be,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa0291937f5da,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa0291937f5de,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa0291937f61b,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193d9b77,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193dd79d,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193dd903,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksa029193dd90c,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193dd920,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193de61a,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193de633,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193de637,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193df679,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksa029193e184a,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193e19ca,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193e295a,b'Windows 10 Enterprise 19044', ,huntress, ,sentinelone
+wksa029193e91c1,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193e9862,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193e9863,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksa029193e9884,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193e9888,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193ec738,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193ec966,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193f818d,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193f81ed,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193f8486,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193f848a,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa029193f854a,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksa029193f85c2,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa02919479c10,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksa0293d8ba1,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksb88584af84c5,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksb88584af85ca,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksb88584af89b0,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksb88584af89de,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksb88584bac45b,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksc025a551235b,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksc025a5512371,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksc025a55123c3,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksc025a551241d,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksc025a551244b,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksc025a55124fd,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksc025a5512663,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksc025a5512713,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksc025a5512aad,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksd89ef39223b7,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksd89ef39d664c,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+wksd89ef39d6e4e,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksd89ef39d710a,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksd89ef39d7c66,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksd89ef39d7e3b,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksd89ef39d7f0a,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksd89ef39d9803,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksd89ef39d9806,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksd89ef39d9867,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wksd89ef39d98aa,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone
+wska029193df071,b'Windows 10 Enterprise 19045',cybercns-sec-vm,huntress, ,sentinelone

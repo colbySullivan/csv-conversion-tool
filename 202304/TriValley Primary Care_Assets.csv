@@ -1,0 +1,291 @@
+Asset Name,OS,azure-ad,cb-cloud,huntress,microsoft-ad,sentinelone
+16fs1,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+19ad1,b'Windows Server 2019 Datacenter 17763', , ,huntress,microsoft-ad,sentinelone
+19ad2,b'Windows Server 2019 Datacenter 17763', , ,huntress,microsoft-ad,sentinelone
+19ad3,b'Windows Server 2019 Standard 17763', , ,huntress,microsoft-ad,sentinelone
+19log,b'Windows Server 2019 Datacenter 17763', , ,huntress,microsoft-ad,sentinelone
+1ls151-admsup2,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+1ls151-checkin,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+1ls151-checkin2,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+1ls151-checkout,b'Windows 10 Pro',azure-ad, , ,microsoft-ad, 
+1ls151-compnew,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+1ls151-fscan,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+1ls151-incentive,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+1ls151-miniphn,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+1ls151-nsupnew,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+1ls151-poph,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+1ls151-popheal,b'Windows 10 Pro',azure-ad, ,huntress,microsoft-ad, 
+1ls151-prov10,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+1ls151-prov8,b'Windows 10 Pro 19044', , ,huntress,microsoft-ad,sentinelone
+1ls151-prov9,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+1ls151-provdrc,b'Windows 11 Pro 22000',azure-ad, ,huntress,microsoft-ad,sentinelone
+1ls151-provdrj,b'Windows 11 Pro',azure-ad, ,huntress,microsoft-ad, 
+1ls151-provdrt,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+1ls151-provspare,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+1ls151-records,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+1ls151-spinew,b'Windows 10 Pro 19044', , ,huntress,microsoft-ad,sentinelone
+1ls151-winnrs3,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+1ls151-winnrs4,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+1ls151-winnrs5,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+1ls151-winnrs6,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+1ls151-winnrs7,b'Windows 11 Pro', , , ,microsoft-ad, 
+2pr158-adsupnew,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+2pr158-callback,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+2pr158-checkin,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+2pr158-checkout,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+2pr158-minipc1,b'Windows 11 Pro',azure-ad, ,huntress,microsoft-ad, 
+2pr158-minipc2,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+2pr158-nrsscan,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+2pr158-nrssup,b'Windows 11 Pro 22621',azure-ad, ,huntress,microsoft-ad,sentinelone
+2pr158-nrssup2,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+2pr158-provarns,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+2pr158-provdrm,b'Windows 10 Pro 19044', , ,huntress,microsoft-ad,sentinelone
+2pr158-provdrmnew,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+2pr158-provdrn2,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+2pr158-provdrp,b'Windows 11 Pro 22621',azure-ad, ,huntress,microsoft-ad,sentinelone
+2pr158-spare1,b'Windows 10 Pro', ,cb-cloud,huntress,microsoft-ad, 
+2pr158-tcmer,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+2pr158-triage,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+2pr158-winnrs1,b'Windows 10 Pro 19044', , ,huntress,microsoft-ad,sentinelone
+2pr158-winnrs2,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+2pr158-winnrs3,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-ccm1new,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-ccmltop,b'Windows 11 Pro', , , ,microsoft-ad, 
+3up156-chkinmid,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-chkn1new,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+3up156-chkn3new,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-ckout1nw,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-ckout2nw,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+3up156-deskdrg,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+3up156-fscan,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-fscan2,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+3up156-labnew,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-ncntvtwr,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+3up156-nrslnvo1,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-nrslnvo2,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+3up156-nrslnvo3,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-nrslnvo4,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-nrslnvo5,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-nsupnew,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-prov13,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+3up156-prov14,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-provab,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+3up156-provdrb,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-provdrbl,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+3up156-provdrd,b'Windows 11 Pro 22000', , ,huntress,microsoft-ad,sentinelone
+3up156-provdrmg,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+3up156-provmod,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-provmod2,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+3up156-tbnrs1,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+3up156-tbnrs2,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+3up156-tbnrs3,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+3up156-tbnrs4,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+3up156-winnew1,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-winnew2,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-winnew3,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+3up156-winnew4,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-winnrs1,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+3up156-winnrs2,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+3up156-winnrs4,b'Windows 10 Pro 19043', , ,huntress,microsoft-ad,sentinelone
+3up156-winnrs5,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-winnrs6,b'Windows 10 Pro 19044', , ,huntress,microsoft-ad,sentinelone
+3up156-winnrs7,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+3up156-winnrs8,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+4fr155-astsup,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+4fr155-backcomp,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+4fr155-ccm,b'Windows 10 Pro',azure-ad, ,huntress,microsoft-ad, 
+4fr155-checkout,b'Windows 11 Pro 22621',azure-ad, ,huntress,microsoft-ad,sentinelone
+4fr155-mainscan,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+4fr155-minipc2,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+4fr155-minipc3,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+4fr155-nrsdymo,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+4fr155-nsup,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+4fr155-offsup,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+4fr155-pophlth,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+4fr155-prov14,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+4fr155-prov15,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+4fr155-provdrcohan,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+4fr155-provdrf,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+4fr155-provdrod,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+4fr155-provdrr,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+4fr155-provdrt,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+4fr155-scan3,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+4fr155-stamps,b'Windows 10 Pro 19045', , ,huntress, ,sentinelone
+4fr155-winnrs1,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+4fr155-winnrs2,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+4fr155-winnrs3,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+4fr155-winnrs4,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+4fr155-winnrs5,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+4fr155-winnrs7,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+4fr155-wndoscn,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+5ln157-adsupnew,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+5ln157-bmdsktp,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+5ln157-callback,b'Windows 10 Pro',azure-ad, ,huntress,microsoft-ad, 
+5ln157-ccm2,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+5ln157-ccmnew,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+5ln157-drkdsktp,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+5ln157-fscan,b'Windows 10 Pro 19044', , ,huntress,microsoft-ad,sentinelone
+5ln157-newscan,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+5ln157-nrsmini,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+5ln157-nrsstn1,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+5ln157-nursscan,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+5ln157-prov8,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+5ln157-provbm,b'Windows 10 Pro 19045', , ,huntress, ,sentinelone
+5ln157-provdrk,b'Windows 10 Pro',azure-ad, , ,microsoft-ad, 
+5ln157-provdrknew,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+5ln157-provdrr,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+5ln157-provnew,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+5ln157-scan1new,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+5ln157-scan2,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+5ln157-spare,b'Windows 10 Pro', , , ,microsoft-ad, 
+5ln157-spi,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+5ln157-triage1,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+5ln157-triage2,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+5ln157-winnrs1,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+5ln157-winnrs2,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+5ln157-winnrs3,b'Windows 11 Pro 22000', , ,huntress,microsoft-ad,sentinelone
+5ln157-winnrs4,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+6wb153-admsup,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-ccm,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+6wb153-ccm2,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+6wb153-chkin,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-ekgnew,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+6wb153-frontfax,b'Windows 10 Pro',azure-ad, ,huntress,microsoft-ad, 
+6wb153-fscan,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-herbertj,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+6wb153-hub2,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+6wb153-incntv,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+6wb153-new2,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+6wb153-nrssup,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-offmrg2,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+6wb153-offsup,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+6wb153-pophlth,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-prov8,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-prov9,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+6wb153-provaz,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-provdrc,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-provdrm,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-provdrr2,b'Windows 10 Pro 19044',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-triage1,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+6wb153-winnrs1,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-winnrs3,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-winnrs5,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+6wb153-winnrs9,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+6wb153-winnrsx,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+7iv154-admnsup,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+7iv154-asup,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+7iv154-ccm,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+7iv154-checkin,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+7iv154-checkout,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+7iv154-chkin1,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+7iv154-ekgnew,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+7iv154-fscan,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+7iv154-nphone,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+7iv154-nrssup2,b'Windows 10 Pro 19044',azure-ad, ,huntress,microsoft-ad,sentinelone
+7iv154-pophlth,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+7iv154-provdrgr,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+7iv154-provdrh2,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+7iv154-provdro,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+7iv154-provdrr,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+7iv154-provfesta,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+7iv154-triage,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+7iv154-winnrs4,b'Windows 10 Pro', , , ,microsoft-ad, 
+7iv154-winnrs5,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+acdb3,b'Windows Server 2016 Standard 14393', , ,huntress,microsoft-ad,sentinelone
+apps1,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+apps2,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+bus2,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+co-spare,b'Windows Server 2019 Datacenter 17763', , ,huntress,microsoft-ad,sentinelone
+co152-apclk,b'Windows 10 Pro', , , ,microsoft-ad, 
+co152-bsupnew,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+co152-coder2,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+co152-dhvpn,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+co152-frontdesk,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+co152-hrnew,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+co152-inscoll2,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+co152-inspst2,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+co152-inspstnew,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+co152-itsup,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+co152-medrecnew,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+co152-opps,b'Windows 11 Pro 22621',azure-ad, ,huntress,microsoft-ad,sentinelone
+co152-posting,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+co152-practadm,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+co152-practadmlptp,b'Windows 10 Pro 19044',azure-ad, ,huntress,microsoft-ad,sentinelone
+co152-ptcol2,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+co152-refmini1,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+co152-refmini3,b'Windows 11 Pro', , , ,microsoft-ad, 
+co152-spare2,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+co152-spare3,b'Windows 10 Pro',azure-ad, , ,microsoft-ad, 
+co152-spare4,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+co152-spare5,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+co152-tandigm,b'Windows 10 Pro 19044', , ,huntress,microsoft-ad,sentinelone
+co152-tcm,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+co152-tcm2,b'Windows 11 Pro 22000', , ,huntress,microsoft-ad,sentinelone
+co152-winref4,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+co152bkkpr2,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+cphd-1f26513,b'Windows 10 Enterprise LTSC 17763', , ,huntress, ,sentinelone
+cphd-1f26630,b'Windows 10 Enterprise LTSC 17763', , ,huntress, ,sentinelone
+cphd-1f26680,b'Windows 10 Enterprise LTSC 17763', , ,huntress, ,sentinelone
+cphd-1f26701,b'Windows 10 Enterprise LTSC 17763', , ,huntress, ,sentinelone
+cphd-1f26706,b'Windows 10 Enterprise LTSC 17763', , ,huntress, ,sentinelone
+cphd-1f26733,b'Windows 10 Enterprise LTSC 17763', , ,huntress, ,sentinelone
+cphd-1f26767,b'Windows 10 Enterprise LTSC 17763', , ,huntress, ,sentinelone
+cphd-1f26772,b'Windows 10 Enterprise LTSC 17763', , ,huntress, ,sentinelone
+db3,b'Windows Server 2012 R2 Standard 9600', , ,huntress,microsoft-ad,sentinelone
+ebo,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+ebo2,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+faxserver,b'Windows Server 2016 Standard 14393', , ,huntress,microsoft-ad,sentinelone
+fr155-fs, , , , ,microsoft-ad, 
+ftp,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+interface,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+laptop-dugl3a6k,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+laptop-rbke02dr,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+nwg-admsup,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nwg-desktop1,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nwg-desktop2,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nwg-desktop3,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+nwg-desktop4,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nwg-desktop6,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+nwg-desktop7,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nwg-desktop8,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+nwg-desktop9,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+nwg-ekglaptop,b'Windows 10 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+nwg-laptop1,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+nwg-laptop2,b'Windows 10 Pro 19044', , ,huntress,microsoft-ad,sentinelone
+nwg-mininew3,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+nwg-minipc1,b'Windows 11 Pro', , ,huntress,microsoft-ad, 
+nwg-old1,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nwg-old2,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+nwg-oldlaptop4,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nwg-provdrb,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+nwg-provdrf,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+nwg-provdrgrp,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+nwg-provdrs,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nwg-provdryp,b'Windows 11 Pro 22621',azure-ad, ,huntress,microsoft-ad,sentinelone
+nwg-provdtk,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+rds1,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+rds2,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+rds3,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+rds4,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+rds5,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+rds6,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+rds7,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+rds8,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+syn1-co, , , , ,microsoft-ad, 
+syn2-ln, , , , ,microsoft-ad, 
+syn3-ls, , , , ,microsoft-ad, 
+syn4-wb, , , , ,microsoft-ad, 
+syn6-iv, , , , ,microsoft-ad, 
+syn7-pr, , , , ,microsoft-ad, 
+syn8-up, , , , ,microsoft-ad, 
+syn9-wg, , , , ,microsoft-ad, 
+tvpc-coloan1,b'Windows 10 Pro 19045', , ,huntress, ,sentinelone
+tvpc-coloan2,b'Windows 10 Pro 19044', , ,huntress, ,sentinelone
+tvpcger-prov1,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+tvpcger-prov2,b'Windows 10 Pro 19044',azure-ad, ,huntress,microsoft-ad,sentinelone
+tvpcger-prov4,b'Windows 10 Pro 19044',azure-ad, ,huntress,microsoft-ad,sentinelone
+tvpcger-provbh,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+tvpcger-proves,b'Windows 10 Pro 19045',azure-ad, ,huntress,microsoft-ad,sentinelone
+tvpcger-provjf,b'Windows 11 Pro 22000',azure-ad, ,huntress,microsoft-ad,sentinelone
+tvpcger-provkp,b'Windows 11 Pro 22621', , ,huntress,microsoft-ad,sentinelone
+tvpcger-provlk,b'Windows 10 Pro', , , ,microsoft-ad, 
