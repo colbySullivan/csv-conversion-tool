@@ -1,0 +1,175 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+accounting02,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+airfield-tiny,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-accpay01,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-accpay02,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-ado,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-bdsq,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-bdsq2,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-bms,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+atb-cest2,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-cfo,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-dm03,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-dm04,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-dm06,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-dm08,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-execass1,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-hr,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-infobooth3,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-infobooth4,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-itman,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-jump,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-loaner,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-passoffice4,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+atb-projectssur,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-reception,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-soc1,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-soc4,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+atb-surface-cj,b'Windows 11 Pro', ,huntress,microsoft-ad, 
+atlasied,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress, ,sentinelone
+axcomm,b'Windows Server 2008 ServicePack2', , , ,sentinelone
+bhs-bm,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+bms01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ceo-tiny,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cest1-x1,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cfc01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cjloaner,b'Windows 11 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+cu-embross,b'Windows Server 2016 Datacenter 14393',cybercns-sec-vm,huntress, ,sentinelone
+dc01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+dchp01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-6oi41q0,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+desktop-75sgiok,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+ds01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ds03,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+dt-elec04,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+dt-elec05,b'Windows 11 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+dt-elec06,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+dt-mainbdrm,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+dt-mj09h88r,b'Windows 10 Pro', , ,microsoft-ad, 
+dt-smbdrm,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ecc-video2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+facman-x1,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+fileserver01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+fs01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gate40soc,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gvc02,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+gvs01,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, ,sentinelone
+gvs02,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, ,sentinelone
+home-ceo,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+hr-tiny,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ildjklgv1y,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+leblang-laptop,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+lic01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mad-x1,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+manbusdev-x1,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mgmt01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+moc-airfield2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+moc-airfield3,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+moc-bldgsup,b'Windows 10 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+moc-extra02,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+moc-mech01,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone
+moc-mech02,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+moc-opsdisplay1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mocboardroom,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nvr01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nvr02,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nvr03,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+passoffice05,b'Windows 10 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+passoffice3,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+rad01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+radio-fec,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+saa-extra02,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+saa-loaner01,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+sec02,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+securops3-tiny,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+snowops,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+soc-comp01,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+soc3-videowall,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tsi01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tsi02,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ttmg01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+valet-wall,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+vms01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+voip01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+vpoe-x1,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+web01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+web02,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wincloud77884,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+ws-mxl00427fb,b'Windows 11 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+wsus01,b'Windows Server 2019 Datacenter 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+yxebd02,b'Windows 10 Pro for Workstations 18362', , , ,sentinelone
+yxeck101,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeck103,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck104,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck105,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck106,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck108,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck109,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck110,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck111,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck112,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck113,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck114,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck115,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck116,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck117,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck118,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck119,b'Windows 10 Enterprise LTSC Evaluation 19044', , , ,sentinelone
+yxeck120,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck121,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck125,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck126,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeck132,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeu1bgv001,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1bgv002,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb001,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb002,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb004,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb005,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb006,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb010,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb012,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb013,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb014,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb016,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb018,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb020,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb022,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb024,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckb026,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1cke003,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1cke007,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1cke009,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1cke011,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1cke015,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1cke017,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1cke019,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeu1cke021,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1cke023,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckm027,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1ckv028,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtf01ar,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtf01br,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtf02ar,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtf03br,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtf04ar,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtf05br,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeu1gtf06ar,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtf07br,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+yxeu1gtf08ar,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtf09br,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtg01al,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtg01bl,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtg02al,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtg03bl,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtg04al,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtg05bl,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtg06al,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtg07bl,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtg08al,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeu1gtg09bl,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+yxeuscus01,b'Windows Server 2016 Datacenter', ,huntress, , 
+yxeuscus02,b'Windows Server 2016 Datacenter 14393',cybercns-sec-vm,huntress, ,sentinelone
+yxeusdom01,b'Windows Server 2016 Datacenter 14393',cybercns-sec-vm,huntress, ,sentinelone
+yxeusdom02,b'Windows Server 2016 Datacenter 14393',cybercns-sec-vm,huntress, ,sentinelone
+yxeusmgt01,b'Windows Server 2016 Datacenter 14393',cybercns-sec-vm,huntress, ,sentinelone

@@ -1,0 +1,609 @@
+Asset Name,OS,cb-cloud,huntress,sentinelone
+adm-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+adm-03,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+adm-04,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+adm02,b'Windows 10 Pro', ,huntress,sentinelone
+admin01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+admindir01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+admindir02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+adminlt01,b'Windows 10 x64',cb-cloud,huntress, 
+admsup-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+alm01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+alm02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+alm03,b'Windows 10 Enterprise', ,huntress, 
+alm04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+almsup01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+bib01,b'Windows 10 Enterprise', ,huntress, 
+bib02,b'Windows 10 Enterprise', ,huntress, 
+bib03,b'Windows 10 Enterprise', ,huntress, 
+bib04,b'Windows 10 Enterprise', ,huntress, 
+bib05,b'Windows 10 Enterprise', ,huntress, 
+bib06,b'Windows 10 Enterprise', ,huntress, 
+bms01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+car01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+car02,b'Windows 7 Enterprise  7601 SP1', ,huntress,sentinelone
+cat01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cat02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cat03,b'Windows 10 Enterprise', ,huntress, 
+catsup01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cdh01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cdinfec01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cdinfec02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cdinfeclt01,b'Windows 10 Enterprise', ,huntress, 
+chpeng01-w7,b'Windows 7 Enterprise  7601 SP1', ,huntress,sentinelone
+cir-05,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+cir-06,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+cir01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+cir02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cir03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cir04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cirmd01,b'Windows 10 Enterprise', ,huntress, 
+cirsup-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+compras-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+compras-02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+compras-03,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+compraslt01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+comprassup-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+cp-temp1,b'Windows Server 2019 Standard', ,huntress, 
+cpmgmt01,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+cti-06,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+cti-07,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+cti02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cti03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cti04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cti05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cti07,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cti08,b'Windows 10 Enterprise', ,huntress, 
+cti09,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+ctisec-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+ctisup-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+cuadro-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+cuadro02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cum-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+cum-02,b'Windows 10 Enterprise', ,huntress, 
+cum03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+cumdir-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+cumlt01,b'Windows 10 Enterprise 19045',cb-cloud,huntress,sentinelone
+desktop-9thfnq8,b'Windows 10 Pro 19043', ,huntress,sentinelone
+dia01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+dia02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+dia03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+dia04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+dietas-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+dietas-02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+dietasdir-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+dietista-02,b'Windows 10 Pro 19045', ,huntress,sentinelone
+dietistas-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+dirmed02,b'Windows 10 Enterprise', ,huntress, 
+dish-pos-w7,b'Windows 7 Professional  7601 SP1', ,huntress,sentinelone
+divtrack01,b'Windows 10 Enterprise', ,huntress, 
+echopac,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+edumd-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+edumd-02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+edumd-03,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+ehr01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+ehr02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+end01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+end02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+end03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+end04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+end05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+end06,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+endsup-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+enfconf-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+enfdir-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+enfedu01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+enfsec-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+enfsup-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+esc01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+facmd-02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+facmd01,b'Windows 10 Enterprise', ,huntress, 
+fact-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-03,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-04,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-05,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-06,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-07,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-08,b'Windows 10 Enterprise', ,huntress, 
+fact-09,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-10,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-11,b'Windows 10 Pro 19045', ,huntress,sentinelone
+fact-12,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-13,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-14,b'Windows 10 Pro 19045', ,huntress,sentinelone
+fact-15,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-16,b'Windows 10 Pro 19045', ,huntress,sentinelone
+fact-17,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+fact-18,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+factdir-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+factlt01,b'Windows 10 Enterprise', ,huntress, 
+factsup-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+factsup-02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+farm-04,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+farm-05,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+farm01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+farm02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+farm03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+farm06,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+farm07,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+farm08,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+farm09,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+farm10,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+farm11,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+farm12,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+farm13,b'Windows 10 Enterprise', ,huntress, 
+farmdir01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+farmgs01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+fin01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+fin02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+fin03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+fin04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+fin06,b'Windows 10 Enterprise', ,huntress, 
+findir01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+finlt01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+finsup01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+fleb03,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-aadc1,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-acm01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-bidev,b'Windows Server 2016 Standard 14393', ,huntress,sentinelone
+hdlc-bidevt,b'Windows Server 2016 Standard 14393', ,huntress,sentinelone
+hdlc-ca01,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-ccda,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-cgiis1,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-coding,b'Windows Server 2012 Standard 9200', ,huntress,sentinelone
+hdlc-coredb01,b'Windows Server 2016 Standard 14393', ,huntress,sentinelone
+hdlc-coredb02,b'Windows Server 2016 Standard 14393', ,huntress,sentinelone
+hdlc-dc12,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-dc13,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-dc14,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-dc15,b'Windows Server 2019 Datacenter 17763', ,huntress,sentinelone
+hdlc-duoproxy,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-egateway,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-ehrfs,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-ff01,b'Windows Server 2019 Standard 17763', , ,sentinelone
+hdlc-formfast,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-fs,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-hvcs,b'Windows Server 2019 Standard', ,huntress, 
+hdlc-ionosoft,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-is01,b'Windows Server 2016 Standard 14393', ,huntress,sentinelone
+hdlc-is02,b'Windows Server 2016 Standard 14393', ,huntress,sentinelone
+hdlc-jump01,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-jump02,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-mb01,b'Windows 10 Pro', ,huntress,sentinelone
+hdlc-mb02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb06,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb07,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb08,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+hdlc-mb09,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb10,b'Windows 10 Enterprise 18363', ,huntress,sentinelone
+hdlc-mb11,b'Windows 10 Enterprise 19043', ,huntress,sentinelone
+hdlc-mb12,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+hdlc-mb13,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-mb14,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-mb15,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-mb17,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb18,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb19,b'Windows 10 x64',cb-cloud, , 
+hdlc-mb20,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb200,b'Windows 10 Enterprise', ,huntress, 
+hdlc-mb21,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb22,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb23,b'Windows 10 Enterprise 18363', ,huntress,sentinelone
+hdlc-mb24,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb25,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb26,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb27,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb28,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb29,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb30,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb31,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb32,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb33,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb34,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb35,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb36,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb37,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb38,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-mb39,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb40,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb41,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb42,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb43,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-mb44,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-mb45,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb46,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-mb47,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-mb48,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-mb49,b'Windows 10 x64',cb-cloud,huntress, 
+hdlc-mb50,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-mb51,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-mb52,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-mb53,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb54,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb55,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb56,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-mb68,b'Windows 10 Pro 19045', ,huntress,sentinelone
+hdlc-mck,b'Windows Server 2008 R2 Standard  7601 SP1', ,huntress,sentinelone
+hdlc-mgmtsrv01,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-monitor01,b'Windows Server 2016 Standard 14393', ,huntress,sentinelone
+hdlc-nap1,b'Windows Server 2012 R2 Standard 9600', , ,sentinelone
+hdlc-novanet,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-prtg,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-ps,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-ps01,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-radius,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-reports,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-saaapp,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-sage,b'Windows Server 2008 R2 Standard  7601 SP1', ,huntress,sentinelone
+hdlc-sccm01,b'Windows Server 2016 Standard 14393', ,huntress,sentinelone
+hdlc-sdrs1,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-shs02,b'Windows Server 2016 Standard 14393', ,huntress,sentinelone
+hdlc-sql1,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-tb02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-tb03,b'Windows 10 x64',cb-cloud, , 
+hdlc-tb04,b'Windows 10 x64',cb-cloud,huntress, 
+hdlc-tb07,b'Windows 10 Enterprise 18362', , ,sentinelone
+hdlc-tb08,b'Windows 10 Enterprise 18363', ,huntress,sentinelone
+hdlc-tb09,b'Windows 10 x64',cb-cloud,huntress, 
+hdlc-tb12,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-tb17,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-tb18,b'Windows 10 Enterprise 18362', ,huntress,sentinelone
+hdlc-tb20,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+hdlc-tb21,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-tb22,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+hdlc-tb24,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-tb25,b'Windows 10 x64',cb-cloud,huntress, 
+hdlc-tb27,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-tb28,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-tb29,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-tb30,b'Windows 10 Enterprise', ,huntress, 
+hdlc-tb32,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-tb33,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-tb34,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-tb35,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-tb36,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+hdlc-tb42,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-tb43,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+hdlc-tb44,b'Windows 10 Enterprise 19045', , ,sentinelone
+hdlc-tb51,b'Windows 10 Pro 22621', ,huntress,sentinelone
+hdlc-tb52,b'Windows 10 Pro 19045', ,huntress,sentinelone
+hdlc-tb59,b'Windows 10 Pro 19045', ,huntress,sentinelone
+hdlc-tb60,b'Windows 10 Pro 19045', ,huntress,sentinelone
+hdlc-uds,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-uf01,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-uniflow,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+hdlc-veeam01,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+hdlc-wiseapp01,b'Windows Server 2016 Standard 14393', ,huntress,sentinelone
+hdlc-xima01,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+icu02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+icu03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+icu04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+icu05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+icu06,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+icu07,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+icu09,b'Windows 10 Enterprise', ,huntress, 
+icu10,b'Windows 10 Enterprise', ,huntress, 
+icusec01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+icusup-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+info01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+info02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+ing01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+ing02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+ing03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+ing04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+ingdir01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+ingsup01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+it-10,b'Windows 10 Enterprise', ,huntress, 
+it01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+it02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+it04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+it06,b'Windows 11 Enterprise 22000', ,huntress,sentinelone
+it08,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+it09,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+itlt01,b'Windows 10 Enterprise', ,huntress, 
+itlt02,b'Windows 11 Pro 22621', ,huntress,sentinelone
+itsf01,b'Windows 10 Pro 19042', ,huntress,sentinelone
+itvm00,b'Windows 10 Enterprise LTSC 17763', ,huntress,sentinelone
+itvm01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+itvm02,b'Windows 10 Enterprise', ,huntress, 
+jc mac pro,b'OS X 13.2.1 (22D68)', , ,sentinelone
+lab01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab06,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab07,b'Windows 10 Enterprise', ,huntress, 
+lab08,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab09,b'Windows 10 Enterprise', ,huntress, 
+lab10,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab11,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab12,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab13,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab14,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab15,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab16,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lab20,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+labge01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lablt01,b'Windows 10 Pro 19044', ,huntress,sentinelone
+labrecep01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+labtoledo01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lc-18,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-19,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-20,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-21,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-22,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-23,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-24,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-26,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-28,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-29,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-30,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-31,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-32,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-33,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-36,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-37,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc-39,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+lc01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lc04,b'Windows 10 x64',cb-cloud,huntress, 
+lc05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lc06,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lc09,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+lc16,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+maninf-11,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+maninf-12,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+maninf-13,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+maninf-14,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+maninf-15,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+maninf-18,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+maninf-28,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+maninf01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+maninf02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+maninf03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+maninf05,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+maninf06,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+maninf07,b'Windows 10 Enterprise 19042', , ,sentinelone
+maninf09,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+maninf10,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+maninf22,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+maninf23,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+maninf24,b'Windows 10 Enterprise', ,huntress,sentinelone
+maninfdir,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+maninflt01,b'Windows 10 Pro 19045', ,huntress,sentinelone
+maninflt02,b'Windows 10 Pro 19045', ,huntress,sentinelone
+maninflt03,b'Windows 10 Pro 19045', ,huntress,sentinelone
+maninfsup01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+matinf-01,b'Windows 11 Enterprise 22621', ,huntress,sentinelone
+matinf-04,b'Windows 10 Enterprise', ,huntress, 
+matinf-06,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+matinf-08,b'Windows 10 Pro 19045', ,huntress,sentinelone
+matinf-09,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+matinf02,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+matinf03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+matinf05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+matinf07,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+matinfsup-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+mdint01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+mdint02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+mdintdir01,b'Windows 10 Enterprise', ,huntress, 
+mdres-04,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+mdres01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+mdres02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+mdres03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+meda-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+meda-04,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+meda-05,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+meda-08,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+meda02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+meda03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+meda06,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+meda07,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+meda09,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+meda10,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+medasup-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+medasup-02,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+medb-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+medb-04,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+medb-06,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+medb-07,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+medb-08,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+medb02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+medb03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+medb05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+medbsup-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+mednuc-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+mednuc02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+mednuc03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+mednucmd01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+mednucsup-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+neu01,b'Windows 10 Enterprise 18363', ,huntress,sentinelone
+neu02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+nicu-02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+nicu-03,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+nicu01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+nicu04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+nicusup-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+nur-01,b'Windows 10 Pro 19045', ,huntress,sentinelone
+nur01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+pastoral01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+pat01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+patmd01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+patsup01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+pda-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+pda-04,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+pda-05,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+pda02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+pda03,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+pdalt-03,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+pdalt-04,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+pdalt02,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+rad-04,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+rad-09,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+rad-11,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+rad-12,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+rad01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rad02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rad03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rad05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rad07,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rad08,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rad10,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rad14,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rad15,b'Windows 10 Enterprise', ,huntress, 
+radge01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+radlt-02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+radmd01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+radmd02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+radpacs01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+radpalt01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+radrecep-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+radrecep-03,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+radrecep02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+radse01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+radtrack01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+radtrack02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+radtrack03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rec-03,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+rec-05,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+rec-06,b'Windows 10 Pro 19045', ,huntress,sentinelone
+rec01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rec02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rec04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rechum-02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+rechum-04,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+rechum01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+rechum05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rechum07,b'Windows 10 Enterprise', ,huntress, 
+rechumdir-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+rechumdir02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rechumlt02,b'Windows 10 Enterprise', ,huntress, 
+reg04,b'Windows 10 Enterprise', ,huntress, 
+rehab-04,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+rehab-05,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+rehab-06,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+rehab01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rehab02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rehab03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rehab07,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rehab08,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rehabdir-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+rehablt01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rehablt03,b'Windows 10 Enterprise', ,huntress, 
+rehablt05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+rehablt06,b'Windows 10 Enterprise 19043', ,huntress,sentinelone
+rehablt07,b'Windows 10 Pro 19043', ,huntress,sentinelone
+rehablt08,b'Windows 10 Enterprise 19043', ,huntress,sentinelone
+rehablt09,b'Windows 10 Pro 19043', ,huntress,sentinelone
+rehablt10,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+rehablt11,b'Windows 10 Pro 19044', ,huntress,sentinelone
+rehabmd-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+rehabsup01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sa01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sa02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sa03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sa04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sasup01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sasup02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+se-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+se-02,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+se-03,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+se-04,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+se-08,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+se-18,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+se05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+se06,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+se07,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+se09,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+se10,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+se11,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+se12,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+se13,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+se14,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+se15,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sedir01,b'Windows 10 x64',cb-cloud,huntress, 
+sedir02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+seft-02,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+seft-06,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+seft01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+seft03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+seft04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+seft05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sege-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+segsup-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+semd-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+semd-02,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+semd-03,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+sereg-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+sereg-02,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+sereg-03,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+seregsup01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+servicedesk,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+servpac01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sesec-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+sesup-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+sesup-02,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+sesup-03,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+sesupsf01,b'Windows 10 Enterprise', ,huntress, 
+setr-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+setr-02,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+setrack01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+setrack02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+setrack03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sjs-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+skn17,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+skn18,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+skn19,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+skn20,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+sknsf01,b'Windows 10 Enterprise', ,huntress, 
+so-01,b'Windows 10 Enterprise', ,huntress,sentinelone
+so-02,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+so-03,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+so-04,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+so05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+so06,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+so07,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+so08,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+so09,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+socs-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+socs-02,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+somdlunch01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+somdlunch02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+soreco01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+soreco03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+soreco04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+soreco05,b'Windows 10 Enterprise', ,huntress, 
+soreg-01,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+soreg02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+soreg03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+soregsup-01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+soregsup01,b'Windows 10 Enterprise', ,huntress, 
+sorm01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sorm02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sorm03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sorm04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sorm05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sorm06,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sorm07,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sorm08,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sosup-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+sp01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sp02,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+sp03,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sp04,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sp05,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+sp06,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+spsup-01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+supgen01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+surtracker01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+tele01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+tfhsp-02,b'Windows 10 Enterprise 19045', ,huntress,sentinelone
+tfhsp01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+tr01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+tr02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+trsup01,b'Windows 10 Enterprise 19044', ,huntress,sentinelone
+utilt02,b'Windows 10 Enterprise 19042', ,huntress,sentinelone
+utiltsup01,b'Windows 10 Enterprise 19042', ,huntress,sentinelone

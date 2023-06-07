@@ -1,0 +1,649 @@
+Asset Name,OS,cb-cloud,microsoft-ad,sentinelone
+administorsmini,b'MAC OS 13.2.1',cb-cloud, , 
+app01,b'Server 2012 R2 x64',cb-cloud, , 
+argcle-d09611,b'Windows 10 Pro 19045', , ,sentinelone
+argcle-l07454,b'Windows 10 x64',cb-cloud, , 
+argcle-l07479,b'Windows 11 x64',cb-cloud, , 
+argcle-l09020,b'Windows 10 Pro 19045', , ,sentinelone
+argcle-l09380,b'Windows 10 Pro 19045', , ,sentinelone
+argcle-l09386,b'Windows 10 Pro 19045', , ,sentinelone
+argcle-l09389,b'Windows 10 Pro 19045', , ,sentinelone
+argcle-l09429,b'Windows 10 x64',cb-cloud, , 
+argcle-l09518,b'Windows 10 x64',cb-cloud, , 
+argcle-l09604,b'Windows 10 x64',cb-cloud, , 
+argcle-l09702,b'Windows 10 x64',cb-cloud, , 
+azdevads01,b'Windows Server 2019 x64',cb-cloud, , 
+azdevbw01,b'Windows Server 2019 x64',cb-cloud, , 
+azdeverp01,b'Windows Server 2019 x64',cb-cloud, , 
+azdevpi01,b'Windows Server 2019 x64',cb-cloud, , 
+azqaads01,b'Windows Server 2019 x64',cb-cloud, , 
+azqabw01,b'Windows Server 2019 x64',cb-cloud, , 
+azqaerp01,b'Windows Server 2019 x64',cb-cloud, , 
+azqapi01,b'Windows Server 2019 x64',cb-cloud, , 
+btr,b'Windows 10 Pro 18363', ,microsoft-ad,sentinelone
+c108-01,b'Windows 10 x64',cb-cloud, , 
+c108-02,b'Windows 10 x64',cb-cloud, , 
+cgilpapp01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+cgilpdbprod01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+cgilpintel01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+cgiproxy01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+cgisa01,b'Server 2003 x86 SP: 2',cb-cloud, , 
+cgisql02,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+cgivmajbpf02,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+cgivmapp_prod,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+cgivmcrystal01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+cgixcdb01,b'Server 2003 x86 SP: 2',cb-cloud, , 
+cgixlapp01,b'Server 2003 x86 SP: 2',cb-cloud, , 
+citrix01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+citrix02,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+citrix03,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+citrix05,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+cmkpos-d09485,b'Windows 10 x64',cb-cloud, , 
+comarkrdp,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+corinnef164,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+d011-bu01,b'Windows Server 2019 x64',cb-cloud, , 
+d011-fp01,b'Server 2012 R2 x64',cb-cloud, , 
+dc1,b'Windows Server 2019 x64',cb-cloud, , 
+desktop-1ankh48,b'Windows 11 x64',cb-cloud, , 
+desktop-84qh6iu,b'Windows 10 Pro 19044', , ,sentinelone
+desktop-a2s8gv7,b'Windows 11 x64',cb-cloud, , 
+desktop-mukqvvp,b'Windows 10 Pro', ,microsoft-ad, 
+desktop-nr71rsp,b'Windows 10 Pro 19045', , ,sentinelone
+dpac-opti7040,b'Windows 10 Pro 19044', , ,sentinelone
+drs01-rras01,b'Server 2012 R2 x64',cb-cloud, , 
+ecommshipping1,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+ecommshipping2,b'Windows 10 Pro', ,microsoft-ad, 
+ecommshipping4,b'Windows 10 Pro 18363', ,microsoft-ad,sentinelone
+ecommshipping5,b'Windows 10 Pro 17134', ,microsoft-ad,sentinelone
+ecommshipping6,b'Windows 7 Professional', ,microsoft-ad, 
+fsintra2,b'Server 2003 x86 SP: 2',cb-cloud, , 
+h603-bu01,b'Server 2012 R2 x64',cb-cloud, , 
+h603-lt041,b'Windows 10 x64',cb-cloud, , 
+h603-lt061,b'Windows 10 x64',cb-cloud, , 
+h603-lt085,b'Windows 10 x64',cb-cloud, , 
+h603-lt111,b'Windows 10 x64',cb-cloud, , 
+h603-lt115,b'Windows 10 x64',cb-cloud, , 
+h603-lt116,b'Windows 10 x64',cb-cloud, , 
+h603-lt153,b'Windows 10 x64',cb-cloud, , 
+h603-lt156,b'Windows 10 x64',cb-cloud, , 
+h603-lt157,b'Windows 10 x64',cb-cloud, , 
+hayleyc158,b'Mac OS X', ,microsoft-ad, 
+ho-reporting1,b'Windows 7 x64 SP: 1',cb-cloud, , 
+ho-reporting2,b'Windows 7 x64 SP: 1',cb-cloud, , 
+ho-reporting3,b'Windows 7 x64 SP: 1',cb-cloud, , 
+ho-reporting4,b'Windows 7 x64 SP: 1',cb-cloud, , 
+hodc3,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+horizon1,b'Windows Server 2019 x64',cb-cloud, , 
+horizonrds,b'Windows Server 2016 x64',cb-cloud, , 
+it-support-mini,b'MAC OS 12.6.4',cb-cloud, , 
+jannincec121,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+janninec121w7,b'Windows 7 Professional  7601 SP1', ,microsoft-ad,sentinelone
+janninec3121,b'Windows 7 Professional  7601 SP1', ,microsoft-ad,sentinelone
+jayd120,b'Windows 10 Pro 17763', ,microsoft-ad,sentinelone
+joannar,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+kaitlynhorner,b'Windows 10 Pro 19042', ,microsoft-ad,sentinelone
+kathya129w10,b'Windows 10 Pro 17763',cb-cloud,microsoft-ad,sentinelone
+kellyr134,b'Windows 10 Pro', ,microsoft-ad, 
+laptop-r4bggf73,b'Windows 11 x64',cb-cloud, , 
+larryb146,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+laurenk158,b'MAC OS 12.6.3',cb-cloud, , 
+lauries1171,b'Windows 10 Pro 18363', ,microsoft-ad,sentinelone
+leanne-jones,b'Mac OS X',cb-cloud,microsoft-ad, 
+leol163w10,b'Windows 10 Pro 18363', ,microsoft-ad,sentinelone
+lianp,b'Mac OS X',cb-cloud,microsoft-ad, 
+lornes151w7,b'Windows 7 x64 SP: 1',cb-cloud,microsoft-ad, 
+louisegw10,b'Windows 10 Pro',cb-cloud,microsoft-ad, 
+lvs_wh101,b'Windows Server 2019 Standard 17763', ,microsoft-ad,sentinelone
+lyonl139l,b'Windows 10 Pro 19045',cb-cloud,microsoft-ad,sentinelone
+marie-julietw10,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+meganv152,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+melissay195,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+mgmtdc00,b'Windows Server 2019 x64',cb-cloud, , 
+michaelan1119,b'Windows 10 Pro 19045',cb-cloud,microsoft-ad,sentinelone
+michelle-l09395,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+milc07447,b'Windows 7 x64 SP: 1',cb-cloud, , 
+milco9536,b'Windows 7 x64 SP: 1',cb-cloud, , 
+milco9549,b'Windows 10 x64',cb-cloud, , 
+milco9575,b'Windows 10 x64',cb-cloud, , 
+milco9603,b'Windows 10 x64',cb-cloud, , 
+milco9643,b'Windows 10 x64',cb-cloud, , 
+milco9692,b'Windows 7 x64 SP: 1',cb-cloud, , 
+milcosa00778,b'Windows 7 x64 SP: 1',cb-cloud, , 
+milvmems01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+mpr-2016,b'Windows 10 x64',cb-cloud,microsoft-ad, 
+nadinel1266,b'Windows 10 Pro 19045',cb-cloud,microsoft-ad,sentinelone
+natashaclement,b'Windows 10 Pro 18363', ,microsoft-ad,sentinelone
+neelamp111l,b'Windows 10 Pro', ,microsoft-ad, 
+neillaptoptemp,b'Windows 10 Pro 17763', ,microsoft-ad,sentinelone
+nsbapp1,b'Windows Server 2003 ServicePack2', ,microsoft-ad,sentinelone
+nsbapp2,b'Windows Server 2003', ,microsoft-ad, 
+nsbapp3,b'Windows Server 2003 ServicePack2', ,microsoft-ad,sentinelone
+nsbdb,b'Windows Server 2003 ServicePack2', ,microsoft-ad,sentinelone
+on100spp01,b'Server 2003 x86 SP: 2',cb-cloud, , 
+on100sql01,b'Server 2003 x86 SP: 2',cb-cloud, , 
+onatlasreport01,b'Server 2012 R2 x64',cb-cloud, , 
+onsql04,b'Server 2012 R2 x64',cb-cloud, , 
+onsql05,b'Server 2012 R2 x64',cb-cloud, , 
+onutil01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+onxcmkauthdev01,b'Server 2012 R2 x64',cb-cloud, , 
+onxdc01,b'Windows Server 2019 x64',cb-cloud, , 
+par-l09756,b'Windows 10 Pro 19042', ,microsoft-ad,sentinelone
+parwpg09472,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+parwpg09483,b'Windows 10 Pro', ,microsoft-ad, 
+pay1,b'Windows 10 x64',cb-cloud, , 
+pay3,b'Windows 11 x64',cb-cloud, , 
+pl-purodb,b'Windows Server 2016 Standard',cb-cloud,microsoft-ad, 
+pl-sdidb,b'Windows Server 2016 Standard',cb-cloud,microsoft-ad, 
+pl-sdif02ind01,b'Windows 7 Professional', ,microsoft-ad, 
+pl-sdiqa,b'Windows Server 2016 Standard',cb-cloud,microsoft-ad, 
+prnfs01,b'Windows Server 2019 x64',cb-cloud, , 
+prnutil01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+reception3000,b'Windows 10 Pro 19042',cb-cloud,microsoft-ad,sentinelone
+salesaudit1,b'Windows 10 Pro 19045',cb-cloud,microsoft-ad,sentinelone
+salesaudit2,b'Windows 10 Pro 19045', , ,sentinelone
+sap-bi02,b'Windows Server 2019 x64',cb-cloud, , 
+sap-bo01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+sap-ecc02,b'Windows Server 2019 x64',cb-cloud, , 
+sap-pi02,b'Windows Server 2019 x64',cb-cloud, , 
+sap-solman03,b'Windows Server 2016 x64',cb-cloud, , 
+sarahb259-sp3,b'Windows 10 Pro 19042', ,microsoft-ad,sentinelone
+shakeraa2019,b'Windows 10 Pro', ,microsoft-ad, 
+shellym09463,b'Windows 11 Pro 22621', ,microsoft-ad,sentinelone
+sql01,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+sw0000200001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0000200002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0000400001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0000400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0000500001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0000500002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0000600001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0000600002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0000700001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0000700002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0000800001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0000800002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0000900001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0000900002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0001000001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0001000002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0001100001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0001100002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0001400001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0001400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0001600001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0001600002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0001700001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0001700002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0001800001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0001800002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0002000001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0002000002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0002100001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0002100002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0002200001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0002200002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0002300001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0002300002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0002400001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0002400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0002500001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0002500002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0002700001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0002700002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0002800001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0002800002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0002900001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0002900002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0003000001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0003000002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0003100001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0003100002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0003200001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0003200002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0003300001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0003300002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0003400001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0003400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0003500001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0003500002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0003600001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0003600002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0003700001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0003700002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0003900001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0003900002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0004100001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0004100002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0004300001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0004300002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0004400001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0004400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0004600001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0004600002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0004700001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0004700002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0004800001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0004800002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0004900001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0004900002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0005000001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0005000002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0005100001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0005100002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0005200001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0005200002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0005300001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0005300002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0005400001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0005400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0005600001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0005600002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0005700001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0005700002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0005800001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0005800002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0006100001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0006100002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0006200001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0006200002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0006400001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0006400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0006500001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0006500002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0006600001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0006600002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0006700001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0006700002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0006800001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0006800002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0007100001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0007100002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0007200001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0007200002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0007300001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0007300002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0007700001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0007700002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0007800001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0007800002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0007900001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0007900002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0008100001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0008100002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0008200001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0008200002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0008300001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0008300002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0008400001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0008400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0008600001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0008600002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0008800001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0008800002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0008900001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0008900002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0009000001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0009000002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0009200001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0009200002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0009300001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0009300002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0009400001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0009400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0009500001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0009500002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0009600001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0009600002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0009800001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0009800002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0009900001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0009900002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0010100001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0010100002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0010200001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0010200002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0010300001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0010300002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0010400001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0010400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0010600001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0010600002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0010800001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0010800002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0011100001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0011100002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0011300001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0011300002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0011400001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0011400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0011500001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0011500002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0011600001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0011600002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0011700001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0011700002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0011800001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0011800002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0011900001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0011900002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0012000001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0012000002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0012100001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0012100002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0012200001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0012200002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0012400001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0012400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0012500001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0012500002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0012800001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0012800002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0012900001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0012900002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0013000001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0013000002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0013100001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0013100002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0013600001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0013600002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0013700001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0013700002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0013800001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0013800002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0014000001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0014000002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0014200001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0014200002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0014300001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0014300002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0014400001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0014400002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0014500001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0014500002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0014600002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0014700001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0014700002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0014800001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0014800002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0014900001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0014900002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0015000001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0015000002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0015100001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0015100002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0015200001,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0015200002,b'Windows Embedded Standard', ,microsoft-ad, 
+sw0015300001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0015300002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0015400001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0015400002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0015500001,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+sw0015500002,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, 
+traceyo155-w10,b'Windows 10 Pro', ,microsoft-ad, 
+training,b'Windows 7 Professional', ,microsoft-ad, 
+vadc2,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+vanap007,b'Windows 10 x64',cb-cloud, , 
+vanap09563,b'Windows 10 x64',cb-cloud, , 
+vanbdl00630,b'Windows 7 x64 SP: 1',cb-cloud, , 
+vanbtl00619,b'Windows 7 x64 SP: 1',cb-cloud, , 
+vanbtl00656,b'Windows 10 x64',cb-cloud, , 
+vanbtlbdl541,b'Windows 7 x64 SP: 1',cb-cloud, , 
+vanbtm00531,b'MAC OS X 10.15.7',cb-cloud, , 
+vanbtm06389,b'MAC OS 12.6.3',cb-cloud, , 
+vanbtm07375p,b'MAC OS X 10.15.7',cb-cloud, , 
+vanpar-l41321,b'Windows 10 Pro 19045', , ,sentinelone
+vanpar001,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+vdc-app02,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+vdc-app03,b'Server 2008 R2 x64 SP: 1',cb-cloud, , 
+vdc-rras02,b'Server 2012 R2 x64',cb-cloud, , 
+vdc-veeam01,b'Server 2012 R2 x64',cb-cloud, , 
+vdc-wp01,b'Server 2012 R2 x64',cb-cloud, , 
+w601-lt021,b'Windows 10 x64',cb-cloud, , 
+w601-lt066,b'Windows 10 x64',cb-cloud, , 
+w601-lt069,b'Windows 10 x64',cb-cloud, , 
+w601-lt070,b'Windows 10 x64',cb-cloud, , 
+w601-lt071,b'Windows 10 x64',cb-cloud, , 
+w601-lt072,b'Windows 10 x64',cb-cloud, , 
+w601-lt073,b'Windows 10 x64',cb-cloud, , 
+w601-lt077,b'Windows 10 x64',cb-cloud, , 
+w601-lt078,b'Windows 10 x64',cb-cloud, , 
+w601-lt079,b'Windows 10 x64',cb-cloud, , 
+w601-lt080,b'Windows 10 x64',cb-cloud, , 
+w601-lt081,b'Windows 10 x64',cb-cloud, , 
+w601-lt082,b'Windows 10 x64',cb-cloud, , 
+w601-lt084,b'Windows 10 x64',cb-cloud, , 
+w602-ccserver,b'Windows 7 x64 SP: 1',cb-cloud, , 
+w605-lt014,b'Windows 10 x64',cb-cloud, , 
+w605-lt118,b'Windows 10 x64',cb-cloud, , 
+w605-mgr-daio,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wfhd0013,b'Windows 10 Pro',cb-cloud,microsoft-ad, 
+wh1-so-esx01,b'unknown', ,microsoft-ad, 
+wh1-so-esx02,b'unknown', ,microsoft-ad, 
+wh1-so-esx03,b'unknown', ,microsoft-ad, 
+wh1-so-vbp,b'Windows Server 2012 R2 Standard 9600',cb-cloud,microsoft-ad,sentinelone
+wh1alf,b'Windows Server\xc2\xae 2008 Standard', ,microsoft-ad, 
+wh1alpha2,b'Windows Server 2008 R2 Standard  7601 SP1',cb-cloud,microsoft-ad,sentinelone
+wh1aptdb,b'Windows Server 2016 Standard 14393', ,microsoft-ad,sentinelone
+wh1aptmerch,b'Windows Server 2016 Standard 14393', ,microsoft-ad,sentinelone
+wh1aptwm,b'Windows Server 2016 Standard 14393', ,microsoft-ad,sentinelone
+wh1bb,b'Windows Server 2008 R2 Standard  7601 SP1', ,microsoft-ad,sentinelone
+wh1bb16,b'Windows Server 2016 Standard',cb-cloud,microsoft-ad, 
+wh1cog3,b'Windows Server 2016 Standard 14393', ,microsoft-ad,sentinelone
+wh1cognos,b'Windows Server 2016 Standard 14393', ,microsoft-ad,sentinelone
+wh1db,b'Windows Server 2008 R2 Enterprise',cb-cloud,microsoft-ad, 
+wh1dc2012a,b'Windows Server 2012 R2 Standard 9600', ,microsoft-ad,sentinelone
+wh1dc2022az,b'Windows Server 2022 Datacenter Azure Edition 20348', ,microsoft-ad,sentinelone
+wh1ex2010,b'Windows Server 2008 R2 Standard  7601 SP1', ,microsoft-ad,sentinelone
+wh1ex2016,b'Windows Server 2016 Standard 14393',cb-cloud,microsoft-ad,sentinelone
+wh1fs,b'Windows Server 2019 Standard 17763', ,microsoft-ad,sentinelone
+wh1fs02,b'Windows Server 2012 R2 Standard 9600',cb-cloud,microsoft-ad,sentinelone
+wh1gp,b'Windows Server 2008 R2 Standard', ,microsoft-ad, 
+wh1monitor,b'Windows Server 2019 Standard 17763', ,microsoft-ad,sentinelone
+wh1nsbdb,b'Windows Server 2008 R2 Enterprise  7601 SP1', ,microsoft-ad,sentinelone
+wh1nsbdx,b'Windows Server 2008 R2 Standard  7601 SP1', ,microsoft-ad,sentinelone
+wh1nsbsa,b'Windows Server 2008 R2 Standard  7601 SP1', ,microsoft-ad,sentinelone
+wh1pays,b'Windows Server 2016 Standard 14393', ,microsoft-ad,sentinelone
+wh1sajump01,b'Windows 7 Professional  7601 SP1', ,microsoft-ad,sentinelone
+wh1scc1,b'Windows Server 2012 R2 Standard',cb-cloud,microsoft-ad, 
+wh1scc2,b'Windows Server 2012 R2 Standard',cb-cloud,microsoft-ad, 
+wh1scvmm01,b'Windows Server 2022 Datacenter Evaluation 20348', ,microsoft-ad,sentinelone
+wh1util,b'Windows Server 2019 Standard 17763', ,microsoft-ad,sentinelone
+wh1w10vm,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+wh1w7vm1,b'Windows 7 Professional',cb-cloud,microsoft-ad, 
+wh1w7vm2,b'Windows 7 x86 SP: 1',cb-cloud,microsoft-ad, 
+wh1w7vm3,b'Windows 7 Professional',cb-cloud,microsoft-ad, 
+wh1xpvm,b'Windows XP Professional', ,microsoft-ad, 
+whonsbthop,b'Windows Server 2008 R2 Standard', ,microsoft-ad, 
+whvc01,b'unknown', ,microsoft-ad, 
+win-bc1961astbc,b'Server 2012 R2 x64',cb-cloud, , 
+wpgbcr5-d07264,b'Windows 10 Pro 19045', , ,sentinelone
+wpgcmk-d00064,b'MAC OS X 10.15.7',cb-cloud,microsoft-ad, 
+wpgcmk-d00092,b'Windows 10 Pro 19045', , ,sentinelone
+wpgcmkhdesk20,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgcsr-l00659,b'Windows 10 Pro', ,microsoft-ad, 
+wpghw1-d07265,b'Windows 10 Pro 19042', ,microsoft-ad,sentinelone
+wpgmail,b'Server 2012 R2 x64',cb-cloud, , 
+wpgpar-07478,b'Windows 11 Pro 22621', ,microsoft-ad,sentinelone
+wpgpar-d00501,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+wpgpar-d05666,b'Windows 10 Pro 19042', ,microsoft-ad,sentinelone
+wpgpar-d05676,b'Windows 10 Pro 19045',cb-cloud,microsoft-ad,sentinelone
+wpgpar-d05677,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-d05704,b'Windows 10 Pro 19044',cb-cloud,microsoft-ad,sentinelone
+wpgpar-d05719,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-d05737,b'Windows 10 Pro',cb-cloud,microsoft-ad, 
+wpgpar-d05781,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-d05846,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-d09401,b'Mac OS X', ,microsoft-ad, 
+wpgpar-d09439,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-d09495,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-d09577,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar-d09690,b'MAC OS 12.6.3',cb-cloud, , 
+wpgpar-h001,b'Windows Server 2022 Datacenter 20348', ,microsoft-ad,sentinelone
+wpgpar-h002,b'Windows Server 2022 Datacenter 20348', ,microsoft-ad,sentinelone
+wpgpar-h003,b'Windows Server 2022 Datacenter 20348', ,microsoft-ad,sentinelone
+wpgpar-l00041,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l00042,b'Windows 11 Pro 22621', ,microsoft-ad,sentinelone
+wpgpar-l00048,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar-l00053,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l00054,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l00056,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l00058,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l00059,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar-l00069,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l00075,b'Windows 10 Pro 19045', , ,sentinelone
+wpgpar-l00076,b'Windows 10 Pro 19045',cb-cloud, ,sentinelone
+wpgpar-l00091,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l00094,b'Windows 10 Pro 19045', , ,sentinelone
+wpgpar-l00095,b'Windows 10 Pro 19045', , ,sentinelone
+wpgpar-l00098,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l00615,b'Windows 10 Pro 19045', , ,sentinelone
+wpgpar-l00626,b'Windows 10 Pro 19045',cb-cloud, ,sentinelone
+wpgpar-l05865,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+wpgpar-l05875,b'Windows 10 x64',cb-cloud,microsoft-ad, 
+wpgpar-l07261,b'Windows 11 Pro 22000', ,microsoft-ad,sentinelone
+wpgpar-l07315,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l07316a,b'Windows 10 x64',cb-cloud, , 
+wpgpar-l07477,b'Windows 10 x64',cb-cloud,microsoft-ad, 
+wpgpar-l07480,b'Windows 11 Pro',cb-cloud,microsoft-ad, 
+wpgpar-l07482,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+wpgpar-l07488,b'Windows 10 Pro 19044',cb-cloud,microsoft-ad,sentinelone
+wpgpar-l07490,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l09397,b'Windows 11 Pro 22621',cb-cloud,microsoft-ad,sentinelone
+wpgpar-l09399,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l09402,b'Windows 10 Pro',cb-cloud,microsoft-ad, 
+wpgpar-l09408,b'Windows 10 Pro 19044',cb-cloud, ,sentinelone
+wpgpar-l09410,b'Windows 10 Pro 19044', , ,sentinelone
+wpgpar-l09410,b'Windows 10 x64',cb-cloud, , 
+wpgpar-l09415,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l09418,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+wpgpar-l09419,b'Windows 10 x64',cb-cloud, , 
+wpgpar-l09422,b'Windows 11 Pro 22621', ,microsoft-ad,sentinelone
+wpgpar-l09427,b'Windows 10 x64',cb-cloud, , 
+wpgpar-l09428,b'Windows 10 x64',cb-cloud, , 
+wpgpar-l09435,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l09441,b'Windows 11 Pro', ,microsoft-ad, 
+wpgpar-l09444,b'Windows 10 x64',cb-cloud, , 
+wpgpar-l09446,b'Windows 10 Pro',cb-cloud,microsoft-ad, 
+wpgpar-l09447,b'Windows 10 Pro 19044',cb-cloud,microsoft-ad,sentinelone
+wpgpar-l09449,b'Windows 10 x64',cb-cloud,microsoft-ad, 
+wpgpar-l09451,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l09465,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+wpgpar-l09466,b'Windows 10 x64',cb-cloud, , 
+wpgpar-l09467,b'Windows 11 Pro 22621', ,microsoft-ad,sentinelone
+wpgpar-l09468,b'Windows 11 Pro', ,microsoft-ad, 
+wpgpar-l09474,b'Windows 11 Pro 22621', ,microsoft-ad,sentinelone
+wpgpar-l09476,b'MAC OS 13.2.1',cb-cloud, , 
+wpgpar-l09477,b'OS X 10.15.7 (19H2026)',cb-cloud, ,sentinelone
+wpgpar-l09481,b'Windows 10 x64',cb-cloud, , 
+wpgpar-l09493,b'Windows 10 x64',cb-cloud,microsoft-ad, 
+wpgpar-l09499,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l09500,b'Windows 11 Pro 22621', ,microsoft-ad,sentinelone
+wpgpar-l09517,b'Windows 10 x64',cb-cloud,microsoft-ad, 
+wpgpar-l09519,b'Windows 11 x64',cb-cloud,microsoft-ad, 
+wpgpar-l09552,b'Windows 10 x64',cb-cloud, , 
+wpgpar-l09642,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l09688,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l09694,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l09705,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l09706,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar-l09711,b'Windows 10 x64',cb-cloud, , 
+wpgpar-l09717,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+wpgpar-l09741,b'Windows 10 Pro 19042', ,microsoft-ad,sentinelone
+wpgpar-l09742,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar-l09752,b'Windows 11 Pro 22621', ,microsoft-ad,sentinelone
+wpgpar-l09754,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar-l09755,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar-l09757,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+wpgpar-l09758,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar-l09759,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+wpgpar-lap09425,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar0016,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgpar00615,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar05843,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+wpgpar0773,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgpar09392,b'Windows 7 Professional  7601 SP1', ,microsoft-ad,sentinelone
+wpgpar09469,b'Windows 10 x64',cb-cloud, , 
+wpgpar09475,b'Windows 10 Pro 19042', ,microsoft-ad,sentinelone
+wpgpar09479,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar09482,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar09877,b'Windows 10 Pro 18363', ,microsoft-ad,sentinelone
+wpgpar5636,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgpar5640,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgpar5762,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar5783,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgpar5834,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgpar5873,b'Windows 10 x64',cb-cloud, , 
+wpgpar6417,b'Windows 7 x64 SP: 1',cb-cloud,microsoft-ad, 
+wpgpar7246,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgpar7346,b'Windows 10 Pro 18363', ,microsoft-ad,sentinelone
+wpgpar7359,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgpar7407,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgpar7424,b'Windows 10 Pro 17763', ,microsoft-ad,sentinelone
+wpgpar9461,b'Windows 11 Pro 22621', ,microsoft-ad,sentinelone
+wpgpar9480,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar9501,b'Windows 10 x64',cb-cloud,microsoft-ad, 
+wpgpar9503,b'Windows 10 Pro 18362', ,microsoft-ad,sentinelone
+wpgpar9509,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgpar9526,b'Windows 10 Pro 19041', ,microsoft-ad,sentinelone
+wpgpar9585,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgpar9586,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgpar9606,b'Windows 10 Pro 18363', ,microsoft-ad,sentinelone
+wpgpar9667,b'Windows 10 Pro', ,microsoft-ad, 
+wpgpar9765,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgparutil02,b'Windows Server 2019 x64',cb-cloud, , 
+wpgprn_vmwin10,b'Windows 10 Pro', ,microsoft-ad, 
+wpgri09515,b'Windows 10 x64',cb-cloud,microsoft-ad, 
+wpgri5667,b'MAC OS 12.6.5',cb-cloud, , 
+wpgri5670,b'Windows 10 x64',cb-cloud, , 
+wpgri5678,b'MAC OS 13.2.1',cb-cloud, , 
+wpgri5766,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgri5770,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgri5835,b'Windows 10 x64',cb-cloud, , 
+wpgri5836,b'MAC OS 13.3.1',cb-cloud, , 
+wpgri5850,b'Windows 10 x64',cb-cloud, , 
+wpgri5876,b'Windows 10 x64',cb-cloud, , 
+wpgri9464,b'MAC OS 13.2.1',cb-cloud, , 
+wpgri9502,b'Windows 10 x64',cb-cloud, , 
+wpgri9587,b'Windows 10 Pro 17763', ,microsoft-ad,sentinelone
+wpgribdl21,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgribdl22,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgribdl23,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgribdl27,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgriecomtest5,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgriplanlap08,b'Windows 10 x64',cb-cloud, , 
+wpgriplanlap13,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgrisourc5,b'Windows 7 x64 SP: 1',cb-cloud, , 
+wpgwh-d05791,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-00068,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-07266,b'Windows 10 Pro 19045',cb-cloud,microsoft-ad,sentinelone
+wpgwh1-d00072,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d00073,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d00082,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d00093,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d07263,b'Windows 10 Pro', ,microsoft-ad, 
+wpgwh1-d07264,b'Windows 10 Pro', ,microsoft-ad, 
+wpgwh1-d07267,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d07311,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d09437,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d09450,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d09453,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d09454,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d09455,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d09460,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d09491,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-d09693,b'Windows 10 Pro 19045',cb-cloud,microsoft-ad,sentinelone
+wpgwh1-l00038,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-l00040,b'Windows 11 Pro 22621', ,microsoft-ad,sentinelone
+wpgwh1-l00051,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-l00055,b'Windows 10 Pro', ,microsoft-ad, 
+wpgwh1-l00066,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-l00067,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-l00085,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-l00086,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-l00087,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-l00088,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-l00097,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone
+wpgwh1-l09448,b'Windows 10 Pro 19042', ,microsoft-ad,sentinelone
+wpgwh19512,b'Windows 10 Pro', ,microsoft-ad, 
+xp-chrisb,b'Windows XP Professional', ,microsoft-ad, 
+yiw116w10,b'Windows 10 Pro 19045', ,microsoft-ad,sentinelone

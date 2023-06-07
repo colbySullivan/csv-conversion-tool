@@ -1,0 +1,116 @@
+Asset Name,OS,huntress,nessus
+accountingptr, , ,nessus
+cody-laptop,b'Windows 10 Pro',huntress, 
+csintern,b'Windows 10 Pro',huntress, 
+desktop-1bp46pk,b'Windows 10 Pro',huntress, 
+desktop-2d07kd2,b'Polycom SIP Device', ,nessus
+desktop-2jkdkj8,b'Windows 10 Pro',huntress, 
+desktop-32283,b'Windows 10 Pro',huntress, 
+desktop-32sqno7,b'Windows 10 Pro',huntress, 
+desktop-3gniias,b'Windows 11 Pro',huntress, 
+desktop-49ko9nl,b'Windows 10 Pro',huntress, 
+desktop-4q80gt9,b'Windows 10 Pro',huntress, 
+desktop-4urrfk1,b'Windows 10 Pro',huntress, 
+desktop-5ih7li0,b'Windows 10 Pro',huntress, 
+desktop-5t571d0,b'Windows 10 Pro',huntress,nessus
+desktop-6sdmcv8,b'Windows 10 Pro',huntress, 
+desktop-7e3rbmh,b'Windows 10 Pro',huntress, 
+desktop-7r8i6v5,b'Polycom SIP Device', ,nessus
+desktop-7svjl11,b'Windows 10 Pro',huntress, 
+desktop-8c9kiri,b'Windows 10 Pro',huntress, 
+desktop-8coiifv,b'Windows 10 Pro',huntress, 
+desktop-95oopjq,b'Windows 10 Pro',huntress, 
+desktop-9kvn7t1,b'Windows 10 Pro',huntress, 
+desktop-ai5qd3a,b'Windows 10 Pro',huntress, 
+desktop-an0fdmd,b'Windows 10 Pro',huntress, 
+desktop-b5mcq6j,b'Windows 10 Pro',huntress,nessus
+desktop-cvk65o5,b'Windows 10 Pro',huntress, 
+desktop-d2rih2c,b'Windows 10 Pro',huntress, 
+desktop-di70kpu,b'Polycom SIP Device', ,nessus
+desktop-e7is095,b'Windows 10 Pro',huntress, 
+desktop-elju61k,b'Windows 10 Pro',huntress, 
+desktop-euplupf,b'Windows 10 Pro',huntress, 
+desktop-f20o687,b'Windows 10 Pro',huntress, 
+desktop-f4t82b1,b'Windows 10 Pro',huntress, 
+desktop-fiusdde,b'Windows 10 Pro',huntress, 
+desktop-h2qe6qc,b'Windows 10 Pro',huntress, 
+desktop-juhp0a5,b'Windows 10 Pro',huntress, 
+desktop-lqqmk8i,b'Windows 11 Pro',huntress,nessus
+desktop-lteve68,b'Polycom SIP Device', ,nessus
+desktop-mupqgrd,b'Windows 10 Pro',huntress, 
+desktop-naauv4u,b'Windows 10 Pro',huntress, 
+desktop-oq9erac,b'Windows 10 Pro',huntress, 
+desktop-pbj29nr,b'Windows 10 Pro',huntress,nessus
+desktop-pqtfo4e,b'Windows 10 Pro',huntress, 
+desktop-qe9qu9h,b'Windows 10 Pro',huntress,nessus
+desktop-qpcr85e,b'Windows 10 Pro',huntress, 
+desktop-r0gld6m,b'Windows 10 Pro',huntress, 
+desktop-rl0ur64,b'Windows 10 Pro',huntress, 
+desktop-rolcd7m,b'Windows 10 Pro',huntress, 
+desktop-u7t75ct,b'Windows 10 Pro',huntress, 
+desktop-vhhl1o2,b'Windows 10 Pro',huntress,nessus
+desktop7v75fnn,b'Windows 10 Pro',huntress, 
+lt-cramirez,b'Polycom SIP Device', ,nessus
+minint-mvavn62,b'Windows 10 Pro',huntress,nessus
+om-ct,b'Microsoft Windows 10 Pro', ,nessus
+pc-028,b'Windows 10 Pro',huntress, 
+saleslaptop1,b'Windows 10 Pro',huntress, 
+saleslaptop2,b'Windows 10 Pro',huntress, 
+vcc-106512,b'Windows 10 Pro',huntress,nessus
+vcc-106513,b'Windows 10 Pro',huntress,nessus
+vcc-106514,b'Windows 10 Pro',huntress, 
+vcc-106515,b'Windows 10 Pro',huntress, 
+vcc-119526,b'Linux Kernel 2.6', ,nessus
+vcc-119812,b'Windows 10 Pro',huntress, 
+vcc-119813,b'Windows 10 Pro',huntress, 
+vcc-119814,b'Windows 10 Pro',huntress,nessus
+vcc-ittj-0181,b'Windows 10 Pro',huntress,nessus
+vcc-lt-c5wqbs3,b'Windows 11 Pro',huntress, 
+vcc-manage,b'Windows Server 2016 Standard',huntress,nessus
+vcc-nas,b'Linux Kernel 4.4.180+', ,nessus
+vcc-shipping01, , ,nessus
+vcc-tj-32257,b'Windows 10 Pro',huntress, 
+vcc-tjdell1,b'Windows 10 Pro',huntress,nessus
+vcc28,b'Polycom SIP Device', ,nessus
+vcc63,b'Windows 10 Pro',huntress, 
+vccazr-dc,b'Windows Server 2019 Datacenter',huntress, 
+vccazr-fs,b'Windows Server 2019 Datacenter',huntress, 
+vcclap-09,b'Windows 10 Pro',huntress, 
+vcclite-092,b'Windows 10 Education',huntress,nessus
+vcclite-096,b'Windows 10 Education',huntress, 
+vcclite123,b'Polycom SIP Device', ,nessus
+vcclt-0092,b'Windows 10 Pro',huntress, 
+vcclt-102767,b'Polycom SIP Device', ,nessus
+vcclt-102767,b'Polycom SIP Device', ,nessus
+vcclt-102769,b'Windows 10 Pro',huntress, 
+vcclt-106595,b'Windows 10 Pro',huntress, 
+vcclt-88,b'Windows 10 Pro',huntress, 
+vccsd-dcfs,b'Windows Server 2016 Standard',huntress,nessus
+vccsd-ups,b'Windows 10 Pro',huntress, 
+vcctj-dcfs,b'Windows Server 2016 Standard',huntress,nessus
+windows-7rqn0rk,b'Polycom SIP Device', ,nessus
+wk-52v3h-8f3b5,b'Polycom SIP Device', ,nessus
+192.168.100.78,b'Cisco NX-OS', ,nessus
+192.168.100.64,b'RICOH Printer', ,nessus
+192.168.100.17,b'VMware ESXi 6.5.0 build-7388607', ,nessus
+192.168.100.1,b'Linux Kernel 2.6', ,nessus
+192.168.100.106, , ,nessus
+192.168.100.108,b'HP LaserJet Printer', ,nessus
+192.168.100.10,b'Linux Kernel 3.1\nLinux Kernel 3.3', ,nessus
+192.168.100.38,b'Polycom SIP Device', ,nessus
+192.168.100.59,b'Polycom SIP Device', ,nessus
+192.168.100.71,b'Debian 7.0 Linux Kernel 3.2', ,nessus
+192.168.100.103, , ,nessus
+192.168.100.150,b'iPhone or iPad', ,nessus
+192.168.100.22,b'Polycom SIP Device', ,nessus
+192.168.100.18,b'Integrated Dell Remote Access Controller (iDRAC)', ,nessus
+192.168.100.57,b'Polycom SIP Device', ,nessus
+192.168.100.109,b'Debian 7.0 Linux Kernel 3.2', ,nessus
+192.168.100.21, , ,nessus
+192.168.100.36,b'Linux Kernel 3.10\nLinux Kernel 3.13\nLinux Kernel 4.2\nLinux Kernel 4.8', ,nessus
+192.168.100.80,b'Cisco NX-OS', ,nessus
+192.168.100.48,b'Polycom SIP Device', ,nessus
+192.168.100.7,b'VMware ESXi', ,nessus
+192.168.100.113,b'Polycom SIP Device', ,nessus
+192.168.100.66,b'Polycom SIP Device', ,nessus
+192.168.100.30,b'Linux Kernel 3.1', ,nessus

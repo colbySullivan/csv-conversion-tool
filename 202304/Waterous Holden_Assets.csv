@@ -1,0 +1,109 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+app01,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cluster-dc1,b'Windows Server 2016 Datacenter 14393',cybercns-sec-vm,huntress, ,sentinelone
+e329-p10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+e339-w10,b'Windows 11 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+prolaw2019,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+prolaw2019-file,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+sp6-shermans,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+vdcw2k12,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-363n-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-adfs,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-cluster-dc2,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, ,sentinelone
+wh-copitrak2019,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-d355-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-d357-w10,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e301-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e303-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e304-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e305-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e308-w10,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e309-w10,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e310-w10,b'Windows 11 Pro 22000', ,huntress,microsoft-ad,sentinelone
+wh-e312-w10,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e314-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e317-w10,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wh-e318-w10,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e319n-w10,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wh-e320-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e321-w10,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wh-e322-w10,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e323-w10,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e324-w10,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e325-w10,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wh-e326-w11,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e329n-w10,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e330-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e331-w10,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e332-sl11,b'Windows 11 Pro', , ,microsoft-ad, 
+wh-e332-w10,b'Windows 11 Pro 22000', ,huntress,microsoft-ad,sentinelone
+wh-e335-w10,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+wh-e336-sl10,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e337-w10,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wh-e338-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e340-w10,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wh-e341n-w10,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wh-e342-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e345-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e346-w10,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e347-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e348-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e349-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e350-w10,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e351n-w10,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e352-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e353n-w10,b'Windows 11 Pro 22000', ,huntress,microsoft-ad,sentinelone
+wh-e354-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e356n-w10,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e359-w10,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e360-w10,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e361-w10,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wh-e362-w10,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e367n-w10,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wh-e369-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e370-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e371-w10,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e372-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e373-w10,b'Windows 11 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+wh-e375-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e377-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e380-w10,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e381-w10,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+wh-e384-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e388-w10,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e501-w10,b'Windows 11 Pro', ,huntress,microsoft-ad, 
+wh-e502-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-e504-w10,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wh-file1,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-file2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-hp356-w10,b'Windows 11 Pro', , ,microsoft-ad, 
+wh-hyperv2-2019,b'Microsoft Windows Server 2019 Datacenter',cybercns-sec-vm, , , 
+wh-itlt-w10,b'Windows 11 Pro', ,huntress,microsoft-ad, 
+wh-lt338-w11,b'Windows 11 Pro 22000',cybercns-sec-vm, ,microsoft-ad,sentinelone
+wh-new17-sfwx,b'Windows 11 Pro', , ,microsoft-ad, 
+wh-proagent-w10,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-signing1,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+wh-sl306-w11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-solis,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-sp01-w10,b'Windows 10 Pro', , ,microsoft-ad, 
+wh-sp04-w10,b'Windows 10 Pro', , ,microsoft-ad, 
+wh-sp317-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-sp340-w10,b'Windows 11 Pro', , ,microsoft-ad, 
+wh-sp360-w10,b'Windows 11 Pro', , ,microsoft-ad, 
+wh-sp365-w10,b'Windows 10 Pro for Workstations 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-sp369-w11,b'Windows 11 Pro', , ,microsoft-ad, 
+wh-sp371-w11,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-sp3b45-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-srv-dc01,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-srv-dc02,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-srv-dc03,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-tp386-w10,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wh-wfh02-len10,b'Windows 10 Pro', , ,microsoft-ad, 
+wh-wfh02-tp10,b'Windows 10 Pro for Workstations 19044', ,huntress,microsoft-ad,sentinelone
+wh-wfh05-len11,b'Windows 11 Pro', , ,microsoft-ad, 
+wh-wfh06-sp10,b'Windows 11 Pro 22621',cybercns-sec-vm, ,microsoft-ad,sentinelone
+wh-wfh08-sp11,b'Windows 11 Pro', , ,microsoft-ad, 
+wh-wfhspp-w11,b'Windows 11 Pro for Workstations', , ,microsoft-ad, 
+wh-wfhvm01-w10,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+whah-bkp3,b'Microsoft Windows Server 2016 Standard',cybercns-sec-vm, , , 
+whmx02,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm, ,microsoft-ad,sentinelone

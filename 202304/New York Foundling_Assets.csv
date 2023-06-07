@@ -1,0 +1,1745 @@
+Asset Name,OS,azure-ad,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+avayavmpro,b'Windows Server 2008 R2 Standard', , , ,microsoft-ad, 
+brenasiadm,b'Windows 10 Pro 17763', , ,huntress,microsoft-ad,sentinelone
+centrocuyon2,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+centrosabanahoyos-laptop,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-v4mslrg,b'Windows 10 Pro 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+it-11570,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+levittown5taprovi,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+lt01223,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+lt01734,b'Windows 10 Pro 19044', , , ,microsoft-ad,sentinelone
+lt02234,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+minint-ceshebg,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+minint-crc2bqi,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+minint-i7ti8cj,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+minint-ltm3mgp,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+minint-q3j8iu8,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+minint-ta88odv,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+myf-lt02629,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ntf-ws01272,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-501sb-dc01,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-501sb-dc02,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-501sb-pr01,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-64t2rq3,b'Windows 10 Enterprise 19045', , ,huntress, ,sentinelone
+nyf-88bbqn3,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress, ,sentinelone
+nyf-aadc01,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-aadc02,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-admanager03,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-admin01,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-aguilasrv,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-aikeasrv,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-alexortizvm,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-appproxy01,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-audit,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-azuredc1,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-azuredc2,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-backup01,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm, ,microsoft-ad,sentinelone
+nyf-bardessvm,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-bcs2,b'Windows Server 2008 R2 Enterprise', , , ,microsoft-ad, 
+nyf-borissrv,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-botdevsrv,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-brittanysrv,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ca01,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm, ,microsoft-ad,sentinelone
+nyf-canondca,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-carebot,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-cnbotdev,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-cnbotprod,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-da-02,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-davidsrv,b'Windows Server 2019 Standard 17763', , ,huntress,microsoft-ad,sentinelone
+nyf-dc5,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-dc6,b'Windows Server 2019 Datacenter 17763', , ,huntress,microsoft-ad,sentinelone
+nyf-dc7,b'Windows Server 2019 Datacenter 17763', , ,huntress,microsoft-ad,sentinelone
+nyf-delltest,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-deployment,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-dhcpsrv1,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-dq01,b'Windows Server 2019 Datacenter', , , ,microsoft-ad, 
+nyf-e14test,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-etlsrv,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-exchmgmt01,b'Windows Server 2016 Standard 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-file02,b'Windows Server 2012 Datacenter 9200', , ,huntress,microsoft-ad,sentinelone
+nyf-file03,b'Windows Server 2012 R2 Standard 9600', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-filebound01,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-ftp01,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-galaxy01,b'Windows Server 2012 Datacenter 9200', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-gavsjsrv,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-gavsnwsrv,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-gavsrv,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-gavstest02,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-gp3,b'Windows Server 2012 R2 Datacenter', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-gpadmin01,b'Windows Server 2016 Standard 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-hub2,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-indrasrv,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-infmatica02,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-informatica01,b'Windows Server 2012 R2 Datacenter 9600', , ,huntress,microsoft-ad,sentinelone
+nyf-jaspersrv1,b'Windows 10 Enterprise 18362', , ,huntress,microsoft-ad,sentinelone
+nyf-jump01,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-kadappasrv,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-katesrv,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-kylesrv,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lcmonitor02,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lcmonitor03,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-licensing01,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt00686,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt00735,b'Windows 10 Pro', , ,huntress,microsoft-ad,sentinelone
+nyf-lt00860,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt00953,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01059,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01104,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01115,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01116,b'Windows 10 Enterprise 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01121,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01156,b'Windows 10 Enterprise 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01190,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01206,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01214,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01218,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01226,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01244,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01256,b'Windows 10 Enterprise 18362', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01261,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01280,b'Windows 10 Enterprise 16299', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01281,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01287,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt01291,b'Windows 10 Enterprise 16299', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01321,b'Windows 10 Pro 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01352,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01353,b'Windows 10 Enterprise 19043', , , ,microsoft-ad,sentinelone
+nyf-lt01354,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01368,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01369,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01385,b'Windows 10 Enterprise 18362', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01488,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01504,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01509,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01513,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01515,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01516,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01517,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01535,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01538,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01539,b'Windows 10 Enterprise', , , ,microsoft-ad, 
+nyf-lt01543,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01545,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01550,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01553,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01554,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01557,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01560,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt01563,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01564,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01566,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm, ,microsoft-ad,sentinelone
+nyf-lt01568,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01569,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01574,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01577,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01585,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01591,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01595,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01607,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01615,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01616,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01625,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01628,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01629,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01630,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01632,b'Windows 10 Enterprise 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01654,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01658,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01666,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01668,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01669,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01670,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01674,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01676,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01677,b'Windows 10 Enterprise 17134', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01679,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01682,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01683,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01687,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01688,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01690,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01693,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01694,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01704,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01707,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01709,b'Windows 10 Enterprise 19041', , , ,microsoft-ad,sentinelone
+nyf-lt01710,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01716,b'Windows 10 Enterprise', , , ,microsoft-ad, 
+nyf-lt01719,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01724,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01732,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01737,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01745,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01746,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01752,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01754,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01758,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01760,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01767,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01771,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01776,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01780,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01782,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01783,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01784,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01787,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01800,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01803,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01812,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01815,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01819,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01827,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01849,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01851,b'Windows 10 Enterprise', , , ,microsoft-ad, 
+nyf-lt01859,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01866,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt01882,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01889,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01892,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01899,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01900,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01902,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01904,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01905,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01907,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01908,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01909,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01910,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01911,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01912,b'Windows 10 Enterprise 19045', , ,huntress, ,sentinelone
+nyf-lt01914,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01918,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01921,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01924,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01931,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt01935,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01938,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01940,b'Windows 10 Pro 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01943,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01955,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01960,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01961,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01963,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01965,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01966,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01968,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01972,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01980,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01981,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt01987,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt01996,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02010,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02015,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02016,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02025,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02030,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02031,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02034,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02043,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm, ,microsoft-ad,sentinelone
+nyf-lt02044,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02049,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02052,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02053,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02057,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02060,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02061,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt02066,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02069,b'Windows 10 Pro 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02072,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02073,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02074,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02083,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02084,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02086,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02089,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02090,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02091,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02092,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02093,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02095,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02096,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02097,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02098,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02100,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02102,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02108,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02109,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02110,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02112,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02114,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02115,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02116,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02117,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02119,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02120,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02122,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02123,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02127,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02128,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02130,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02135,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02138,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02139,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02146,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02147,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02148,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02155,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02158,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02162,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02163,b'Windows 10 Enterprise 19044', , , ,microsoft-ad,sentinelone
+nyf-lt02165,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02166,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02167,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02168,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02169,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02171,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02172,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02173,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02176,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02179,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02181,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02182,b'Windows 10 Enterprise', , , ,microsoft-ad, 
+nyf-lt02186,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02201,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02202,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02204,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02206,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02207,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02210,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02213,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02214,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02215,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02216,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02217,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02219,b'Windows 10 Enterprise', , , ,microsoft-ad, 
+nyf-lt02220,b'Windows 10 Pro 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02221,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02225,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02226,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02227,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02228,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02232,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02233,b'Windows 10 Pro 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02242,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02245,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02247,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02249,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02250,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02252,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02253,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02254,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02255,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02259,b'Windows 10 Pro 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02260,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02263,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02265,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02266,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02267,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02269,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02272,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02273,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02274,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02276,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02280,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02288,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02289,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02292,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02294,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02295,b'Windows 10 Pro 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02300,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02301,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02302,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02303,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02304,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02305,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02306,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02307,b'Windows 10 Enterprise 19043', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02308,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02310,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02311,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02312,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02313,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02314,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02315,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02316,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02317,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02318,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02319,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02322,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02324,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02328,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02331,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02334,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02335,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02336,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02339,b'Windows 10 Enterprise', , , ,microsoft-ad, 
+nyf-lt02340,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02341,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02342,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02343,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02344,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02345,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02346,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02347,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02348,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02350,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02352,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02354,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02355,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02357,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02358,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02359,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02360,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02364,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02367,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02369,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02370,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02371,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02372,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02375,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02376,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02377,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02378,b'Windows 10 Enterprise', ,cybercns-sec-vm, ,microsoft-ad, 
+nyf-lt02380,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02381,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02382,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02383,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02386,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02387,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02388,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02389,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02390,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02391,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02393,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02394,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02396,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02398,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02399,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02400,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02401,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02403,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02404,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02405,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02406,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02407,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02409,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02414,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02417,b'Windows 10 Enterprise 18363', , , ,microsoft-ad,sentinelone
+nyf-lt02418,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02420,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02423,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02424,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02427,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02430,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02432,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02433,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02434,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02436,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02437,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02438,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02439,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02440,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02441,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02443,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02444,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02445,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02446,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02449,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02450,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02453,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02454,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02455,b'Windows 10 Enterprise 19043', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02456,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02458,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02461,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02462,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02463,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02464,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt02465,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02467,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02469,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02470,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02471,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02472,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02473,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02474,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02475,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02478,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02479,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02480,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02481,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02482,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt02483,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02484,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02486,b'Windows 10 Enterprise', , , ,microsoft-ad, 
+nyf-lt02488,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02489,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02490,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02491,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02492,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02493,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02494,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02495,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02496,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt02501,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02502,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02505,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02506,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02509,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02510,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02512,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02513,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02514,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02516,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02518,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02520,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02521,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02522,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02526,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02527,b'Windows 10 Pro 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02531,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02532,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02533,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02534,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02535,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02536,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02537,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02538,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02540,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02542,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02543,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02544,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02545,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02546,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02547,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02548,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02549,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02550,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02551,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02552,b'Windows 10 Enterprise 19043', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02553,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02554,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02555,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02556,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02558,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02559,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02560,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02561,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02562,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02563,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02564,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02565,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02566,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02567,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02568,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02569,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02570,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02571,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02572,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02573,b'Windows 10 Enterprise 19043', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02574,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02576,b'Windows 10 Enterprise 19043', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02577,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02578,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02581,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02582,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02583,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02584,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02585,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02586,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt02587,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02588,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02589,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02593,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02594,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02595,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02597,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02598,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02599,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02600,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02603,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02606,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02607,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02608,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02609,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02611,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02612,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02613,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02617,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02618,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02619,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02620,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02623,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02624,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02625,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02626,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02627,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02628,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02630,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt02632,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt02633,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02634,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02635,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02636,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02637,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02639,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02640,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02641,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02642,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02643,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02644,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02645,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02646,b'Windows 10 Pro 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02648,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02649,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02650,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt02651,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02652,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02653,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02654,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02655,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02658,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02660,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02663,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02664,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02666,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02667,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02668,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02670,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02672,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02673,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02675,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02676,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02677,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02679,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02680,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02681,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02682,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02685,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02686,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02687,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02688,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02689,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02690,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02691,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02692,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02693,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02694,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02695,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02696,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02697,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02698,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02700,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02701,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02702,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02703,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02706,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02707,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02708,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02709,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02711,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02713,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02714,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02716,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02717,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02718,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02719,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02720,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt02724,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02725,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02727,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02730,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02731,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02732,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02733,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02735,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02737,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02738,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02739,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02740,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02742,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt02743,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02744,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02745,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02747,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02749,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02750,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02753,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02755,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02756,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02758,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02759,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02760,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02761,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02763,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02764,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02765,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02766,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02767,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02768,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02769,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02770,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02772,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02774,b'Windows 10 Enterprise 19043', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02775,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02776,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt02779,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02780,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02781,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02783,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02786,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02787,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02788,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02789,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02791,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02793,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02794,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02797,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02798,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02799,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02801,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02807,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02808,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02809,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02810,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02811,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02812,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02815,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02816,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02817,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02818,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt02819,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02820,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02821,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt02822,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02824,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02825,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02826,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02827,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02829,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02833,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02834,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02836,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02837,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02839,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02841,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02842,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02843,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02845,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02848,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02849,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02852,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02853,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02854,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02856,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02857,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt02858,b'Windows 10 Enterprise 19043', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02859,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02860,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02861,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02862,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02864,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02865,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02866,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02868,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02869,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02870,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02872,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02875,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02876,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02878,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02879,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02880,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02881,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02882,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02883,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02885,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02886,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02887,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02888,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02889,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02890,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02891,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02894,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02896,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02898,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02899,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02900,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02901,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02903,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt02904,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02905,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02907,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02908,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02911,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02913,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02914,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02917,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02918,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02919,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02920,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02922,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02923,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02924,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02925,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02926,b'Windows 10 Enterprise 19044', , , ,microsoft-ad,sentinelone
+nyf-lt02927,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02930,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02932,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02933,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02936,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02937,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02939,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02940,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02942,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02943,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02944,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02945,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02947,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02948,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02950,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02951,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02953,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02954,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02957,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02958,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02961,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02963,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02964,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02965,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt02966,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02967,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02968,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02969,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02970,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02972,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02974,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02978,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02983,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02986,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02987,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02989,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02990,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02991,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02992,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02993,b'Windows 11 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02994,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02995-1,b'Windows 10 Pro 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02998,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt02999,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03000,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03002,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03003,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03004,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03005,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03006,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03007,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03009,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03011,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03012,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03014,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03016,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03017,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03018,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03020,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03021,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03022,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03023,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03024,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03025,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03027,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03028,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03029,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03030,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03031,b'Windows 10 Pro 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03032,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03033,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03034,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03035,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03037,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03038,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03039,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03041,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03043,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03044,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03045,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03046,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03048,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03049,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03050,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03051,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03053,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03054,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt03056,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03057,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03059,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03060,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03061,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03062,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03064,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03066,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03067,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03068,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03069,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03070,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03071,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03072,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03075,b'Windows 10 Pro 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03077,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03078,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03080,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03081,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03082,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03084,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03085,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03086,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03087,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03088,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03089,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03090,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03091,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03092,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03093,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03094,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03096,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03098,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03100,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03101,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt03102,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03161,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03162,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03164,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03165,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03166,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03169,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03171,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03172,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03173,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03174,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03175,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03176,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03177,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt03178,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03179,b'Windows 10 Enterprise 19043', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03180,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03181,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03182,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03183,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03184,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03185,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03188,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03189,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03191,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03192,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03193,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03194,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03195,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03196,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03197,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03198,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03199,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03200,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03202,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03205,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03206,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt03207,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03208,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03209,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03210,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03211,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt03212,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03216,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03217,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt03218,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt03219,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03220,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03224,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03225,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03226,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03231,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03232,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03233,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03235,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03237,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt03238,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03239,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03240,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03241,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03242,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03243,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03244,b'Windows 10 Enterprise 19043', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03245,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03246,b'Windows 10 Enterprise 19043', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03251,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03252,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03253,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03254,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03255,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03256,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-lt03257,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03258,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt032590,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03260,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03262,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03264,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03265,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03267,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03268,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt03269,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03271,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03272,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03273,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03275,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03276,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03279,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03280,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03281,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03283,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03284,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03286,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03287,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03288,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03289,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03290,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03294,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03296,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03297,b'Windows 10 Pro', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03301,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03302,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03303,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03304,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03305,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03306,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03308,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03309,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03310,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03312,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03313,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03315,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03316,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03321,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt03323,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03324,b'Windows 10 Enterprise 19043', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03326,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03327,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03330,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03331,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03332,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03335,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03336,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03337,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03338,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03339,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03340,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03341,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03342,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03343,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03344,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03345,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03346,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03347,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03348,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03349,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03350,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03352,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03353,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03354,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03356,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03357,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03358,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03359,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03360,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03362,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03363,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03365,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03367,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03368,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03369,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03370,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03371,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03372,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03373,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03374,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03375,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03376,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03377,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03378,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03379,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03380,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03381,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03382,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03383,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03384,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03385,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03386,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03387,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03389,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03390,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03391,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03394,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03395,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03396,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03397,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03398,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03399,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03400,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt03401,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03402,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03403,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03404,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03406,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03407,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03408,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03409,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03410,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03411,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03413,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03414,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03415,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03416,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03417,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03418,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03422,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03423,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03424,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03425,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03426,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03427,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03428,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03429,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03431,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03432,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03433,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03434,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03435,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03436,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03437,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03438,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03439,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03440,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03443,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03444,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03445,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03446,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03447,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03448,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03450,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03451,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03452,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03453,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03454,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03455,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03456,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03458,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03459,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03460,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03461,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03463,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03464,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03465,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03466,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03467,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03468,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03469,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03471,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03472,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03473,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03474,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03475,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03476,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03477,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03478,b'Windows 10 Enterprise 19045', , , ,microsoft-ad,sentinelone
+nyf-lt03479,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03480,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03481,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03482,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03483,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03484,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03485,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03486,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03487,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03488,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03489,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt03490,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03491,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03493,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03494,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03495,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03496,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03497,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03498,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03499,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03500,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03501,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03502,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03504,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03505,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03506,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03507,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03508,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03509,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03510,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03511,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03512,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03513,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03514,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03515,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03517,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03518,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03519,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03520,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03521,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03522,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03523,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03524,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03525,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03526,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03527,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03528,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03529,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03530,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03531,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03532,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03533,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03534,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03535,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03536,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03538,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03539,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03540,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03541,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03542,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03543,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03544,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03545,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03547,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03548,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03549,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03551,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03552,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03554,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03555,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03556,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03557,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03558,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03559,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03560,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03561,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03563,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03564,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03565,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03566,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03567,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03568,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03571,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03572,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03573,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03574,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03576,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03577,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03578,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03579,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-lt03580,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03585,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-lt03586,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03587,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03588,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03590,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03591,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03592,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03593,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03594,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03595,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03596,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03597,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03598,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03599,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03601,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03611,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03612,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03613,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03614,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03615,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03616,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03617,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03618,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03619,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03620,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03771,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03772,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03773,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03774,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-lt03780,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-netsmart01,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-netsmart02,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-nocsrv,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-nonpremdc01,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-nonpremdc02,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-nps01,b'Windows Server 2016 Datacenter 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-print02,b'Windows Server 2012 Datacenter 9200', , , ,microsoft-ad,sentinelone
+nyf-pwrauto,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-qlik01,b'Windows Server 2012 R2 Datacenter 9600', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-qlikdev01,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-qliknp01,b'Windows Server 2016 Datacenter 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-qliknp02,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-r90x8jrr,b'Windows 10 Enterprise', , ,huntress, , 
+nyf-rachelsrv,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-rcdpt01,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-rcdpt02,b'Windows Server 2019 Datacenter 17763', , ,huntress,microsoft-ad,sentinelone
+nyf-rds-sh1,b'Windows Server 2012 R2 Datacenter 9600', ,cybercns-sec-vm, ,microsoft-ad,sentinelone
+nyf-rds-sh2,b'Windows Server 2012 R2 Datacenter 9600', , ,huntress,microsoft-ad,sentinelone
+nyf-reqlogic01,b'Windows Server 2012 R2 Datacenter 9600', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-rsisrv,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-sccm02,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-sql02,b'Windows Server 2012 R2 Datacenter 9600', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ssms,b'Windows Server 2019 Standard 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-stephensrv,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-storage02, , , , ,microsoft-ad, 
+nyf-storage03, , , , ,microsoft-ad, 
+nyf-surfacetest,b'Windows 10 Enterprise', , ,huntress,microsoft-ad,sentinelone
+nyf-svcnow01,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-svcnowdev01,b'Windows Server 2019 Standard 17763', , ,huntress,microsoft-ad,sentinelone
+nyf-teste14,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-teste14-1,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-testsurface,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-tl03516,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-vcenter,b'unknown', , , ,microsoft-ad, 
+nyf-veeampr1,b'Windows Server 2016 Standard 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-veeampr2,b'Windows Server 2016 Standard 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-veeampr3,b'Windows Server 2016 Standard 14393', , ,huntress,microsoft-ad,sentinelone
+nyf-veeampr4,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-vpn02,b'Windows Server 2016 Standard 14393', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-win10vm,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-ws00168,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00175,b'Windows 10 Enterprise 16299', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00224,b'Windows 10 Pro 18362', , ,huntress,microsoft-ad,sentinelone
+nyf-ws00499-1,b'Windows 10 Enterprise', , , ,microsoft-ad, 
+nyf-ws00594,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00707,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00856,b'Windows 7 Professional  7601 SP1', , ,huntress,microsoft-ad,sentinelone
+nyf-ws00857,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-ws00866,b'Windows 10 Pro 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00883,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-ws00902,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00904,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00905,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00906,b'Windows 10 Enterprise 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00907,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00908,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00909,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00910,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00911,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00921,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00923,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00925,b'Windows 10 Pro', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00926,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00928,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00929,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00930,b'Windows 10 Pro 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-ws00931,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-ws00933,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00934,b'Windows 10 Pro 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00937,b'Windows 10 Enterprise 18362', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00938,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00939,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00940,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00941,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-ws00942,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00943,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-ws00944,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00945,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00947,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00948,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00949,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-ws00950,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-ws00951,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00952,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00954,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00955,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00956,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00957,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00958,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00959,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00962,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00963,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00964,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-ws00965,b'Windows 10 Pro', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-ws00966,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00967,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00968,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00969,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00970,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-ws00971,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-ws00972,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00973,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00975,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00976,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00977,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00978,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00980,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00981,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00982,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00983,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00984,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00985,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00987,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00988,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00990,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00991,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00992,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00994,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00995,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00996,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-ws00997,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws00999,b'Windows 10 Pro 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01000,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01001,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01002,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01003,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01004,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01005,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01006,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01007,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01009,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01010,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01011,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01012,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01013,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01014,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01015,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01017,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01018,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-ws01019,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01020,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01023,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01025,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01026,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01027,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01028,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01031,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01032,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01034,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01036,b'Windows 10 Pro 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws010381,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01039,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01040,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01052,b'Windows 10 Enterprise 17134', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01053,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01054,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01055,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01056,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01057,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01058,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01060,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01061,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01065,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01067,b'Windows 10 Enterprise 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01068,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+nyf-ws01069,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01070,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01071,b'Windows 10 Pro', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01072,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01073,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01075,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01076,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01077,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01078,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01079,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01081,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01082,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01083,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01085,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01086,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01087,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01088,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01101,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01103,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01104,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01105,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01108,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01109,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01110,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01111,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01112,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01114,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01115,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01117,b'Windows 10 Pro 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01118,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01119,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01120,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01123,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01124,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01125,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01131,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01132,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01148,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01149,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01150,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01152,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01156,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01171,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01172,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01173,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01174,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01175,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-ws01177,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01192,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01193,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01194,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01195,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-ws01196,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01197,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01199,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01200,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01202,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01203,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01204,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01205,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01206,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01207,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01208,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01209,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01210,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01211,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01213,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-ws01216,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01217,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01218,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01219,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01220,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01221,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01222,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01223,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01224,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01226,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01227,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01228,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01229,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01231,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01232,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01234,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01235,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01236,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01237,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01238,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01239,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01240,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-ws01262,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-ws01263,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01264,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01267,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01268,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01269,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01270,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01271,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01273,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01274,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01275,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01276,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01277,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01278,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01280,b'Windows 10 Enterprise 19041', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01281,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01283,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01284,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01285,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01286,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01287,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01288,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01290,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01291,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01292,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01293,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-ws01294,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01295,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+nyf-ws01296,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01297,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01298,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01299,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01300,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01301,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01304,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01305,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01306,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01308,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01309,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01311,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01312,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01313,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01314,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01315,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01316,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01317,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01318,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01319,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01320,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01321,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01323,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01326,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01327,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01328,b'Windows 10 Enterprise 19042', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01329,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01330,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01331,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01332,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01333,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01335,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01336,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01337,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01339,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01340,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01361,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01364,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01365,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyf-ws01366,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01367,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01368,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws01369,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyf-ws01370,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyf-ws1074,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyf-wskenny,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfaz-ntstsrv,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+nyff-ws00993,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfnas-590,b'Windows Server 2012 R2 Standard 9600', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-dc01,b'Windows Server 2016 Datacenter', , ,huntress,microsoft-ad, 
+nyfpr-hs2147,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt0075,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02231,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02277,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02279,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02283,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02284,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02285,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02290,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyfpr-lt02293,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02297,b'Windows 10 Enterprise 19041', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02298,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyfpr-lt02299,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02384,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02385,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02466,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lt02485,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths1834,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths1935,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2135,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyfpr-lths2136,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2137,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2138,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2142,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2144,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2145,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2146,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2147,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2148,b'Windows 10 Pro', , ,huntress,microsoft-ad, 
+nyfpr-lths2149,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2151,b'Windows 10 Pro 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2152,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2153,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyfpr-lths2154,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyfpr-lths2155,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2156,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2157,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyfpr-lths2158,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2159,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2160,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2161,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2162,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2163,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2164,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2165,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2166,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2167,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyfpr-lths2168,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2169,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2170,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2171,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2172,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2173,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyfpr-lths2174,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2175,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2176,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2177,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2178,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2179,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2180,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2181,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2182,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2183,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2184,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyfpr-lths2185,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2186,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2187,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyfpr-lths2188,b'Windows 10 Pro 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2189,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+nyfpr-lths2190,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2191,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyfpr-lths2192,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2193,b'Windows 10 Enterprise 19043', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2195,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2197,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2198,b'Windows 10 Enterprise', , ,huntress,microsoft-ad, 
+nyfpr-lths2200,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2201,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyfpr-lths2202,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2629,b'Windows 10 Pro 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2699,b'Windows 10 Enterprise 18363', , ,huntress,microsoft-ad,sentinelone
+nyfpr-lths2700,b'Windows 10 Pro 19045', ,cybercns-sec-vm, ,microsoft-ad,sentinelone
+nyfpr-lths2701,b'Windows 10 Pro', , , ,microsoft-ad, 
+nyfpr-lths2708,b'Windows 10 Pro 19045', , , ,microsoft-ad,sentinelone
+nyfpr-lths2712,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nyfpr-lths2713,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths2716,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-lths895,b'Windows 10 Pro 19044', , ,huntress,microsoft-ad,sentinelone
+nyfpr-ltm397,b'Windows 10 Pro 19042', , ,huntress,microsoft-ad,sentinelone
+nyfpr-mdt02,b'Windows Server 2019 Datacenter 17763', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-nas01, , , , ,microsoft-ad, 
+nyfpr-sanjose,b'Windows 10 Enterprise 19044', , ,huntress,microsoft-ad,sentinelone
+nyfpr-whs279,b'Windows 10 Pro 19045', , ,huntress,microsoft-ad,sentinelone
+nyfpr-ws01091,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-ws01094,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-ws01098,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-ws01134,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-ws01136,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs01097,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs1204,b'Windows 10 Pro 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs1279,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2003,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2004,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2009,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2013,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2032,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2033,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2047,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2068,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2070,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2074,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2075,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2080,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2089,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2103,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2278,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad, 
+nyfpr-wshs2613,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2619,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2632,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs2684,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs368,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs381,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wshs44,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wslt2008,b'Windows 10 Enterprise 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfpr-wsm699,b'Windows 10 Pro 18362', , ,huntress,microsoft-ad,sentinelone
+nyfprlt-hs2134,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfprlt-hs2194,b'Windows 10 Enterprise 18363', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfprws-hs1341,b'Windows 10 Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfprws-hs2099,b'Windows 10 Enterprise', , , ,microsoft-ad, 
+nyfprws-hs2628,b'Windows 10 Enterprise 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nyfprws-hs2630,b'Windows 10 Pro 19042', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+rmedgewatermtr1,b'Windows 10 IoT Enterprise 19044', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+test_e14_2,b'Windows 10 Enterprise 19045', , ,huntress,microsoft-ad,sentinelone
+vtvax,b'Windows Server 2008 R2 Standard', , ,huntress,microsoft-ad, 
+ws01121,b'Windows 10 Pro 19045', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+zaidafernandez,b'Windows 10 Pro 18362', ,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+10.0.0.8,b'Windows 10 Enterprise', ,cybercns-sec-vm, , , 
+10.241.198.89,b'Windows 10 Enterprise', ,cybercns-sec-vm, , , 
+192.168.0.2,b'Windows 10 Enterprise', ,cybercns-sec-vm, , , 
+172.16.46.83,b'Windows 10 Enterprise', ,cybercns-sec-vm, , , 
+10.220.247.254,b'Windows 10 Enterprise', ,cybercns-sec-vm, , , 

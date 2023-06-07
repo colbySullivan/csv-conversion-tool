@@ -1,0 +1,521 @@
+Asset Name,OS,cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+br-ptot-5,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+br-recp-01,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+br-slt-109-1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+br-slt-113-1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+br-slt-114-1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+bv-star-30,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+bv-star-31,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+bv-star-35,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+bv-star-37,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+bv-star-41,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+bv-star-42,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+bv-star-43,b'Windows 11 Enterprise',cb-cloud, ,huntress,microsoft-ad
+bv-star-50,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ci-automation,b'Windows Server 2012 R2 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ci-trenton4,b'Windows Server 2008 R2 Standard',cb-cloud, ,huntress,microsoft-ad
+ci000461,b'macOS',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+cipki-i,b'Windows Server 2022 Standard', ,cybercns-sec-vm,huntress,microsoft-ad
+ciproxy15,b'Ubuntu 20.04.6 x64',cb-cloud, , , 
+ciserver10,b'Windows Server 2012 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver10-1,b'Windows Server 2012 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver15,b'Windows Server 2012 R2 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver16-3,b'Windows Server 2012 R2 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver16a,b'Windows Server 2012 R2 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver1v,b'Windows Server 2022 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver20v-1,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver20v-2,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver26,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver3a,b'Windows Server 2019 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver4,b'Windows Server 2012 R2 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver45tv,b'Windows Server 2016 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver45v,b'Windows Server 2016 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver46v-1,b'Windows Server 2016 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver46v-2,b'Windows Server 2016 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver46v-3,b'Windows Server 2016 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver46v-4,b'Windows Server 2016 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver46v-5,b'Windows Server 2016 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver46v-6,b'Windows Server 2012 R2 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver46v-es,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver46v-gwa,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver5,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver54,b'Windows Server 2016 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver55,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver5b,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver6,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver70v,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver71,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver80v,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ciserver90,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d-1zubgtb3tpg8z,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-26tqp7ginukld,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-2mqjtw8tutit9,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-49drotvayrqrb,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-5pfzkoveekmwn,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-5znogbzmlur7c,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-6dte16htujulb,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-728hqk48tfran,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-85nhporjtnbvy,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-8h0h7ci3tv6wa,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-8olv7nbs8i1gg,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-9hkndexqobi1o,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-9iavgywkdntwl,b'Windows 10 x64',cb-cloud, , , 
+d-9omc1vikvvy5g,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-9rafcfigbi0cu,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-ax3fnp4o3kb1v,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-b9htqjicfpibx,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-bkxhzbstcejef,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-br5bp5gcdz3ot,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-btnh8bwq52ta8,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-c7uyinakncps0,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-cg9n7gmbabmvs,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-d1nhiupyhychg,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-earkabcg1lfvw,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-epujjcanrli2s,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-fmiqvz7k7zkw3,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d-fwtwz2lltheo2,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-fxkbakrxpryxf,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-gceiy6gdn11rw,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-gjg98vms4z9jv,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-gpbs8egx7y1db,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-gxqgyxeemhvlx,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-i1nfqbtbx11og,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-ibmomfnulpyry,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-im5v3wxr4fd6g,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-ipk7jqasxd65h,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-iq7ajho4jkxeq,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-lamt5ourkzmhw,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-lggqoe6z25dil,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-lqsn8nvj2bkcu,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-luu0a5mwdnoh9,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-m5svw8tuz8zcy,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-ngcgbnsxkviiw,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-noslmf8bykmww,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-ntn82nxu8bgox,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-o4gciis85tn3j,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-ooc8u1dz8l0ls,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-pd7p3m1sx6dwm,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-pvqiu5mehfpxy,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-qobcziieua2aj,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-qqupkpj5jf5fn,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-qwxgiemin7hip,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-qzcp80cyjwl6e,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-r22uyks7mo5o5,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-rjtd1h4d6xxpo,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-rryq9spwqxhyl,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-rxc82sj7uqf90,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-smnlyrnrfldfi,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-t66xpxvcffr0g,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-tn6wvxhemb2fk,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-tucb0ngtscnif,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-u4sknhuoiuyev,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-ukqzg1zhyglko,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-uvtoayiz0eunf,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-vr8fakhi6fgzr,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-vx2ufyi6yfqzw,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-vze0cwtwpjsmd,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-w3fzy7mierdu1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-wlvzc1ko5wu3k,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-xa8tayswuxjpx,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, , 
+d-xmuccow77xnet,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-y42tpexvlxtam,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-y5zitlnvqjtby,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-ybcwchj4e9ltw,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-ygdgiifkjv0ee,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-ygnbfzx4lc0hn,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-yinf8mkuaij9m,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-zcngxbl73tmhg,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d-zdleugahcqb1z,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+d00003,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+d00010,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00015,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00021,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00026,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00028,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+d00032,b'Windows 10 Enterprise',cb-cloud, , ,microsoft-ad
+d00033,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00035,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00037,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00039,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00041,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00043,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00046,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+d00047,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+d00049,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00051,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00053,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00057,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00058,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00060,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+d00061,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00062,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+d00063,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00064,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00066,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00067,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+d00068,b'Microsoft Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress, 
+docker01,b'Ubuntu 18.04.6 x64',cb-cloud, , , 
+docker02,b'Ubuntu 20.04.5 x64',cb-cloud, , , 
+docker03,b'Ubuntu 18.04.6 x64',cb-cloud, , , 
+gr-star-26,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is-w10-n102-3,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l-07ltjrxq13auz,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-0i5rwkbaidjrj,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-0oso0sqkhwzu4,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-13rnpznyhgu4b,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-1o6vgyycgnewo,b'Microsoft Windows 10 Pro', ,cybercns-sec-vm, , 
+l-58imtx4ujmfh6,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-5nyvvtx9wivuz,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-6oonllxdlfgxp,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-7acczjaupkbls,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-a41mzbvgsnhar,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-aaxo1nfk7zpfx,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-afifcwpmwhsrl,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-ahhkxwcldcey1,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-ajjturvjwwoev,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-avfau7mfjfbf3,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-bgsxtvdnposev,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-blq5j5bzrlbex,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-cldkqirqepfno,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-cvsbjvxcmzacv,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-d0tetkp5w6aht,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-dd35spzu9fxha,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-deytvt4hwlssk,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-dxsdk01c21lfh,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-emj82jc6mswnk,b'Windows 10 Pro', , , ,microsoft-ad
+l-eyxudzmhxajcs,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-faebl4tau9vdv,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-g1irkuhajqy01,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-gs0c3co9eyyfn,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-h2snxp198vku3,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-ijwz0df7iwkbu,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-jhrtu66mo64pn,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-jp1ctzhjgeoid,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-k0mexranajtaj,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-kd1msmhzv8g64,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-lzat5hqwomdg9,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-lzoeqgjcsb5ur,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-meg3inbdbmyah,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-miu2nowdx6xxr,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-myp7ervltclau,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-nfm4bztrba7pn,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-nlbtbtkf5xemd,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-nmmrnvytqcits,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-noye8hxn6swxr,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-o4spcqii5py3e,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-ohhwariv9hr1u,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-oqtlpkarjdlgf,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-palq4mmiadl9e,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-pdgaojoy03sdz,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-pqw4doxmxws5w,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-pwvaztfshef4f,b'Windows 10 x64',cb-cloud, , , 
+l-pwvaztfshef4f,b'Microsoft Windows 10 Pro', ,cybercns-sec-vm, , 
+l-qbi3yox6rnf46,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-qgcncn9mkasvi,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-qhxcm3wf3ecdw,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-qzlwcqhte6mdc,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-ri7i0rusexbdp,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-rifbxiakxy8xs,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-rp8dnj6uylr3x,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-s0vdvlbb7ng7u,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-slkawl6optcy9,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-tdew2yijyjhex,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-tgdiartbcjjqm,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-tjy1lvn8znhph,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-ugeq7ye5mlenp,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-ul5sx6joljt1i,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-uxh5rdc92uwgv,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-v2qb4pefptptg,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-vboxzbsv0ysyl,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-vlbnr0ddaoscn,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-w9uqrwsv914yu,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-wnztz9p2hibeq,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-wwtqoqqpciiek,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-xgghbqmpmgpd7,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-xo1opbjjemead,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-zab3oquahsmpr,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l-znxg9dyyqk2o6,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l00002,b'Windows 10 Enterprise', , ,huntress,microsoft-ad
+l00005,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00010,b'Windows 10 x64',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l00012,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00014,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00015,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00017,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00018,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00023,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00024,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00026,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00031,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00032,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00033,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00035,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00041,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00042,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00045,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00046,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00051,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00053,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00060,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00062,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00066,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00067,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00071,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00076,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00077,b'Windows 10 x64',cb-cloud, , ,microsoft-ad
+l00080,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00084,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00085,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00086,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00093,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00096,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00102,b'Windows 10 x64',cb-cloud, ,huntress,microsoft-ad
+l00109,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00112,b'Windows 10 x64',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00121,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+l00125,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00126,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00127,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00132,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00140,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00145,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00148,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00149,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00150,b'Microsoft Windows 10 Pro',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00155,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00159,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00160,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00166,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00169,b'Windows 10 Pro',cb-cloud, ,huntress,microsoft-ad
+l00170,b'Windows 10 Pro', , ,huntress,microsoft-ad
+l00177,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00180,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00181,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00182,b'Windows 10 Pro', ,cybercns-sec-vm,huntress,microsoft-ad
+l00188,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00189,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00191,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00192,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00194,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00196,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00197,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00200,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00203,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00204,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00205,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00206,b'Windows 10 Enterprise', , ,huntress,microsoft-ad
+l00207,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00208,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00209,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00211,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00214,b'Windows 10 x64',cb-cloud, ,huntress,microsoft-ad
+l00215,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00218,b'Windows 10 x64',cb-cloud, ,huntress,microsoft-ad
+l00220,b'Windows 10 Pro',cb-cloud, ,huntress,microsoft-ad
+l00223,b'Microsoft Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00225,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00226,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00227,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00229,b'Windows 10 x64',cb-cloud, ,huntress,microsoft-ad
+l00230,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00231,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00232,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00233,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00234,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00235,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00236,b'Windows 10 x64',cb-cloud, ,huntress,microsoft-ad
+l00238,b'Windows 10 Pro',cb-cloud, ,huntress,microsoft-ad
+l00239,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00240,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00241,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00243,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00244,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00245,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00246,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00247,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00251,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00252,b'Windows 10 Pro',cb-cloud, ,huntress,microsoft-ad
+l00253,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00254,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00255,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00256,b'Windows 10 x64',cb-cloud, ,huntress,microsoft-ad
+l00257,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00258,b'Windows 10 x64',cb-cloud, ,huntress,microsoft-ad
+l00259,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00260,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00264,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00265,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00266,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00267,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00268,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00272,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00273,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00274,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00275,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00276,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00281,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00283,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00284,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00285,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00287,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00288,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00289,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00290,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00292,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00293,b'Windows 10 x64',cb-cloud, ,huntress,microsoft-ad
+l00296,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00297,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00300,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00301,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00302,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00303,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00304,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00306,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00308,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00310,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00311,b'Microsoft Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00312,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00313,b'Windows 10 Enterprise', , ,huntress,microsoft-ad
+l00314,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00315,b'Microsoft Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00316,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad
+l00318,b'Windows 10 x64',cb-cloud, , ,microsoft-ad
+l00323,b'Windows 10 Enterprise', , , ,microsoft-ad
+l00325,b'Windows 10 x64',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00326,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00327,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00328,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00329,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00330,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00331,b'Windows 10 x64',cb-cloud, , , 
+l00332,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00334,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00335,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00336,b'Windows 10 Enterprise', , ,huntress,microsoft-ad
+l00337,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00338,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00340,b'Windows 10 Pro',cb-cloud, ,huntress,microsoft-ad
+l00341,b'Windows 10 x64',cb-cloud, , ,microsoft-ad
+l00343,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+l00344,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00345,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+l00346,b'Windows 10 Enterprise', , ,huntress,microsoft-ad
+l00347,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress, 
+l00348,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress, 
+l00349,b'Windows 11 Enterprise', , ,huntress, 
+l00350,b'Windows 10 x64',cb-cloud, , , 
+l00353,b'Windows 10 x64',cb-cloud, , , 
+nh-ptot-126b-1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+nh-ptot-gym-1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+nh-recep-01,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+nh-recep-03,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+nh-slt-132-1,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+pltops-w10-n103,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ptac-w10-w262-b,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ptac-w10-w262-k,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ptac-w10-w263-b,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ptac-w10-w263-d,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ptac-w10-w263-e,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ptac-w10-w263-h,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-aba-spare2,b'Windows 10 x64',cb-cloud, ,huntress,microsoft-ad
+sq-admn-10,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-bh-10,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-bh-25,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-bh-4,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-bh-5,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-brooke-1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-brooke-5,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-cc-100,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-crt-n205a-2,b'Windows 10 x64',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-crt-n206c-2,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-dd1,b'Data Domain OS', , , ,microsoft-ad
+sq-hr-30,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-hr-35,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-hr-40,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-hr-n122-1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-ia-10,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-ia-20,b'Windows 10 Pro',cb-cloud, ,huntress,microsoft-ad
+sq-ia-25,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-ia-35,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-is-n110-w10,b'Windows 10 x64',cb-cloud, , ,microsoft-ad
+sq-is-n111-1w10,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-is-n115a,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-is-n115b,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-is-vs1v,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad
+sq-is-vs2v,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+sq-pgmt-s488-1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-pltop-w327,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-ptot-115,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-ptot-115-8d,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-ptot-135,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-ptot-140,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-ptot-155,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-ptot-180,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-ptot-w228-5,b'Windows 10 Enterprise',cb-cloud, , ,microsoft-ad
+sq-ptot-w258-60,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-ptot-w258-65,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-ptot-w279,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-slt-10,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-slt-5,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-slt-w276g,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-tds-234,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-tds-280,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-tds-ibt-d306,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-tds-ibt-d312,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-tds-ibt-d325,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-tds-ibt-m1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-tds-ibt-m3,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-tds-ibt-n408,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-tds-ibt-s319,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-tds-ibt-s323,b'Windows 10 x64',cb-cloud, ,huntress,microsoft-ad
+sq-tds-ibt2-tmp,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-tds-s316-1,b'Windows 10 Enterprise', , , ,microsoft-ad
+sq-tds-sharp-m1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-tds-sharp-m2,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-tds-sharp-m3,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+sq-tds-w10-tmp2,b'Windows 10 x64',cb-cloud, ,huntress,microsoft-ad
+sq-tds-w10-tmp3,b'Windows 10 Pro', , ,huntress,microsoft-ad
+sq-v-bw-01,b'Ubuntu 22.04.1 x64',cb-cloud, , , 
+sq-v-eha-db-01,b'Windows Server 2022 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-v-inf-dfs-01,b'Windows Server 2022 Datacenter', ,cybercns-sec-vm,huntress,microsoft-ad
+sq-v-inf-net-01,b'Windows Server 2022 Datacenter', ,cybercns-sec-vm,huntress,microsoft-ad
+sq-v-inf-net-02,b'Windows Server 2022 Datacenter', ,cybercns-sec-vm,huntress,microsoft-ad
+sq-v-inf-pes-01,b'Windows Server 2022 Datacenter', , ,huntress,microsoft-ad
+sq-v-inf-pes-02,b'Windows Server 2022 Datacenter', ,cybercns-sec-vm,huntress,microsoft-ad
+sq-v-inf-pgw-01,b'Windows Server 2022 x64',cb-cloud, , ,microsoft-ad
+sq-v-inf-pgw-02,b'Windows Server 2022 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+sq-v-inf-pts-01,b'Windows Server 2022 Datacenter',cb-cloud, ,huntress,microsoft-ad
+sq-v-inf-pts-02,b'Windows Server 2022 Datacenter',cb-cloud, ,huntress,microsoft-ad
+sq-v-inf-pts-03,b'Windows Server 2022 Datacenter',cb-cloud, ,huntress,microsoft-ad
+sq-v-inf-pts-04,b'Windows Server 2022 Datacenter',cb-cloud, ,huntress,microsoft-ad
+t-i1lmzhlvvd5ce,b'Windows 11 Enterprise', , , ,microsoft-ad
+tds-w10-d215-2,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-n218,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-n325-1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-n325-2,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-n325i-1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-n325o,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-s204,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-s216,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-s216-1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-s324-1,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-w203,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-w2081,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-w2082,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tds-w10-w2083,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+teli-hyperv2,b'Windows Server 2019 x64',cb-cloud, ,huntress, 
+teli-server1,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tr-acct-200,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tr-acct-204,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tr-star-104,b'Windows 10 x64',cb-cloud, ,huntress,microsoft-ad
+tr-star-104s,b'Windows 10 Enterprise', ,cybercns-sec-vm,huntress,microsoft-ad
+tr-star-305,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+tr-star-33,b'Windows 11 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tr-star-330,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tr-star-345,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tr-star-380,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+tr-star-510,b'Windows 10 Enterprise',cb-cloud, ,huntress,microsoft-ad
+tr-star-515,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+tr_dd1, , , , ,microsoft-ad
+wa-star-13,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+wa-star-30,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad

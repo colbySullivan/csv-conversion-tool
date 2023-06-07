@@ -1,0 +1,188 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+3cxphonesys,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+abrown-gsoii,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+acamp-rtp,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+ajones-rtp,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+alewis-gso,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+areece-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+barthur-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+bmccormick,b'Windows 10 Pro 19042', ,huntress,microsoft-ad,sentinelone
+bradm-gso,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+briang-gso,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+carlar-gso,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ccollins-gso,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cdw-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+chrisp-gso,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cpickard-gso,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+ctucker-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+cubiscan,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cwynne-gso,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone
+cwyssbrod-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+dbeck-gso,b'Windows 10 Pro for Workstations 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-1sskgdq,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+desktop-5p2hd7a,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+desktop-f97u21i,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+desktop-n04co1t,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+desktop-qotgjr9,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+desktop-u4j355a,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+dharris-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+dhuneycutt-rmt,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+dipti-lt,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+dsmith-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+e6530-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+eburns-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+ecommgr-gso,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone
+ehanley-rtp,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+ejonesii-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+ellish-rtp,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+engraver-gso,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+es&e’s macbook pro,b'OS X 12.6.3 (21G419)', , , ,sentinelone
+ese-autostore-app,b'Windows Server 2016 Standard 14393', ,huntress,microsoft-ad,sentinelone
+ese-biz,b'Windows Server 2012 R2 Standard 9600', ,huntress,microsoft-ad,sentinelone
+ese-dc1,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+ese-dc2,b'Windows Server 2016 Standard 14393', ,huntress,microsoft-ad,sentinelone
+ese-dc3,b'Windows Server 2016 Standard 14393', ,huntress,microsoft-ad,sentinelone
+ese-dc5,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ese-dc6,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ese-edocs,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+ese-exacta-app,b'Windows Server 2016 Standard 14393', ,huntress,microsoft-ad,sentinelone
+ese-exacta-pri-db,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ese-exacta-secondary-db,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ese-exacta-test,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ese-f9,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ese-fps,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+ese-fs1,b'Windows Server 2016 Standard 14393', ,huntress,microsoft-ad,sentinelone
+ese-fs2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ese-johnson,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+ese-openorder,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+ese-rtpapp1,b'VMware ESXi 6.0.0',cybercns-sec-vm, , , 
+ese-rtpdc1,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ese-rtpdc2,b'Windows Server 2012 R2 Standard 9600', ,huntress,microsoft-ad,sentinelone
+ese-rtpdc4,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ese-rtpserver1,b'Windows Server 2016 Standard 14393', ,huntress,microsoft-ad,sentinelone
+ese-security,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ese-vcenter-dr,b'VMware ESXi 6.5.0',cybercns-sec-vm, , , 
+ese-was,b'Windows Server 2022 Standard 20348', ,huntress,microsoft-ad,sentinelone
+ese-wps2,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+ese-wsus,b'Windows Server 2016 Standard 14393', ,huntress,microsoft-ad,sentinelone
+ese1703,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+eseapp3,b'unknown', , ,microsoft-ad, 
+eseapp4,b'unknown', , ,microsoft-ad, 
+eseapp5,b'unknown', , ,microsoft-ad, 
+eseapps,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+eseapptest,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+esedc4,b'Windows Server 2016 Standard 14393', ,huntress,microsoft-ad,sentinelone
+eseport1,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+eseport2,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+eseport3,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+esespare-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+esespare2-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+esesql02,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+esesqltest,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+eseups-gso,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+eseups-rmt,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+eseups-rtp,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+esewhsiii-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+estore2012,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+evision,b'Windows Server 2012 R2 Standard 9600', ,huntress,microsoft-ad,sentinelone
+evokoliso-gso,b'Windows Server 2016 Standard 14393', ,huntress,microsoft-ad,sentinelone
+gastonk-rmt,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gso4blee,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+gso4chad2,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+gso4csr,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+gso4dixon,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+gso4ja,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+gso4jf,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gso4jtt,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+gui-test,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+hjean-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+ifadfs,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+ifelasticsearch,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+iff9,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+ifinforos,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+ifopenedgedb,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+ifopenedgepas,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+ifsfapp,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+ifsfweb,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ifsql01,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+iftestelassrch,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+iftestinforos,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+iftestopenedge,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+iftestwebui,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+ifunform,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+ifwebui,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+it-spare1,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+it-spare2,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+itspareiv-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+jcathcart-rtp,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jcmanceraii-rtp,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jdowd3b6f,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+jfalls-gso,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jjones-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+joshua's mbp,b'OS X 12.6.5 (21G531)', , , ,sentinelone
+jperry-rtp,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+jteague-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+julieb-gso,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jyork-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+klayton-rmt,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+kniklas-rtp,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+kristyy-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+kurena-rtp,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+kyork-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+launchpad-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+lglossenger-gso,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+logistix,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+lwright-gsoii,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mgarner-gso,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+michelleg-gso,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mjackson-gsoii,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+modcenter-gso,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+monthank-rtp,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+mparker-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+mpayne-gso,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+msellers-gso,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mskinner-rmt,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+nvarga-gso,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+otygrett-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+pc-ecab,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+pcauthenii-gso,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+pyarbrough-gso,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+rmt4bf,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+rmt4bmck,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+rmt4fkl,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+rmt4jdj,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+rmt4jgh,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+rmt4kl,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+rmt4lg2,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+rmt4tw,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+rockwelldemo,b'Windows Server 2019 Standard 17763', , ,microsoft-ad,sentinelone
+rtp4csm,b'Windows 10 Pro 19044', , ,microsoft-ad,sentinelone
+rtp4df,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+rtp4dmb,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+rtp4jrii,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+rtp4mcc,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+rtp4mike,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+rtp4mo,b'Windows 10 Pro', , ,microsoft-ad, 
+rtp4nt,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+sbettini-gso,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+scottb-rmt,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+sgreeson-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+sparepc-rtp,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+spatteson-lt,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone
+surestockhelpii,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+tfleming-gsoii,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tiesmartbridge,b'Windows Server 2019 Standard 17763', ,huntress,microsoft-ad,sentinelone
+tlawson-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+tloflin-gso,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone
+tmartin-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+twebb-gso,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+vcenter-ese,b'unknown',cybercns-sec-vm, ,microsoft-ad, 
+vcenter2019,b'unknown',cybercns-sec-vm, ,microsoft-ad, 
+vcenter6-dr,b'SLES',cybercns-sec-vm, ,microsoft-ad, 
+voicemail,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+whspcii-rmt,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wseawell-gso,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+wwelborn-gso,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone
+wwelborn-pc,b'Windows 11 Pro', ,huntress,microsoft-ad, 
+wzmozingo-rtp,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+192.168.10.134,b'Windows 10 Pro',cybercns-sec-vm, , , 

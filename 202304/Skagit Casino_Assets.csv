@@ -1,0 +1,153 @@
+Asset Name,OS,huntress,sentinelone
+bhe1215-10,b'Windows 10 Pro 19045', ,sentinelone
+casinodc1,b'Windows Server 2016 Standard 14393', ,sentinelone
+casinodc2,b'Windows Server 2016 Standard 14393', ,sentinelone
+fd-1-10,b'Windows 10 Pro 19042',huntress,sentinelone
+fd-2-10,b'Windows 10 Pro 19042',huntress,sentinelone
+fd-3-10,b'Windows 10 Pro 19042',huntress,sentinelone
+svc1100-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1103-10,b'Windows 10 Pro 19044',huntress,sentinelone
+svc1104-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1105-10,b'Windows 10 Pro 19045',huntress,sentinelone
+svc1108-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1109-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1109a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1111a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1112-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1114-10,b'Windows 10 Pro 19045',huntress,sentinelone
+svc1118-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1121-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1123-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1124-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1124a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1126-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1127-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1129-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1130-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1131-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1131a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1133-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1138-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1141-10,b'Windows 10 Pro 19044',huntress,sentinelone
+svc1142-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1143-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1144-10,b'Windows 10 Pro 19044',huntress,sentinelone
+svc1145-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1147-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1152a-10,b'Windows 10 Pro 19045',huntress,sentinelone
+svc1152b-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1155,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1156-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1157b-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1157c-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1158-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1159-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1166-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1168-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1170ar-10,b'Windows 10 Pro 19045',huntress,sentinelone
+svc1170jb,b'Windows 10 Pro 19045',huntress,sentinelone
+svc1170jf2-10,b'Windows 10 Pro 19044',huntress,sentinelone
+svc1170mm-10,b'Windows 10 Pro 19045',huntress,sentinelone
+svc1170ps-10,b'Windows 10 Pro 19043',huntress,sentinelone
+svc1170test-10,b'Windows 10 Pro 19042',huntress,sentinelone
+svc1170zz-10,b'Windows 10 Pro 19045',huntress,sentinelone
+svc1172a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1172b-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1172c-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1172d-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1172f-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1174-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1175-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1182-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1182a-10,b'Windows 10 Pro 19044',huntress,sentinelone
+svc1190-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1194a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1194b-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1195-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1195a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1201-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1203-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1216a-10,b'Windows 10 Pro',huntress, 
+svc1216b-10,b'Windows 10 Pro',huntress, 
+svc1216c-10,b'Windows 10 Pro',huntress, 
+svc1216e-10,b'Windows 10 Pro',huntress, 
+svc1219-10,b'Windows 10 Pro 19044', ,sentinelone
+svc1220-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1223aw-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1226-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1228-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1229a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1237-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1237a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1237b-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1239a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1241-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1243a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1243b-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1243c-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1243d-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1251-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1252-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1254-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1260a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1260b-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1260c-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1264-10,b'Windows 10 Pro',huntress, 
+svc1267-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1269sb-10,b'Windows 10 Pro 19045',huntress,sentinelone
+svc1272-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1274-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1275-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1275a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1278-10,b'Windows 10 Pro 19045',huntress,sentinelone
+svc1279-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1285-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1286-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1291-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1295-10,b'Windows 10 Pro 19042',huntress,sentinelone
+svc1300-10,b'Windows 10 Pro 19045', ,sentinelone
+svc1301-10,b'Windows 10 Pro 19045', ,sentinelone
+svc1309b-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1309c-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1309d-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1310-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1311-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1333,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1396a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1397a-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1397b-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1398-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svc1610-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svcadpdb,b'Windows Server 2016 Standard 14393', ,sentinelone
+svcadpmon-10,b'Windows 10 Pro 19044',huntress,sentinelone
+svcapp2,b'Windows Server 2016 Standard 14393',huntress,sentinelone
+svcapp2db,b'Windows Server 2016 Standard 14393',huntress,sentinelone
+svcappbiz,b'Windows Server 2016 Standard 14393',huntress,sentinelone
+svcav,b'Windows Server 2016 Standard 14393',huntress,sentinelone
+svcbiapp,b'Windows Server 2016 Standard 14393', ,sentinelone
+svccmpapp2,b'Windows Server 2016 Standard 14393', ,sentinelone
+svccv1-10,b'Windows 10 Pro 19044',huntress,sentinelone
+svcdkaba,b'Windows Server 2019 Standard 17763',huntress,sentinelone
+svcfile,b'Windows Server 2012 R2 Standard 9600',huntress,sentinelone
+svcgca,b'Windows Server 2012 Standard 9200',huntress,sentinelone
+svcgca2,b'Windows Server 2016 Standard 14393', ,sentinelone
+svchk01-10,b'Windows 10 Pro 19044',huntress,sentinelone
+svchk02-10,b'Windows 10 Pro 18363',huntress,sentinelone
+svcidera,b'Windows Server 2016 Standard 14393',huntress,sentinelone
+svcinfogen,b'Windows Server 2016 Standard 14393', ,sentinelone
+svcinfoint,b'Windows Server 2016 Standard 14393', ,sentinelone
+svcitarchive,b'Windows Server 2016 Standard 14393',huntress,sentinelone
+svcitjb1-10,b'Windows 10 Pro 19044',huntress,sentinelone
+svcitjb2-10,b'Windows 10 Pro 19044',huntress,sentinelone
+svcitjb3-10,b'Windows 10 Pro 19044',huntress,sentinelone
+svclfvapp1,b'Windows Server 2016 Standard 14393', ,sentinelone
+svcplananalytics,b'Windows Server 2016 Standard 14393', ,sentinelone
+svcsknight-10,b'Windows 10 Pro',huntress, 
+svcsqlbiz,b'Windows Server 2016 Standard 14393',huntress,sentinelone
+svctax1,b'Windows 10 Pro',huntress, 
+svctax2,b'Windows 10 Pro',huntress, 
+svctax3,b'Windows 10 Pro 18363',huntress,sentinelone
+svctraka,b'Windows Server 2019 Standard 17763',huntress,sentinelone
+svctrakadb,b'Windows Server 2019 Standard 17763',huntress,sentinelone
+svcveeam1,b'Windows Server 2019 Standard 17763', ,sentinelone
+svcveeam2,b'Windows Server 2019 Standard 17763', ,sentinelone

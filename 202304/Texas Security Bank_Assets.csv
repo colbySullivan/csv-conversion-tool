@@ -1,0 +1,142 @@
+Asset Name,OS,cybercns-sec-vm,microsoft-ad
+desktop-ikvaqtn,b'Windows 10 Pro', ,microsoft-ad
+desktop-nav4i24,b'Windows 10 Pro', ,microsoft-ad
+desktop-okq1e64,b'Windows 10 Pro', ,microsoft-ad
+tsb-a-app01,b'Windows Server 2019 Datacenter', ,microsoft-ad
+tsb-a-app02,b'Windows Server 2019 Datacenter', ,microsoft-ad
+tsb-a-app03,b'Windows Server 2019 Datacenter', ,microsoft-ad
+tsb-a-dc01,b'Windows Server 2022 Datacenter', ,microsoft-ad
+tsb-a-file01,b'Windows Server 2022 Datacenter', ,microsoft-ad
+tsb-camtasia1,b'Windows 10 Pro for Workstations', ,microsoft-ad
+tsb-camtasia2,b'Windows 10 Pro for Workstations', ,microsoft-ad
+tsb-gr-confrm,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-dparks,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-handrad,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-imartine,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-jbahena,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-ldenton,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-ljones,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-martin1,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-mthoenne,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-mvarela,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-rkernod,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-scanner,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-scass,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-teller-1,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-teller-2,b'Windows 10 Pro', ,microsoft-ad
+tsb-gr-ynwauzor,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-amcalist,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-app03,b'Windows Server 2012 R2 Standard', ,microsoft-ad
+tsb-mc-app04,b'Windows Server 2012 R2 Standard', ,microsoft-ad
+tsb-mc-app05,b'Windows Server 2016 Standard', ,microsoft-ad
+tsb-mc-astriete,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-audit3,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-aweiss,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-bowens,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-bswinney,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-chathcoc,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-confrm,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-confrm2,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-dkeith,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-dmiller1,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-dmurray,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-fisrv1,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-gadams,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-hrodrig,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-jcumming,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-jevans1,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-jharrod,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-jhutson,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-jjohnsto,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-jlevinsk,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-jnichols,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-jocker,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-jwindle,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-kbennett,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-kcerf,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-kharger,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-krundus1,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-ljohnson,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-lminter1,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-loaner1,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-loaner2,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-loaner3,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-loaner4,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-loaner5,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-mbrady,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-mmeshell,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-mwimberl,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-nstory,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-ozayda1,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-rmaurer,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-rminor,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-sbardric,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-shargis,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-shuff,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-styler1,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-teller-2,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-teller1,b'Windows 10 Pro', ,microsoft-ad
+tsb-mc-tspratt,b'Windows 10 Pro', ,microsoft-ad
+tsb-old-bparkey,b'Windows 10 Pro', ,microsoft-ad
+tsb-old-msmithl,b'Windows 10 Pro', ,microsoft-ad
+tsb-old-mthoenn,b'Windows 10 Pro', ,microsoft-ad
+tsb-old-rgonzal,b'Windows 10 Pro', ,microsoft-ad
+tsb-r-cjones,b'Windows 10 Pro', ,microsoft-ad
+tsb-r-dparks,b'Windows 10 Pro', ,microsoft-ad
+tsb-rdp,b'Windows Server 2016 Standard',cybercns-sec-vm,microsoft-ad
+tsb-sl-conf1,b'Windows 10 Pro', ,microsoft-ad
+tsb-sl-conf2,b'Windows 10 Pro', ,microsoft-ad
+tsb-sl-jbritton,b'Windows 10 Pro', ,microsoft-ad
+tsb-sl-teller1,b'Windows 10 Pro', ,microsoft-ad
+tsb-sl-traedesk,b'Windows 10 Pro', ,microsoft-ad
+tsb-sl-tsewell,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-abailey,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-aschuste,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-bactell,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-bbetzen,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-bparkey1,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-cbenson2,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-cgarcia1,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-cjones,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-confrm,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-cristor1,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-cscheef,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-cshipp,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-dcarama1,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-dcollins,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-emosquer,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-esander1,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-gshaw,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-gshea-ha,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-intern,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-jjett,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-jlamb,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-kbaisle1,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-kdalton,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-ktaylor,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-llane,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-lsmith1,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-mcastald,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-mcavins,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-mgutierr,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-mhanley1,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-mhenry1,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-mmcintos,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-mryan,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-msmith1,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-ndrew,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-pmcquade,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-pscott,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-psmith,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-rgonzale,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-scanner,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-sleon,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-squizam,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-teller-1,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-teller-2,b'Windows 10 Pro', ,microsoft-ad
+tsb-tc-trism1,b'Windows 10 Pro', ,microsoft-ad
+tsbapp02,b'Windows Server 2008 R2 Standard', ,microsoft-ad
+tsbapp06,b'Windows Server 2016 Standard', ,microsoft-ad
+tsbdc1,b'Windows Server 2008 R2 Standard', ,microsoft-ad
+tsbdc2,b'Windows Server 2008 R2 Standard', ,microsoft-ad
+tsbdc5,b'Windows Server 2008 R2 Standard', ,microsoft-ad

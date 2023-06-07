@@ -1,0 +1,70 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad,microsoft-ad-users,sentinelone
+brt-prod-maps,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, , ,sentinelone
+brt-slx_test,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, , ,sentinelone
+brt-sql03,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, , ,sentinelone
+brt-tableau,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, , ,sentinelone
+brt_slx,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, , ,sentinelone
+mssql01,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, , ,sentinelone
+of-dlv2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, , ,sentinelone
+p1-dl,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+p2-dl,b'Windows 10 Pro 19042',cybercns-sec-vm, , , ,sentinelone
+prod-proc01,b'Windows 8.1 Pro N 9600',cybercns-sec-vm,huntress, , ,sentinelone
+prod-proc02,b'Windows 8.1 Pro N 9600',cybercns-sec-vm,huntress, , ,sentinelone
+sql02,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, , ,sentinelone
+support,b'Windows 7 Professional  7601 SP1', ,huntress, , ,sentinelone
+tableau-test,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, , ,sentinelone
+test-proc02,b'Windows 10 Enterprise N 19044',cybercns-sec-vm,huntress, , ,sentinelone
+v18,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, , ,sentinelone
+win-638kehj01p0,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, , ,sentinelone
+xi-d5,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-dc3,b'Windows Server 2008 R2 Standard', ,huntress, , , 
+xi-dc5,b'Windows Server 2012 R2 Standard 9600', ,huntress, , ,sentinelone
+xi-dev13,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-dev14,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-dev17,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-dev18,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-dev20,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-dev21,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, , ,sentinelone
+xi-dev22,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-dev3,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, , ,sentinelone
+xi-dev9,b'Windows 10 Pro 19045', ,huntress, , ,sentinelone
+xi-hyperv1,b'Windows 8.1 Pro N 9600',cybercns-sec-vm,huntress, , ,sentinelone
+xi-hyperv2,b'Windows 10 Pro N 19044',cybercns-sec-vm,huntress, , ,sentinelone
+xi-hyperv3,b'Windows 10 Pro N',cybercns-sec-vm,huntress, , , 
+xi-hyperv4,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, , ,sentinelone
+xi-hyperv5,b'Windows 10 Pro N 19044',cybercns-sec-vm,huntress, , ,sentinelone
+xi-lt07,b'Windows 10 Pro 19044', , , , ,sentinelone
+xi-lt09,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, , ,sentinelone
+xi-lt11,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-lt12,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, , ,sentinelone
+xi-lt13,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-lt15,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-lt17,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-lt18,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-lt20,b'Windows 11 Pro 22621', ,huntress, , ,sentinelone
+xi-ofsqltest,b'Windows 8.1 Pro 9600',cybercns-sec-vm,huntress, , ,sentinelone
+xi-perforce,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, , ,sentinelone
+xi-surface11,b'Windows 11 Pro 22621', ,huntress, , ,sentinelone
+xi-surface12,b'Windows 11 Pro 22621', ,huntress, , ,sentinelone
+xi-surface14,b'Windows 11 Pro 22621', ,huntress, , ,sentinelone
+xi-surface9,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, , ,sentinelone
+xi-test-sql,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, , ,sentinelone
+xi-test-web,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress, , ,sentinelone
+xi-test-web2,b'Microsoft Windows Server 2016 Standard',cybercns-sec-vm,huntress, , , 
+xi-w171,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-w172,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-w173,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-w174,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-w192,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-w195,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-w211,b'Windows 10 Pro 19043',cybercns-sec-vm,huntress, , ,sentinelone
+xi-w212,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, , ,sentinelone
+xi-w221,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, , ,sentinelone
+xi-w224,b'Windows 10 Pro 19045', ,huntress, , ,sentinelone
+xi-w224,b'Microsoft Windows 10 Pro',cybercns-sec-vm, , , , 
+xi-w231,b'Windows 10 Pro 19045', ,huntress, , ,sentinelone
+xi-w232,b'Windows 10 Pro 19045', ,huntress, , ,sentinelone
+xi-w49,b'Windows 10 Pro 19045', ,huntress, , ,sentinelone
+xitest-mapserver,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, , ,sentinelone
+yyc-iis01,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, , ,sentinelone
+yyc-kb01,b'Windows Server 2012 R2 Standard 9600', ,huntress, , ,sentinelone

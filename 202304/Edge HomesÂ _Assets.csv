@@ -1,0 +1,125 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+alexs-mac-studio,b'OS X 13.3 (22E252)',cybercns-sec-vm, , ,sentinelone
+desktop-00f95gk,b'Windows 10 Business 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-0343i0l,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+desktop-03j7reg,b'Windows 10 Business 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-03qj71h,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+desktop-1m2d7g9,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-50tgcgc,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+desktop-5okvp9n,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-6n0ve76,b'Windows 10 Business 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-6oub1i2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-6srl0lf,b'Windows 10 Business 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-8vlmh3n,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-ajo27v1,b'Windows 10 Business 19045',cybercns-sec-vm,huntress, ,sentinelone
+desktop-dsossso,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-e82p3i1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-erib808,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-fqhbopj,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-fvtggef,b'Windows 10 Business 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-ghoiinj,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-hoa8a5e,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-ibbkd3l,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-jj85tet,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+desktop-mj2danj,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-nd66i0r,b'Windows 10 Enterprise 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-pl8tvup,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+desktop-qolt9vl,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-rohqivj,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-s4hvtjo,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-srpgavp,b'Windows 10 Business 19045',cybercns-sec-vm,huntress, ,sentinelone
+desktop-u1malb7,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+desktop-urbsbhj,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+desktop-urvfjas,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+desktop-uvbfu0d,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edg-kblachard,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edge-1k26cs3,b'Windows 10 Business 19045',cybercns-sec-vm,huntress, ,sentinelone
+edge-5cd6502sz6,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+edge-5cd742bsvs,b'Windows 10 Pro',cybercns-sec-vm, ,microsoft-ad, 
+edge-5cd91707xb,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+edge-8cg7175q8j,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+edge-9vnzpr3,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edge-cyjdvl3,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+edge-kova-test,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+edge-mj0c0reg,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edge-mxl63927rr,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+edge-nlarsen,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edge-ops-01,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edge-pc0fj5zw,b'Windows 10 Business 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edge-pf21v3fr,b'Windows 10 Business 19045',cybercns-sec-vm,huntress, ,sentinelone
+edge-sql-prod2,b'Windows Server 2019 Standard Evaluation 17763',cybercns-sec-vm,huntress, ,sentinelone
+edge-sql-test,b'Windows Server 2022 Standard 20348',cybercns-sec-vm,huntress, ,sentinelone
+edgedata2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgedc1,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgedc2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgehomes-amys,b'Windows 10 Business 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgehomes-ew,b'Windows 10 Business 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgehomes-jn,b'Windows 10 Pro 18363',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgehomes-jn-sp,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+edgehomes-jonh,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgehomes-mh,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+edgehomes-mj-laptop,b'Windows 10 Business 19044',cybercns-sec-vm,huntress, ,sentinelone
+edgehomes-new3,b'Windows 10 Pro', ,huntress, , 
+edgehomes-nl,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgehomes-sb,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgehomes-sf,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgelaptop-nb,b'Windows 10 Business 19044',cybercns-sec-vm,huntress, ,sentinelone
+edgelaptop-rr,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+edgemj08jnnx,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+edgeprint1,b'Windows Server 2012 Standard 9200',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgerds2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+edgesb-appsprod,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgesurface-bw,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+edgevmhost2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edgevmhost3,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress, ,sentinelone
+edh-cad-dt-01,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edh-cad-lt-01,b'Windows 10 Enterprise 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edh-cad-natallia,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edh-design-01,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edh-design-02,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+edh-dt-cherylr,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edh-dt-dottie,b'Windows 10 Pro 16299',cybercns-sec-vm,huntress, ,sentinelone
+edh-hq-00001-d,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+edh-lt-heather,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edh-pc-jed,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edh-pc-jharward,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edh-stevea,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+edh-surface-002,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+edh-surface-003,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+edh-surface-004,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+emilys-mac-mini,b'OS X 12.2.1 (21D62)', , , ,sentinelone
+familyroom,b'Windows 10 Enterprise 19044',cybercns-sec-vm,huntress, ,sentinelone
+imac-c02qq0s4gg7j,b'OS X 12.6.2 (21G320)',cybercns-sec-vm, , ,sentinelone
+jaredb-pc,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+jaws,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jeremys-imac,b'OS X 13.3 (22E252)', , , ,sentinelone
+jessica bryce (2),b'OS X 12.5.1 (21G83)', , , ,sentinelone
+jessicas-macbook-air,b'OS X 13.1 (22C65)', , , ,sentinelone
+keslies-imac,b'OS X 11.6.5 (20G527)', , , ,sentinelone
+laptop-0sbp9kuv,b'Windows 10 Business 19045',cybercns-sec-vm,huntress, ,sentinelone
+laptop-1g3lpac0,b'Windows 10 Business 19044',cybercns-sec-vm,huntress, ,sentinelone
+laptop-2bmpn8ad,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-3mi0i8qb,b'Windows 10 Business 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-8g1blapl,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-avcjg1p2,b'Windows 10 Business 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-b66a7jh4,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-eb4dl8rf,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-hqornuqi,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-oha6sv02,b'Windows 10 Business 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+lauren's imac c02t83vngg7l,b'OS X 12.4 (21F79)', , , ,sentinelone
+macbook air,b'OS X 12.6.2 (21G320)', , , ,sentinelone
+macbook pro (6),b'OS X 12.5 (21G72)',cybercns-sec-vm, , ,sentinelone
+macbook-air,b'macOS',cybercns-sec-vm, , , 
+marketings-imac,b'OS X 12.5 (21G72)',cybercns-sec-vm, , ,sentinelone
+mitchell hilburn,b'OS X 11.2.2 (20D80)', , , ,sentinelone
+natalie thomas's imac c02cf339jv3n,b'OS X 10.15.7 (19H1922)', , , ,sentinelone
+natem-thinkpad,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+scott-kellys-macbook-air,b'OS X 12.6.3 (21G419)',cybercns-sec-vm, , ,sentinelone
+secops,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+sfa-la-pc2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+shelleys-macbook-pro,b'OS X 12.2.1 (21D62)',cybercns-sec-vm, , ,sentinelone
+stephens-macbook-pro,b'OS X 13.0 (22A380)', , , ,sentinelone
+tablet-kffrkjtn,b'Windows 10 Enterprise 19044',cybercns-sec-vm,huntress, ,sentinelone
+testing-mac-mini-h2wfv0kxq6nv,b'OS X 12.6 (21G115)',cybercns-sec-vm, , ,sentinelone
+thomass-macbook-air,b'OS X 10.15.7 (19H2026)',cybercns-sec-vm, , ,sentinelone
+wadesavagemacbookair,b'OS X 13.2 (22D49)', , , ,sentinelone

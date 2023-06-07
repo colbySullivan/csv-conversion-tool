@@ -1,0 +1,60 @@
+Asset Name,OS,huntress,microsoft-ad,sentinelone
+accounting,b'Windows Server 2022 Standard 20348',huntress,microsoft-ad,sentinelone
+aurora11-1,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora11-2,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora11-3,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+aurora11-4,b'Windows 11 Enterprise 22621',huntress,microsoft-ad,sentinelone
+aurora11-5,b'Windows 11 Enterprise 22621',huntress,microsoft-ad,sentinelone
+aurora11-marc,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora12-1,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora12-2,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora12-3,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora12-4,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora12-5,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora12-6,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora12-7,b'Windows 11 Enterprise 22621',huntress,microsoft-ad,sentinelone
+aurora12-8,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora12-9,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora13-1,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora13-2,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora13-3,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora13-4,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora7-4,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora8-1,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+aurora8-2,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+aurora9-1,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+backup-2022,b'Windows Server 2022 Standard 20348',huntress,microsoft-ad,sentinelone
+dell-g5-1,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+dell-r3-server,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+dell-r4-server,b'Windows Server 2022 Standard 20348',huntress,microsoft-ad,sentinelone
+desktop-eo28k8m,b'Windows 10 Pro 19045',huntress, ,sentinelone
+gateway,b'Windows Server 2022 Standard', ,microsoft-ad,sentinelone
+hp-envy13,b'Windows 11 Home 22000',huntress, ,sentinelone
+hyperv-2016,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+laptop-dgaam2di,b'Windows 10 Home',huntress, , 
+mark,b'Windows 11 Home 22621',huntress, ,sentinelone
+matthews-imac,b'OS X 13.2.1 (22D68)', , ,sentinelone
+profx-cch,b'Windows Server 2022 Standard 20348',huntress,microsoft-ad,sentinelone
+r750-b1y2qr3,b'Windows Server 2022 Standard 20348',huntress,microsoft-ad,sentinelone
+rodriquezhome,b'Windows 10 Pro 19044',huntress, ,sentinelone
+test,b'Windows 10 Enterprise 19045',huntress,microsoft-ad,sentinelone
+test-one,b'Windows 10 Pro', ,microsoft-ad, 
+wsus,b'Windows Server 2022 Standard',huntress,microsoft-ad,sentinelone
+ww-hpenvylaptop,b'Windows 10 Pro 19045',huntress, ,sentinelone
+xps15-10,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+xps15-5,b'Windows 10 Pro 19042',huntress,microsoft-ad,sentinelone
+xps15-6,b'Windows 10 Pro',huntress,microsoft-ad, 
+xps15-7,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+xps15-8,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+xps15-carina,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+xps16-1,b'Windows 11 Pro 22621',huntress, ,sentinelone
+xps17-2,b'Windows 11 Pro 22621',huntress, ,sentinelone
+xps8930-1,b'Windows 11 Pro 22621',huntress, ,sentinelone
+xps8930-2,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+xps8930-4,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+xps8940-1,b'Windows 10 Enterprise 19045',huntress,microsoft-ad,sentinelone
+xps8940-2,b'Windows 11 Pro 22000',huntress, ,sentinelone
+xps8940-3,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+xps8940-4,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+xps8950-1,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone
+xps8950-2,b'Windows 11 Pro 22621',huntress,microsoft-ad,sentinelone

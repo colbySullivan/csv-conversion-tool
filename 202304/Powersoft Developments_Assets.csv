@@ -1,0 +1,61 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+bp-hv1,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+bp-hv2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+bp-hv3,b'Windows Server 2019 Standard 17763', ,huntress, ,sentinelone
+bp-hv4,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+bp-ops1,b'Windows Server 2019 Standard 17763', ,huntress, ,sentinelone
+bp-ops2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+bp-rd1,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+bp-rd2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+dc1,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+dc1,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone
+devjaws1,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone
+devrater1,b'Windows Server 2008 R2 Enterprise  7601 SP1', , , ,sentinelone
+exchange,b'Windows Server 2019 Standard 17763', , , ,sentinelone
+mikalien,b'Windows 11 Pro 22621', , , ,sentinelone
+powerdb1,b'CentOS release 7.7.1908 (Core) 3.10.0-1062.1.1.el7.x86_64', , , ,sentinelone
+powerdb2,b'CentOS release 7.7.1908 (Core) 3.10.0-1062.4.1.el7.x86_64', , , ,sentinelone
+powerprodweb1,b'Fedora release 30 (Thirty) 5.6.13-100.fc30.x86_64', , , ,sentinelone
+powerwebprod1,b'Windows Server 2012 R2 Standard 9600', , , ,sentinelone
+prodjaws1,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+prodjaws2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone
+prodjaws3,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone
+prodrater1,b'Windows Server 2008 R2 Enterprise  7601 SP1', , , ,sentinelone
+prodrater3,b'Windows Server 2008 R2 Enterprise  7601 SP1', , , ,sentinelone
+ps-dc2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone
+ps-devteam01,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ps-devteam03,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ps-devteam11,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ps-devteam30,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ps-devteam96,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ps-hv1,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+ps-hv2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone
+ps-hv4,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone
+ps-hv5,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone
+ps-hv6,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone
+ps-hv8,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone
+ps-hv9,b'Windows Server 2019 Standard 17763', , , ,sentinelone
+ps-macbookpro09,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+ps-managment01,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ps-ratesvcs01,b'Windows 10 Pro 19045',cybercns-sec-vm, , ,sentinelone
+ps-ratesvcs8,b'Windows 10 Pro 17134',cybercns-sec-vm, , ,sentinelone
+ps-sales01,b'Windows 10 Pro 19045', , , ,sentinelone
+ps-sales02,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+ps-support17,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ps-support2,b'Windows 10 Pro 19045',cybercns-sec-vm, , ,sentinelone
+ps_demo1,b'Windows 10 Pro 19045', , , ,sentinelone
+solis,b'Windows Server 2019 Standard 17763', , , ,sentinelone
+sv-hv1,b'Microsoft Windows Server 2019 Standard',cybercns-sec-vm,huntress, , 
+sv-hv15,b'Windows Server 2019 Standard 17763', , , ,sentinelone
+sv-hv3,b'Windows Server 2019 Standard 17763', ,huntress, ,sentinelone
+sv-hv5,b'Windows Server 2019 Standard 17763', ,huntress, ,sentinelone
+sv-hv6,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+sv-hv7,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+systemcenter,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress, ,sentinelone
+systemcenter,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone
+tp-dc1,b'Windows Server 2019 Standard 17763', , , ,sentinelone
+tp-hv1,b'Windows Server 2019 Standard 17763', , , ,sentinelone
+tp-hv2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone
+tp-ws1,b'Windows 11 Pro 22000',cybercns-sec-vm, , ,sentinelone
+tp-ws2,b'Windows 11 Pro 22000', , , ,sentinelone
+uatjaws1,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, , ,sentinelone

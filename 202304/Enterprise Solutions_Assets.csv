@@ -1,0 +1,194 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad
+accubidserv1,b'Windows Server 2016 Standard', ,huntress,microsoft-ad
+aut-agouda,b'Windows 10 Pro', ,huntress,microsoft-ad
+aut-astacy,b'Windows 10 Pro', ,huntress,microsoft-ad
+aut-jromano,b'Windows 10 Pro', ,huntress,microsoft-ad
+aut-rforcum,b'Windows 10 Pro', ,huntress,microsoft-ad
+dcserv1,b'Windows Server 2016 Standard', ,huntress,microsoft-ad
+dcserv2,b'Windows Server 2016 Standard', ,huntress,microsoft-ad
+desktop-7d5fr4u,b'Windows 10 Pro', ,huntress, 
+desktop-s9nhrq8,b'Windows 10 Pro', ,huntress, 
+eeebms1,b'Windows Server\xc2\xae 2008 Standard', , ,microsoft-ad
+eelap-ahartley,b'Windows 10 Pro', ,huntress,microsoft-ad
+eelap-cleggett,b'Windows 10 Pro', ,huntress,microsoft-ad
+eelap-dharris,b'Windows 10 Pro', ,huntress,microsoft-ad
+eelap-ibaker1,b'Windows 10 Pro', , ,microsoft-ad
+eelap-jcantrel,b'Windows 10 Pro', ,huntress,microsoft-ad
+eelap-lseabury2,b'Windows 10 Pro', ,huntress,microsoft-ad
+eelap-mdiebold1,b'Windows 10 Pro', ,huntress,microsoft-ad
+eelap-swoods,b'Windows 10 Pro', ,huntress,microsoft-ad
+eelap-twash1,b'Windows 10 Pro', ,huntress,microsoft-ad
+eewks-adelgaic1,b'Windows 10 Pro for Workstations', ,huntress,microsoft-ad
+eewks-ahallib1,b'Windows 10 Pro', ,huntress,microsoft-ad
+eewks-asmith,b'Windows 10 Pro', ,huntress,microsoft-ad
+eewks-charley4,b'Windows 10 Pro', ,huntress,microsoft-ad
+eewks-frontdesk1,b'Windows 10 Pro', ,huntress,microsoft-ad
+eewks-jcamp1,b'Windows 10 Business', ,huntress,microsoft-ad
+eewks-jluther2,b'Windows 10 Pro', ,huntress,microsoft-ad
+eewks-mstephens,b'Windows 10 Pro', ,huntress,microsoft-ad
+eewks-prefabwh2,b'Windows 10 Pro', ,huntress,microsoft-ad
+eewks-rglass4,b'Windows 10 Pro', ,huntress,microsoft-ad
+eewks-sbaird1,b'Windows 10 Business', ,huntress,microsoft-ad
+eewks-tscoggin1,b'Windows 10 Business', ,huntress,microsoft-ad
+eewks-zoomroom,b'Windows 10 Pro', ,huntress,microsoft-ad
+eewks-zoomroom2,b'Windows 10 Pro', ,huntress, 
+eewks-zoomroom3,b'Windows 10 Pro', ,huntress, 
+eewks-zoomroom4,b'Windows 10 Pro', ,huntress, 
+esolu-aut-dc01,b'Windows Server 2016 Standard', ,huntress, 
+esolu-az-dc01,b'Windows Server 2016 Datacenter', ,huntress,microsoft-ad
+esolu-dc-05,b'Windows Server 2016 Standard', ,huntress,microsoft-ad
+fileserv1,b'Windows Server 2016 Standard', ,huntress,microsoft-ad
+fileserv3,b'Windows Server 2016 Standard', ,huntress,microsoft-ad
+fileserv5,b'Windows Server 2016 Datacenter', ,huntress,microsoft-ad
+k-harley,b'Windows XP Professional', , ,microsoft-ad
+l-lat5490-00td,b'Windows 10 Pro', ,huntress, 
+lap-aarifi,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-abaggett,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-ahalliburton,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-akirby,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-amcmullen,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-aoliver,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-bcampbell,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-bdeatonspare,b'Windows 10 Pro', ,huntress, 
+lap-bford,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-brejuso1,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-bsimpson,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-ccamello,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-ccohen,b'Windows 10 Pro', ,huntress, 
+lap-cford1,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-cmayfield2,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-csanchez,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-cshores,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-cstephens,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-cwestbrook,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-cwestbrook1,b'Windows 10 Pro', , ,microsoft-ad
+lap-dcousins,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-dcoyne,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-dharris,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-dmorris,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-dshank1,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-dshields,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-dsilguero1,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-erobinson,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-fbrangan,b'Windows 10 Pro', ,huntress, 
+lap-hlozano,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jadams,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jamesseabury,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-janderson,b'Windows 10 Pro', , ,microsoft-ad
+lap-jaseabury,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jbaker,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jbartel,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jchambers2,b'Windows 10 Pro', ,huntress, 
+lap-jchung,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-jcline1,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jgrace,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jham,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jhoffmann1,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jjasper,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-jland,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-jpotter,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jpuente,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jseabury,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jshank1,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jsmith,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-jstewart,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-jwatts,b'Windows 10 Pro', ,huntress, 
+lap-jwyncoop,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-kcasady,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-kharley1,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-kharris,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-kledger,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-kmelton2,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-lpendergrass,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-lvillarreal,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-mabyerly1,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-mbien,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-mcole1,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-mgray,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-mhinchman2,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-mmagochy,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-mmorley,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-mtompkins,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-mtompkins2,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-osolomon1,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-pmonroe,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-rcohen,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-rcollins2,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-rcollins3,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-rglass,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-rguzy,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-rherman,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-rjlillib2,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-rpenderg,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-rtorres,b'Windows 10 Pro', ,huntress, 
+lap-rvogel1,b'Windows 10 Pro', ,huntress, 
+lap-rwinkle1,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-sayriss,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-sbaird1,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-sclements,b'Windows 10 Pro', ,huntress, 
+lap-sthomas,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-sturner2,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-sturner3,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-tjarrell,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-tquirk,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-tscoggins,b'Windows 10 Business', , ,microsoft-ad
+lap-tseagram,b'Windows 10 Pro', ,huntress, 
+lap-vdcspare,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-vdctravel2,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-wbrownlee,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-wholmes,b'Windows 10 Business', ,huntress,microsoft-ad
+lap-wjohnson,b'Windows 10 Pro', ,huntress,microsoft-ad
+lap-zkesic,b'Windows 10 Pro', ,huntress,microsoft-ad
+mailserv1,b'Windows Server 2016 Standard', ,huntress,microsoft-ad
+martin-poe-pc,b'Windows 10 Pro', ,huntress, 
+printserv1,b'Windows Server 2016 Standard', ,huntress,microsoft-ad
+shoreserv1,b'Windows Server 2012 R2 Standard', ,huntress,microsoft-ad
+utilserv1,b'Windows Server 2012 R2 Standard', ,huntress,microsoft-ad
+utilserv2,b'Windows Server 2016 Standard', ,huntress,microsoft-ad
+utilserv3,b'Windows Server 2016 Standard',cybercns-sec-vm,huntress,microsoft-ad
+utilserv4,b'Windows Server 2016 Standard', ,huntress,microsoft-ad
+wks-adelgaicco,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-bb-bbalasal,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-bb-bdelgaicco,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-bb-bmcmillan,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-bb-bsaugrich,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-bb-nledford,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-bb-vdcspare,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-bbalasal2,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-belmontcr,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-belmontvdc,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-bmcmillan2,b'Windows 10 Pro for Workstations', , ,microsoft-ad
+wks-bmurray,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-bmurray2,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-bralston,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-bsaugrich,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-cleggett2,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-cmayfield,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-dmunoz1,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-eloftis,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-friscofield,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-ibaker,b'Windows 10 Business', , ,microsoft-ad
+wks-janderson2,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-jcampbell,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-jcantrell,b'Windows 10 Pro for Workstations', ,huntress,microsoft-ad
+wks-jland,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-jluther,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-jpalmer1,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-kderrick,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-kharleyhome,b'Windows 10 Pro', , ,microsoft-ad
+wks-mcampbell,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-morear,b'Windows 10 Pro for Workstations', ,huntress,microsoft-ad
+wks-msteams,b'Windows 10 Pro', ,huntress, 
+wks-npoe,b'Windows 10 Pro', ,huntress, 
+wks-orlandspare,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-prefabconf,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-rcohen,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-rjones,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-sjarrett,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-tkosmach,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-tstinson,b'Windows 10 Business', ,huntress,microsoft-ad
+wks-uhsjobsite,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-vdc1,b'Windows 10 Pro for Workstations', , ,microsoft-ad
+wks-vdchotspare,b'Windows 10 Pro', ,huntress,microsoft-ad
+wks-vdcspare,b'Windows 10 Pro for Workstations', ,huntress,microsoft-ad
+wks-whiteboard,b'Windows 10 Pro', ,huntress,microsoft-ad

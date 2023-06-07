@@ -1,0 +1,53 @@
+Asset Name,OS,huntress,microsoft-ad,sentinelone
+ct402684,b'Windows 10 Pro 19045',huntress, ,sentinelone
+ct402685,b'Windows 10 Pro 19043',huntress, ,sentinelone
+ct443817,b'Windows 10 Pro 19043',huntress, ,sentinelone
+ctsapp01,b'Windows Server 2016 Standard 14393',huntress, ,sentinelone
+ctsfpdc01,b'Windows Server 2016 Standard 14393',huntress, ,sentinelone
+rwcdsk-andrea,b'Windows 10 Pro 19042',huntress, ,sentinelone
+rwcdsk-bethnew,b'Windows 10 Pro 17134',huntress, ,sentinelone
+rwcdsk-canton4,b'Windows 10 Pro 19042',huntress, ,sentinelone
+rwcdsk-canton5,b'Windows 10 Pro 18362',huntress, ,sentinelone
+rwcdsk-cf,b'Windows 10 Pro 19045',huntress, ,sentinelone
+rwcdsk-cmoxie,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwcdsk-cuyfalls,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwcdsk-fas,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwcdsk-fran,b'Windows 10 Pro 18362',huntress, ,sentinelone
+rwcdsk-janeen,b'Windows 10 Pro 17134',huntress, ,sentinelone
+rwcdsk-jaret,b'Windows 10 Pro 18362',huntress, ,sentinelone
+rwcdsk-jeanette,b'Windows 10 Pro 18362',huntress, ,sentinelone
+rwcdsk-jill,b'Windows 10 Pro 17134',huntress, ,sentinelone
+rwcdsk-jkries,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwcdsk-kaylie,b'Windows 10 Pro 18363',huntress, ,sentinelone
+rwcdsk-laura,b'Windows 10 Pro 18362',huntress, ,sentinelone
+rwcdsk-recept,b'Windows 10 Pro 19042',huntress, ,sentinelone
+rwcdsk-reception,b'Windows 10 Pro 17763',huntress, ,sentinelone
+rwcdsk-routingvm,b'Windows 10 Pro 19043',huntress, ,sentinelone
+rwcdsk-russ,b'Windows 10 Pro 18362',huntress, ,sentinelone
+rwcdsk-sarah,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwcdsk-spare,b'Windows 10 Pro 19045',huntress, ,sentinelone
+rwcdsk-tammy,b'Windows 10 Pro 18362',huntress, ,sentinelone
+rwcdsk-tori,b'Windows 10 Pro 18363',huntress, ,sentinelone
+rwclap-2020,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwclap-aliza,b'Windows 10 Pro 19042',huntress, ,sentinelone
+rwclap-amy,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwclap-campbell,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwclap-canton1,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwclap-canton2,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwclap-canton3,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwclap-canton6,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwclap-canton7,b'Windows 10 Pro 19042',huntress, ,sentinelone
+rwclap-canton8,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwclap-farber,b'Windows 10 Pro 19045',huntress, ,sentinelone
+rwclap-french,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwclap-intern2,b'Windows 10 Pro 19042',huntress, ,sentinelone
+rwclap-jennifer,b'Windows 10 Pro 19045',huntress, ,sentinelone
+rwclap-lisa,b'Windows 10 Pro 19045',huntress, ,sentinelone
+rwclap-maddie,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwclap-monk,b'Windows 10 Pro 19045',huntress, ,sentinelone
+rwclap-tala,b'Windows 10 Pro 19044',huntress, ,sentinelone
+rwcsrv-dc,b'Windows Server 2016 Standard 14393',huntress, ,sentinelone
+rwcsrv-host1,b'Windows Server 2016 Standard 14393',huntress, ,sentinelone
+rwcsrv-profx,b'Windows Server 2016 Standard 14393',huntress, ,sentinelone
+rwcsrv-ts,b'Windows Server 2016 Standard 14393',huntress, ,sentinelone
+xps-russ,b'Windows 10 Pro 19044',huntress, ,sentinelone

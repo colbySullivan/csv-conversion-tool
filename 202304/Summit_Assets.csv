@@ -1,0 +1,48 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-dt002,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-dt010,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb001,b'Windows 10 Pro 19045',cybercns-sec-vm, ,microsoft-ad,sentinelone
+scr-hq-nb003,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb009,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb015,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb017,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb018,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb019,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb020,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb022,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb025,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb026,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb027,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb028,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb029,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb030,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb034,b'Windows 10 Pro',cybercns-sec-vm, ,microsoft-ad, 
+scr-hq-nb035,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb036,b'Windows 10 Pro',cybercns-sec-vm, ,microsoft-ad, 
+scr-hq-nb037,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb038,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb039,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb040,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb042,b'Windows 10 Pro for Workstations 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb044,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb055,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb056,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb057,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb060,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb061,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb062,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb066,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb067,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb069,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb070,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb071,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-hq-nb072,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress, ,sentinelone
+scr-hq-nb073,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress, ,sentinelone
+scr-hq-nb074,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress, ,sentinelone
+scr-hq-nb075,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress, ,sentinelone
+scr-hq-nb076,b'Windows 11 Pro 22621', , , ,sentinelone
+scr-hq-nb077,b'Windows 11 Pro 22621', , , ,sentinelone
+scr-nb-56,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-nf-dc0,b'Windows Server 2016 Datacenter 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-nf-dc1,b'Windows Server 2016 Datacenter 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scr-nf-tools,b'Windows Server 2016 Datacenter 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone

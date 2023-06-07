@@ -1,0 +1,364 @@
+Asset Name,OS,microsoft-ad,sentinelone
+2008_mars,b'Windows Server\xc2\xae 2008 Standard',microsoft-ad, 
+2008server1,b'Windows Server 2016 Standard 14393',microsoft-ad,sentinelone
+blackbaudsql,b'Windows Server 2008 R2 Standard  7601 SP1',microsoft-ad,sentinelone
+cp-254,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-289,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-3505,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-350a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-350b,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-387,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-713,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-8114-22,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-8144,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-8411a,b'Windows 7 Professional',microsoft-ad, 
+cp-8411b,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-8413,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-8439,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-8530,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-8538,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-8543,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-8544,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-8546,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-abbeyln2,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-adamsgt-2,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-adc100,b'Windows Server 2016 Standard 14393',microsoft-ad,sentinelone
+cp-adc200,b'Windows Server 2016 Standard 14393',microsoft-ad,sentinelone
+cp-adnurse4,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-adnursinga,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-adnursingc,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-anurse5,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-anursingb,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-arrow-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-art16a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-art16b,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-art16c,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-art16e,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-art16f,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-artb,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-article16h,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-blueberry-22,b'Windows 10 Pro',microsoft-ad, 
+cp-blueberryln,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-bvnursing,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-chapman2,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-chapman3-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-clarkstb,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-clc-surface1,b'Windows 10 Pro',microsoft-ad, 
+cp-clc8,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-colonial-2,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-cyb2,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-cyb3,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-cyb4,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-cyb7,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-cyb8,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-cyberlounge,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-diesman,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-dirhr-2022,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e202-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e205,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e205-2022,b'Windows 11 Pro 22621',microsoft-ad,sentinelone
+cp-e206,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e207,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e208,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e209,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e211,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e211-laptop,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+cp-e213-20,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e214,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e215,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e215a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e215b,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e217-acct,b'Windows 10 Pro for Workstations 19045',microsoft-ad,sentinelone
+cp-e218,b'Windows 10 Pro',microsoft-ad, 
+cp-e234a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e235,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e237-2022,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e238,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e240b,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e241-20a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e244-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e245,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e247,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e250,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e251,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e255,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e257,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e259,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e269-sw,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e270-22a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e272-22,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e274,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e276,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e277,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e282,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e285,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e286,b'Windows 10 Pro',microsoft-ad, 
+cp-e287,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e292,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e294-22,b'Windows 11 Pro 22621',microsoft-ad,sentinelone
+cp-e295,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e304,b'Windows 10 Pro',microsoft-ad, 
+cp-e305ar,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e311,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e317,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e319,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e320,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e321,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e321-hcfs,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e322-22,b'Windows 11 Pro 22621',microsoft-ad,sentinelone
+cp-e324-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e325,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e326,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e327,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e329,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e336,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e337,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e340_clc,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e341-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e345,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e347-22,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e352,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e353fr,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e354,b'Windows 10 Pro',microsoft-ad, 
+cp-e355,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e360,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e368-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e368-23,b'Windows 11 Pro 22621',microsoft-ad,sentinelone
+cp-e374-22,b'Windows 10 Pro',microsoft-ad, 
+cp-e378-23,b'Windows 11 Pro 22621',microsoft-ad,sentinelone
+cp-e383-22,b'Windows 10 Pro',microsoft-ad, 
+cp-e385,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e385lowerlevel,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e386,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e390-22,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e391,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e400-2022,b'Windows 10 Pro',microsoft-ad, 
+cp-e402a,b'Windows 7 Professional 7601 SP1',microsoft-ad,sentinelone
+cp-e403a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e404,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e406-22,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e408,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e416,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e419,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e421,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e422-20,b'Windows 10 Pro',microsoft-ad, 
+cp-e427,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e428-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e436,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e455-2022,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e457,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e465,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e467,b'Windows 7 Professional',microsoft-ad, 
+cp-e468,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e469,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e471a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e472a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e475,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e476-2022,b'Windows 10 Pro',microsoft-ad, 
+cp-e479-22,b'Windows 10 Pro',microsoft-ad, 
+cp-e480,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e484,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e485,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e530-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e531-20,b'Windows 10 Pro',microsoft-ad, 
+cp-e535-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e595,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e625a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e642,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e651a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e653-2022,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e707,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e709a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e734,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e745,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e746,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e749b,b'Windows 10 Pro',microsoft-ad, 
+cp-e750_clc,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e777,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e781,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e789-qa,b'Windows 10 Pro',microsoft-ad, 
+cp-e8112,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8119,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e8128-20,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e8130,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8133-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8134c-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8135a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8136-22,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8139,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8140,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8146a-20,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e8199-22,b'Windows 10 Pro',microsoft-ad, 
+cp-e8240-22,b'Windows 10 Pro',microsoft-ad, 
+cp-e8241,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8242-20,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-e8243,b'Windows 10 Pro',microsoft-ad, 
+cp-e8244-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8257-22,b'Windows 10 Pro',microsoft-ad, 
+cp-e8261-20,b'Windows 10 Pro',microsoft-ad, 
+cp-e8305,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8310,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8408,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8432,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8439,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8506,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8513,b'Windows 10 Pro',microsoft-ad, 
+cp-e8517,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8523,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8524,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8525,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8526,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8527,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8535,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8536,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8540,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-e8541,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-edward-22,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-gj0l6r4,b'Windows 10 Pro 19042',microsoft-ad,sentinelone
+cp-greenvale1-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-gsbdhmp,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-gym1,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-huba,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-hubb,b'Windows 10 Pro',microsoft-ad, 
+cp-info,b'Windows Server 2019 Standard 17763',microsoft-ad,sentinelone
+cp-it,b'Windows 10 Pro',microsoft-ad, 
+cp-it_room,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-janice2,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-jjc,b'Windows 10 Pro',microsoft-ad, 
+cp-lo-busoff,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-lo-rm-4,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-marck-2022,b'Windows 11 Pro 22621',microsoft-ad,sentinelone
+cp-marliynhouse,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-mclean-2,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-mcleana,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-mcleanb,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-med-lapb,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-med-laptop-a,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-mediw10gold,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-mpr-left,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-nursing-22,b'Windows 10 Pro',microsoft-ad, 
+cp-oside10,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-oside11,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-oside12,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-oside5,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-oside6,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-ot-pt1,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-ot-pt2,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-ot-pt3,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-ot-pt4,b'Windows 10 Pro',microsoft-ad, 
+cp-ot-pt5,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-ota,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-otb,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-otc,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-otd,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-ote,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-otf,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-otg,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-oth,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-otj,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-otk,b'Windows 10 Pro',microsoft-ad, 
+cp-pta,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-ptb,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-ptd,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-pte,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-ptf,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-ptg,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-pti,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-ptj,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-ptk,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r121-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r123b,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r126-23,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r129-22a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r129b,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r130a-23,b'Windows 11 Pro 22621',microsoft-ad,sentinelone
+cp-r130b-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r130b-23,b'Windows 11 Pro 22621',microsoft-ad,sentinelone
+cp-r200a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r207a,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r210,b'Windows 10 Pro',microsoft-ad, 
+cp-r211b,b'Windows 10 Pro',microsoft-ad, 
+cp-r403-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r404-22,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r405-20,b'Windows 10 Pro',microsoft-ad, 
+cp-r410-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r416a,b'Windows 7 Professional',microsoft-ad, 
+cp-r417-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r418-22,b'Windows 10 Pro',microsoft-ad, 
+cp-r423,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r432-2022,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r522,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-r528,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-reception,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-res-laptop03,b'Windows 11 Pro 22621',microsoft-ad,sentinelone
+cp-res387,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-res557-2022,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-res565-2022,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-res565b-2022,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-reslap_mclean,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-richmondrd,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-rm402-2023,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-rm409-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-room104-23,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-room3b,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-room3f,b'Windows 10 Pro 19043',microsoft-ad,sentinelone
+cp-room400,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-room430,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-seaford,b'Windows 7 Professional 7601 SP1',microsoft-ad,sentinelone
+cp-seafordmaryannb,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-seafrd1-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-shipping-22,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-snackshack,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+cp-switchbd,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-tbia-2022,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-tech1,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-tech2,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-tech3,b'Windows 10 Pro',microsoft-ad, 
+cp-trans1,b'Windows 11 Pro 22621',microsoft-ad,sentinelone
+cp-wantagh4,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-wanthub4-20,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-warehouse-23,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cp-x462-22,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cpe-729,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cpe-8143,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+cpn-vmadf1,b'Windows Server 2012 R2 Standard 9600',microsoft-ad,sentinelone
+cpn-vmadf2,b'Windows Server 2012 R2 Standard 9600', ,sentinelone
+desktop-0vffi4b,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+desktop-1ogci0i,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+desktop-2a2thpi,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+desktop-2f5r3eh,b'Windows 10 Pro',microsoft-ad, 
+desktop-3e3til8,b'Windows 11 Pro',microsoft-ad, 
+desktop-7688tf8,b'Windows 11 Pro',microsoft-ad, 
+desktop-8a1hp3e,b'Windows 10 Pro',microsoft-ad, 
+desktop-hqnnkk4,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+desktop-jlhtef8,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+desktop-mumv44q,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+desktop-n6f65cc,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+desktop-o376l1o,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+desktop-oaevv1q,b'Windows 11 Pro',microsoft-ad, 
+desktop-qffuigc,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+desktop-qkk25ug,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+desktop-ri1kmn7,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+desktop-rk4t6ij,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+desktop-t4toeur,b'Windows 10 Pro 19044',microsoft-ad,sentinelone
+desktop-tbbj11m,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+desktop-tdikl1i,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+desktop-ur99m07,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+desktop-vclf8m0,b'Windows 10 Pro 22621',microsoft-ad,sentinelone
+dhcp-vm1,b'Windows Server 2012 R2 Standard 9600',microsoft-ad,sentinelone
+dns-2012,b'Windows Server 2012 R2 Standard 9600',microsoft-ad,sentinelone
+ecw-fax,b'Windows Server 2012 R2 Standard 9600',microsoft-ad,sentinelone
+exchange2010,b'Windows Server 2008 ServicePack2',microsoft-ad,sentinelone
+hyperv-1,b'Windows Server 2016 Standard 14393',microsoft-ad,sentinelone
+it-lap2021,b'Windows 10 Pro',microsoft-ad, 
+it-lap2021,b'Windows 10 Pro 19044', ,sentinelone
+it483w10,b'Windows 10 Pro',microsoft-ad, 
+keriemgr,b'Windows Server 2012 R2 Standard 9600',microsoft-ad,sentinelone
+lo-rm-3,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+marsw10,b'Windows 10 Pro 19045',microsoft-ad,sentinelone
+pentamation,b'Windows Server 2003',microsoft-ad, 
+ps01,b'Windows Server 2019 Standard 17763',microsoft-ad,sentinelone
+reslap-cd,b'Windows 10 Pro',microsoft-ad, 
+ucp_accu,b'Windows Server 2003',microsoft-ad, 
+ucp_accu1,b'Windows Server 2008 R2 Standard  7601 SP1',microsoft-ad,sentinelone
+vivotek-pc-8ae6,b'Windows Embedded Standard',microsoft-ad, 

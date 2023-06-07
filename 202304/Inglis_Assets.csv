@@ -1,0 +1,294 @@
+Asset Name,OS,huntress,microsoft-ad,microsoft-ad-users,sentinelone
+c-300,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+c-302,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+c-303,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+c-304,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+c-310,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+c-312,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+c-314,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+c-316,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+c-317,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+c-318,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+c-319,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+c-324,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+c-326,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-adm-mj0a00x6,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+d-adp-mj07f8na,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-adp-mj07f8ze,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+d-atp-mg0052xa,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+d-atp-mj057nmb,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-atp-mj08ae6v,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-bus-mj07f8qe,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-eng-camera,b'Windows 7 Professional', ,microsoft-ad, , 
+d-eng-mj03dm2k,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+d-eng-mj05ajbt,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-eng-mj0a011n,b'Windows 10 Enterprise 19041',huntress,microsoft-ad, ,sentinelone
+d-eng-mj0a3t7j,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-eng-mj0a3t7v,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-evs-mj07f97f,b'Windows 10 Enterprise 19045', ,microsoft-ad, ,sentinelone
+d-evs-mj07f9qy,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+d-fsd-mj04vdsd,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-fsd-mj07e0zl,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-fsd-mj07f7t9,b'Windows 11 Enterprise 22621',huntress,microsoft-ad, ,sentinelone
+d-fsd-mj07f8hk,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-fsd-mj07f8nh,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-fsd-mj07f8p8,b'Windows 10 Enterprise 19045',huntress, , ,sentinelone
+d-fsd-mj07f97k,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-him-mj05bx1r,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-him-mj07f97a,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-is-mj010107,b'Windows 10 Pro',huntress,microsoft-ad, ,sentinelone
+d-is-mj07f96p,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-med-mj05akgv,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-nur-mj033a6y,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+d-nur-mj03kuuq,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+d-nur-mj03kuvg,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-nur-mj03kuvh,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+d-nur-mj03kuvq,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+d-nur-mj03kuw4,b'Windows 10 Enterprise',huntress,microsoft-ad, , 
+d-nur-mj03luw4,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+d-nur-mj03lv1y,b'Windows 11 Enterprise 22000',huntress,microsoft-ad, ,sentinelone
+d-nur-mj05bx1w,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+d-nur-mj07f8l3,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-nur-mj07f8yp,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-nur-mj08ae6p,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-nur-mj0a00xc,b'Windows 11 Enterprise',huntress,microsoft-ad, , 
+d-nur-mj0a00zr,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+d-nur-mj0a010w,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+d-nur-mj0a3t7m,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-poc-mj03luu7,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-prd-mj05akgs,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-ptd-mg00390f,b'Windows 10 Enterprise 19041',huntress,microsoft-ad, ,sentinelone
+d-ptd-mj00u61h,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+d-ptd-mj00u62k,b'Windows 10 Enterprise 19041',huntress,microsoft-ad, ,sentinelone
+d-ptd-mj05akgj,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-ptd-mj07f97m,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-ptd-mj0a012e,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+d-pur-mj05akgf,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-pur-mj05akht,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-pur-mj0a3t7n,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+d-sec-m07f8z7,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-sec-mj03fmcu,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+d-sec-mj04vdv3,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+d-sec-mj0a0120,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+d-sec-mj0a3t6z,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-testpcw102004,b'Windows 10 Pro 19042',huntress,microsoft-ad, ,sentinelone
+d-testpcw10ent,b'Windows 10 Enterprise 2016 LTSB',huntress,microsoft-ad, , 
+d-testpcw10p,b'Windows 10 Pro',huntress, , , 
+d-trd-mg00390c,b'Windows 10 Pro 19044',huntress,microsoft-ad, ,sentinelone
+d-trd-mj00u5zx,b'Windows 10 Pro 14393', , , ,sentinelone
+d-trd-mj00u605,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-trd-mj00u60l,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-trd-mj01gxpd,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-trd-mj03kuvf,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-trd-mj05akg4,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-trd-mj05bvyt,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-trd-mj05bx20,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-trd-mj07e0xs,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-trd-mj07e0z4,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-trd-mj07f97n,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-trd-mj0a011s,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+d-vol-mj03luyp,b'Windows 10 Enterprise 19045',huntress, , ,sentinelone
+d-vol-mj05akhj,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+d-wnd-mg0038q6,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+d-wnd-mj00u5zw,b'Windows 10 Enterprise', ,microsoft-ad, , 
+d-wnd-mj86ea1,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+garysmacbook,b'OS X 13.3.1 (22E261)', ,microsoft-ad, ,sentinelone
+hr-training,b'Windows 11 Enterprise',huntress,microsoft-ad, , 
+ing-abs,b'Windows Server 2016 Datacenter 14393',huntress,microsoft-ad, ,sentinelone
+ing-adfs4-1,b'Windows Server 2016 Datacenter 14393',huntress,microsoft-ad, ,sentinelone
+ing-app-01,b'Windows Server 2012 R2 Datacenter 9600',huntress,microsoft-ad, ,sentinelone
+ing-arbiter-01,b'Windows Server 2016 Standard',huntress,microsoft-ad, , 
+ing-ccure-02,b'Windows Server 2019 Standard', ,microsoft-ad, , 
+ing-coreia-dc1,b'Windows Server 2016 Datacenter 14393',huntress,microsoft-ad, ,sentinelone
+ing-coreia-dc2,b'Windows Server 2016 Datacenter 14393', ,microsoft-ad, ,sentinelone
+ing-dc03,b'Windows Server 2016 Datacenter 14393',huntress,microsoft-ad, ,sentinelone
+ing-exch16,b'Windows Server 2016 Datacenter 14393',huntress,microsoft-ad, ,sentinelone
+ing-fs-01,b'Windows Server 2008 R2 Enterprise  7601 SP1',huntress,microsoft-ad, ,sentinelone
+ing-imager-01,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad, ,sentinelone
+ing-mdt-01,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad, ,sentinelone
+ing-nps-01,b'Windows Server 2008 R2 Enterprise  7601 SP1',huntress,microsoft-ad, ,sentinelone
+ing-optimus-01,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad, ,sentinelone
+ing-ps-02,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad, ,sentinelone
+ing-sccm-01,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad, ,sentinelone
+ing-sql-08,b'Windows Server 2012 R2 Datacenter 9600',huntress,microsoft-ad, ,sentinelone
+ing-sql-09,b'Windows Server 2012 Datacenter 9200',huntress,microsoft-ad, ,sentinelone
+ing-sym-01,b'Windows Server 2008 R2 Enterprise', ,microsoft-ad, , 
+ing-utility-02,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+ing-vcenter-02,b'SLES', ,microsoft-ad, , 
+ing-vcenter-03,b'SLES', ,microsoft-ad, , 
+ing-vcupdate-02,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad, ,sentinelone
+ing-veeam-01,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad, ,sentinelone
+ing-wsus-01,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad, ,sentinelone
+l-adm-pc1mtxnp,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-adm-pf0rlu6y,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-adm-pf1rc4ds,b'Windows 10 Enterprise',huntress,microsoft-ad, , 
+l-adm-r90ruwe6,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-adp-pc1h2594,b'Windows 10 Enterprise',huntress,microsoft-ad, , 
+l-adp-pf0z8xh6,b'Windows 10 Enterprise',huntress,microsoft-ad, ,sentinelone
+l-adp-pf1ez733,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-adp-pf1q8hcc,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-atp-pc09s6gn,b'Windows 10 Enterprise 19041',huntress,microsoft-ad, ,sentinelone
+l-atp-pc1mtxlf,b'Windows 11 Enterprise 22621',huntress,microsoft-ad, ,sentinelone
+l-atp-pc1mtxm6,b'Windows 10 Enterprise 19041',huntress,microsoft-ad, ,sentinelone
+l-bus-pc041al6,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-bus-pf0sxl10,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-bus-pf1ex258,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-bus-pf1exkg7,b'Windows 11 Enterprise', ,microsoft-ad, , 
+l-bus-pf1ez3pg,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-bus-pf1jcpq6,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-bus-pf26exwp,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+l-bus-r90pu0up,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-bus-r90pu0ut,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-car-pf1eyqvq,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-ces-pc0x3uas,b'Windows 10 Enterprise', ,microsoft-ad, , 
+l-ces-pf0sxl1l,b'Windows 10 Enterprise', ,microsoft-ad, , 
+l-ces-pf0z8w0v,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-ces-pf1exf3l,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-ces-pf1exmll,b'Windows 10 Enterprise 2016 LTSB',huntress,microsoft-ad, , 
+l-com-pc1mtxl1,b'Windows 10 Pro 19045',huntress,microsoft-ad, ,sentinelone
+l-com-pc1mtxlv,b'Windows 10 Enterprise 19041',huntress,microsoft-ad, ,sentinelone
+l-com-pc1mtxm4,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-com-pc1mtxml,b'Windows 10 Enterprise',huntress,microsoft-ad, ,sentinelone
+l-com-pc2baq5h,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-com-pf1ez9nr,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-crd-pf1eyt5j,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-crd-pf1q8dc3,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-crd-pf1rca4l,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-eng-pc0a7kzt,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-exc-pc2jq4qk,b'Windows 11 Pro 22000',huntress,microsoft-ad, ,sentinelone
+l-exc-r90v4lph,b'Windows 10 Enterprise 19045',huntress, , ,sentinelone
+l-fsd-pc1mtxl0,b'Windows 11 Enterprise 22000',huntress,microsoft-ad, ,sentinelone
+l-him-r90txx5x,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-hrd-pc0l4sb9,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-hrd-pc1mtxkz,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-hrd-pf1eyjrr,b'Windows 11 Enterprise 22000', ,microsoft-ad, ,sentinelone
+l-hrd-pf1rc4dm,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-hrd-pf26eep8,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-ics-pc1h258p,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-ics-pc1h258s,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-ics-pc1h259p,b'Windows 10 Enterprise', ,microsoft-ad, , 
+l-ics-pc1h259v,b'Windows 10 Enterprise',huntress,microsoft-ad, , 
+l-ics-pc1h25a1,b'Windows 10 Enterprise 19041',huntress,microsoft-ad, ,sentinelone
+l-ics-pc1h25a4,b'Windows 11 Enterprise 22621',huntress,microsoft-ad, ,sentinelone
+l-ics-pc1h25bf,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-ics-pc1mtxl9,b'Windows 10 Enterprise',huntress,microsoft-ad, , 
+l-ics-pc1mtxld,b'Windows 10 Enterprise', ,microsoft-ad, , 
+l-ics-pc1mtxm7,b'Windows 10 Enterprise 19041',huntress,microsoft-ad, ,sentinelone
+l-ics-pc1mtxmf,b'Windows 10 Pro 19045',huntress,microsoft-ad, ,sentinelone
+l-ics-pc1mtxn4,b'Windows 11 Enterprise 22621',huntress,microsoft-ad, ,sentinelone
+l-ics-pc1mtxn6,b'Windows 10 Enterprise', ,microsoft-ad, , 
+l-ics-pc1mtxnh,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-ics-pc1y6pkt,b'Windows 11 Enterprise 22621', ,microsoft-ad, ,sentinelone
+l-ics-pc2jq88p,b'Windows 11 Enterprise 22621',huntress,microsoft-ad, ,sentinelone
+l-ics-pf2f8kk9,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-ihc-pc1mtxnk,b'Windows 11 Enterprise 22000',huntress,microsoft-ad, ,sentinelone
+l-ihc-pf129lr0,b'Windows 10 Pro 19042',huntress,microsoft-ad, ,sentinelone
+l-ihc-pf142kbu,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-ihc-pf142lfd,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-ihc-pf142vve,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-ihc-pf1437l6,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-ihc-pf1437nc,b'Windows 11 Enterprise 22000', ,microsoft-ad, ,sentinelone
+l-ihc-pf1jdzjs,b'Windows 11 Enterprise 22000', ,microsoft-ad, ,sentinelone
+l-ihc-pf1q8k50,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-ihc-pf213rx0,b'Windows 11 Enterprise 22621',huntress,microsoft-ad, ,sentinelone
+l-is-pc0dghl7,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-is-pc0dghl9,b'Windows 11 Enterprise 22000',huntress,microsoft-ad, ,sentinelone
+l-is-pc0dghlb,b'Windows 10 Pro 10586',huntress,microsoft-ad, ,sentinelone
+l-is-pc0dghlc,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-is-pc0un2ha,b'Windows 11 Enterprise 22000',huntress,microsoft-ad, ,sentinelone
+l-is-pf14ha0t,b'Windows 11 Enterprise 22621',huntress,microsoft-ad, ,sentinelone
+l-is-pf1w5b37,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-is-pf1w7c01,b'Windows 11 Enterprise 22621',huntress,microsoft-ad, ,sentinelone
+l-is-pf26edha,b'Windows 11 Enterprise 22621',huntress,microsoft-ad, ,sentinelone
+l-is-r90n70dx,b'Windows 10 Pro 19042',huntress,microsoft-ad, ,sentinelone
+l-is-uffor8f9,b'Windows 10 Pro 19044',huntress,microsoft-ad, ,sentinelone
+l-isl-pb03gqgb,b'Windows 10 Pro 18362',huntress,microsoft-ad, ,sentinelone
+l-isl-pc03xazt,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+l-isl-pc06fz6c,b'Windows 10 Enterprise',huntress,microsoft-ad, , 
+l-isl-pc06rmwg,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-isl-pc06rmxz,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-isl-pc08du35,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-isl-pc08dw6v,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, , 
+l-isl-pc08vtws,b'Windows 10 Enterprise 19045', ,microsoft-ad, ,sentinelone
+l-isl-pc09s6gm,b'Windows 10 Enterprise 19045', ,microsoft-ad, ,sentinelone
+l-isl-pc09s6gr,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-isl-pc09sjjb,b'Windows 10 Enterprise 19041',huntress, , ,sentinelone
+l-isl-pc0kxjnt,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-isl-pc0l4s0v,b'Windows 10 Enterprise 19044', ,microsoft-ad, ,sentinelone
+l-isl-pc0l4s0x,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-isl-pc0l5rvx,b'Windows 10 Enterprise', ,microsoft-ad, , 
+l-isl-pf01fyce,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-isl-pf0xjs65,b'Windows 11 Enterprise 22000',huntress,microsoft-ad, ,sentinelone
+l-isl-pf0z8vtc,b'Windows 11 Enterprise 22000',huntress,microsoft-ad, ,sentinelone
+l-isl-pf0z9mt2,b'Windows 11 Pro 22000', ,microsoft-ad, ,sentinelone
+l-isl-pf0zafea,b'Windows 11 Enterprise', ,microsoft-ad, , 
+l-isl-pf129uqu,b'Windows 11 Enterprise 22000',huntress,microsoft-ad, ,sentinelone
+l-isl-pf129urg,b'Windows 11 Enterprise', ,microsoft-ad, , 
+l-isl-pf1pq91z,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-it-ulbclij-br,b'Windows 10 Pro 19042',huntress,microsoft-ad, ,sentinelone
+l-lcp-pc2jq88e,b'Windows 11 Enterprise 22000',huntress,microsoft-ad, ,sentinelone
+l-lcp-pf1j8aek,b'Windows 10 Enterprise 19043',huntress,microsoft-ad, ,sentinelone
+l-lcp-pf1j8j0x,b'Windows 11 Enterprise 22621',huntress,microsoft-ad, ,sentinelone
+l-lcp-pf1j8v5f,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-lcp-pf1q8na2,b'Windows 10 Enterprise', ,microsoft-ad, , 
+l-med-pc0l5rvya,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-ncl-pc08dxh7,b'Windows 10 Enterprise 19045', ,microsoft-ad, ,sentinelone
+l-ncl-pf1ez9mw,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-ncl-pf1j8v7z,b'Windows 10 Enterprise 19044', ,microsoft-ad, ,sentinelone
+l-ncl-r90rkcua,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-ncl-r90rxeja,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-ncr-r90mfxqv,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-ncr-r90n70b3,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-ncr-r90n70bb,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-ncr-r90n70ez,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-nll-pf1ewr3r,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-nll-r90rkcva,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-nur-pc08dxmc,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-nur-pf0t3ubd,b'Windows 10 Enterprise 2016 LTSB 14393', ,microsoft-ad, ,sentinelone
+l-nur-pf0t4laz,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-nur-pf1eyjkl,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+l-nur-pf1eyksx,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-nur-pf1ez36h,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, , 
+l-nur-pf212mbt,b'Windows 11 Enterprise 22621',huntress,microsoft-ad, ,sentinelone
+l-nur-r90rkcv2,b'Windows 10 Enterprise 19043',huntress,microsoft-ad, ,sentinelone
+l-nur-r90t5z13,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-nur-r90vl519,b'Windows 10 Enterprise',huntress,microsoft-ad, ,sentinelone
+l-prd-pc2bapb6,b'Windows 10 Enterprise 19045', ,microsoft-ad, ,sentinelone
+l-prd-pc2baq57,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-prd-pc2baq6c,b'Windows 11 Enterprise 22000',huntress,microsoft-ad, ,sentinelone
+l-prd-pf142pn6,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-prd-pf1ex23j,b'Windows 11 Enterprise',huntress,microsoft-ad, ,sentinelone
+l-prd-pf1exkg7,b'Windows 10 Enterprise 19045',huntress, , ,sentinelone
+l-prd-pf212cf4,b'Windows 10 Pro',huntress,microsoft-ad, ,sentinelone
+l-ptd-pf1exexp,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+l-ptd-pf1q8n6e,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-pud-pf1eyqrd,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-sec-pf0t3kd6,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-soc-pf0t133p,b'Windows 11 Enterprise 22621',huntress,microsoft-ad, ,sentinelone
+l-soc-pf212k3k,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-soc-r90q2u2x,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-sti-pc1mtxlb,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-sti-pf1q8tr1,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-sti-pf3dnwpk,b'Windows 10 Pro 19045',huntress,microsoft-ad, ,sentinelone
+l-tpy-pc09s6ge,b'Windows 10 Enterprise', ,microsoft-ad, , 
+l-tpy-pc0l4s0u,b'Windows 10 Enterprise 18363',huntress,microsoft-ad, ,sentinelone
+l-tpy-pc1mm7j5,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-tpy-pc1mm7kj,b'Windows 10 Enterprise 19044',huntress,microsoft-ad, ,sentinelone
+l-tpy-pc1mm7kr,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-tpy-pc1mm7ky,b'Windows 10 Enterprise 19045',huntress,microsoft-ad, ,sentinelone
+l-tpy-pc1mm7me,b'Windows 10 Enterprise 19041', ,microsoft-ad, ,sentinelone
+l-tpy-pc1mm7mg,b'Windows 11 Enterprise 22000',huntress,microsoft-ad, ,sentinelone
+l-tpy-pc1mm7q3,b'Windows 10 Enterprise 19041',huntress,microsoft-ad, ,sentinelone
+l-tpy-pc1mm7s1,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+l-trd-pc2bapb9,b'Windows 10 Enterprise', ,microsoft-ad, , 
+l-trd-pf0t3ngj,b'Windows 10 Enterprise 18363', ,microsoft-ad, ,sentinelone
+l-trd-r90ruwds,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, , 
+l-trd-r90sf1cq,b'Windows 10 Enterprise 19042',huntress,microsoft-ad, ,sentinelone
+mac-it-vgc9m2jl6x,b'OS X 13.3.1 (22E261)', ,microsoft-ad, ,sentinelone
+mac-itshared, , ,microsoft-ad, , 
+mbp-vgc9m2jl6x,b'Windows 11 Enterprise', ,microsoft-ad, , 
+sur-eng-01,b'Windows 10 Pro', ,microsoft-ad, , 
+surb-loaner,b'Windows 10 Enterprise 2016 LTSB 14393',huntress,microsoft-ad, ,sentinelone
+surb-win11-basanta,b'Windows 11 Pro 22000',huntress,microsoft-ad, ,sentinelone
+trms-pc-2015014,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, , 
+trms-pc-2015017,b'Windows 10 Enterprise 2016 LTSB', ,microsoft-ad, , 

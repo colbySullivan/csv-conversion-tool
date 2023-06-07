@@ -1,0 +1,267 @@
+Asset Name,OS,cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+clstrvmbcs,b'Windows Server 2019 Datacenter', , , ,microsoft-ad
+devhost,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+ds,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+fs,b'Windows Server 2012 R2 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+fs2,b'Windows Server 2022 Standard', , , ,microsoft-ad
+fswap,b'Windows Server 2012 R2 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is2945dc,b'Windows Server 2016 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3355,b'Windows 10 Education', ,cybercns-sec-vm,huntress,microsoft-ad
+is3421,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3426,b'Windows 10 Education',cb-cloud, , ,microsoft-ad
+is3500,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3656,b'Windows 10 Education',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+is3832host,b'Windows Server 2022 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3838,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3851,b'Windows 10 Education',cb-cloud, , ,microsoft-ad
+is3855,b'Windows 10 Education', ,cybercns-sec-vm,huntress,microsoft-ad
+is3856,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3857,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3859,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3863,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3864,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3865,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is3879,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3880,b'Windows 11 Education',cb-cloud, ,huntress,microsoft-ad
+is3885,b'Windows 11 Education',cb-cloud, ,huntress,microsoft-ad
+is3893,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3983,b'Windows 10 Enterprise',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is3995,b'MAC OS X 10.15.7',cb-cloud, , , 
+is4094,b'MAC OS 12.6.5',cb-cloud, , ,microsoft-ad
+is4132,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4174,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4177,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4178,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4179,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4180,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4189,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4190,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4191,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4192,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4193,b'Windows 10 Pro',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4194,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4196,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4197,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4202,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4203,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4204,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4205,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4207,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4209,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4211,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4212,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4213,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4215,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4216,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4217,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4218,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4220,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4222,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4223,b'Windows Server 2019 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4224,b'Windows Server 2019 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4225,b'Windows Server 2019 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4227,b'Windows Server 2019 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4261,b'macOS', , , ,microsoft-ad
+is4264,b'MAC OS 13.3.1',cb-cloud, , ,microsoft-ad
+is4266,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4268,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4271,b'MAC OS 12.6.3',cb-cloud, , , 
+is4272,b'MAC OS 12.6.3',cb-cloud, , ,microsoft-ad
+is4275,b'Windows 10 Education',cb-cloud, , ,microsoft-ad
+is4293,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4294,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4295,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4297,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4298,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4300,b'MAC OS 12.6.3',cb-cloud, , , 
+is4301,b'MAC OS 12.6.3',cb-cloud, , , 
+is4302,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4303,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4304,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4305,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4306,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4307,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4308,b'Windows 11 x64',cb-cloud, , ,microsoft-ad
+is4309,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4310,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4311,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4314,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4315,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4316,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4320,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4321,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4323,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4325,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4394,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4395,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4396,b'Windows 11 Education',cb-cloud, , ,microsoft-ad
+is4397,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4399,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4400,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4401,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4402,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4403,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4404,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4405,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4408,b'Windows 10 Education',cb-cloud, , ,microsoft-ad
+is4410,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4411,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4414,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4415,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4416,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4417,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4418,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4419,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4420,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4421,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4422,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4423,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4424,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4495,b'MAC OS 12.4.0',cb-cloud, , , 
+is4531,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4532,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4533,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4534,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4573,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4575,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4576,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4577,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4599,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4600,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4601,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4602,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4603,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4604,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4605,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4647,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4651,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4652,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4681,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4682,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4683,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4684,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4685,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4686,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4687,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4688,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4689,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4690,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4692,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4693,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4696,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4697,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4699,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4701,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4702,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4703,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4705,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4706,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4707,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4708,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4709,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4711,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4712,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4713,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4714,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4715,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4716,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4718,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4719,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4720,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4721,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4722,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4723,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4725,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4726,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4727,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4728,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4729,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4730,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4766,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4767,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4768,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4769,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4770,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4771,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4772,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4773,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4774,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4775,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4776,b'Windows 10 Education', , ,huntress,microsoft-ad
+is4777,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4779,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4781,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4782,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4783,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4784,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4785,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4786,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4787,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4788,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4790,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4791,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4792,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4793,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4794,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4824host,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4873,b'MAC OS 12.6.4',cb-cloud, , , 
+is4890,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4897,b'MAC OS 13.3.1',cb-cloud, , , 
+is4898,b'MAC OS 12.1.0',cb-cloud, , , 
+is4899,b'MAC OS 13.3.1',cb-cloud, , , 
+is4900,b'MAC OS 12.6.3',cb-cloud, , , 
+is4901,b'MAC OS 13.2.1',cb-cloud, , , 
+is4902,b'MAC OS 13.0.1',cb-cloud, , , 
+is4951,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4954,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4955,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4960,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4961,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4962,b'Windows 10 Education',cb-cloud, ,huntress,microsoft-ad
+is4963,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4964,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4965,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4966,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4967,b'MAC OS 13.3.1',cb-cloud, , , 
+is4972,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is4979,b'MAC OS 12.6.3',cb-cloud, , , 
+is4980,b'MAC OS 13.2.1',cb-cloud, , , 
+is5104,b'Windows 10 Education',cb-cloud, ,huntress, 
+is5107,b'Windows 10 Education', , ,huntress, 
+is5108,b'Windows 10 Education', , ,huntress, 
+is5109,b'Windows 10 Education', , ,huntress, 
+is5112,b'Windows 10 Education', , ,huntress, 
+is5135,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is5136,b'Windows 10 Education',cb-cloud,cybercns-sec-vm, ,microsoft-ad
+is5138,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is5139,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is5140,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is5141,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+is5320,b'MAC OS 13.3.1',cb-cloud, , , 
+marcelos-imac,b'MAC OS X 10.13.6',cb-cloud, , , 
+mbfs,b'Microsoft Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress, 
+per710,b'Windows Server 2022 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm-is4900,b'Windows 11 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm-is4900-b,b'Windows 11 Education Insider Preview', , ,huntress,microsoft-ad
+vm060,b'Windows Server 2016 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm082,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm087,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm116,b'Windows Server 2019 Datacenter',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm132,b'Windows Server 2022 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm139b,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm162,b'Windows Server 2016 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm163,b'Windows Server 2016 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm166,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm169,b'Windows Server 2016 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm170,b'Windows Server 2016 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm172,b'Microsoft Windows Server 2016 Standard',cb-cloud,cybercns-sec-vm,huntress, 
+vm173,b'Windows 10 Education',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm174,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm175,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm176,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm177,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm178,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm179,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm180,b'Windows Server 2019 Standard',cb-cloud,cybercns-sec-vm,huntress,microsoft-ad
+vm900,b'Microsoft Windows Server 2016 Standard',cb-cloud,cybercns-sec-vm,huntress, 
+worksurfacepro6,b'Windows 11 Home',cb-cloud, ,huntress, 

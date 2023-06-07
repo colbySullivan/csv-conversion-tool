@@ -1,0 +1,41 @@
+Asset Name,OS,huntress,microsoft-ad,sentinelone
+admsvonguard,b'Windows Server 2012 R2 Standard 9600',huntress,microsoft-ad,sentinelone
+admtb120319,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+ectdc03,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+ectdc04,b'Windows Server 2019 Standard 17763',huntress,microsoft-ad,sentinelone
+mb01,b'Windows Server 2016 Standard 14393',huntress,microsoft-ad,sentinelone
+nas01,b'Windows Storage Server 2008 R2 Standard  7601 SP1',huntress,microsoft-ad,sentinelone
+opslt012621,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+opslt012820,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+opslt032020,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+opslt040122,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+opslt040919,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+opslt060419,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+opslt063022,b'Windows 10 Pro 19044', ,microsoft-ad,sentinelone
+opslt072321,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+opslt081816,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+opslt090622,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+opslt090722,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+opslt091820,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+opslt092818,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+opslt110819,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+opslt111913,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+opslt112818,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+opslt120522,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+serlt020223,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+serlt030221,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+serlt032116,b'Windows 7 Professional 7601 SP1',huntress,microsoft-ad,sentinelone
+serlt041116,b'Windows 10 Pro 18363',huntress,microsoft-ad,sentinelone
+serlt050521,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+serlt060419,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+serlt071019,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+serlt072122,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+serlt090722,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+sertb120319,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+slslt020223,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+slslt03302022,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+slslt042022,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+slslt060722,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone
+slslt110819,b'Windows 10 Pro 19045',huntress,microsoft-ad,sentinelone
+slslt11162020,b'Windows 11 Pro',huntress,microsoft-ad,sentinelone
+slstb100218,b'Windows 10 Pro 19044',huntress,microsoft-ad,sentinelone

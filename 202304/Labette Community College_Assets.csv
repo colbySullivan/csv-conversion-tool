@@ -1,0 +1,877 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+4500,b'3com 3com',cybercns-sec-vm, , , 
+4kmaster-822,b'Windows 10 Pro 19042',cybercns-sec-vm,huntress, ,sentinelone
+90-pc,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+a101instr,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+a103inst,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+a104instr,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+a107inst,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+aaronk2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+aarons1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+admissions,b'linux_kernel',cybercns-sec-vm, , , 
+admwork,b'Windows 10 Pro 19045',cybercns-sec-vm, ,microsoft-ad,sentinelone
+admworkstdy2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+adulted14,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+adulted15,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+adulted16,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+adulted17,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+adulted18,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+adulted19,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+adulted20,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+adulted_inst,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+advising1,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+advising2,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+alanp1,b'Windows 11 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+alexc1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+amazon-3e1a4d974, ,cybercns-sec-vm, , , 
+amazon-99074210f, ,cybercns-sec-vm, , , 
+android-8ca663508fc58e56, ,cybercns-sec-vm, , , 
+aprilb1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+archanal2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+archanalck,b'Windows 10 Pro 19045',cybercns-sec-vm, , ,sentinelone
+ashleym3,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ashleys1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+athletics1, ,cybercns-sec-vm, , , 
+athleticstats,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+athwork1,b'Windows 7 Professional  7601 SP1',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+avaya,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+barracuda,b'windows',cybercns-sec-vm, ,microsoft-ad, 
+baseball,b'linux_kernel',cybercns-sec-vm, , , 
+basebasst1,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+blink-mini, ,cybercns-sec-vm, , , 
+bookstore1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+brandii2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+brandim1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+brianv2,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+brittanyh2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+businessoffice,b'linux_kernel',cybercns-sec-vm, , , 
+buswrkstdy1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+c101adj,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+c116,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cafe1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+camview,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+canon504e31, ,cybercns-sec-vm, , , 
+canon56d921, ,cybercns-sec-vm, , , 
+canon7e5724, ,cybercns-sec-vm, , , 
+canond0ae9b, ,cybercns-sec-vm, , , 
+carlyb1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cathyh2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cathyk2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+charlie-ipc,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+charlie-pm,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+chem003,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+chem011,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+chem012,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+chem04,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+chem1,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+chem10,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+chem2,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+chem5,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+chem6,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+chem7,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+chem9,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+cherfac1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cherfac2,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+cherokee106,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+cherokee107,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cherokee111,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+cheryls2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+chriss1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ck110-01,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-02,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-03,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-04,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-05,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-06,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-07,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-08,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-09,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-10,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-12,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-13,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-14,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-15,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-16,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-17,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-18,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-19,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-20,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck110-fac,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ck115class,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ckgedserv,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+ckmonitor,b'Windows 7 Professional  7601 SP1',cybercns-sec-vm, ,microsoft-ad,sentinelone
+cknvr,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ckserver1,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+ckstu1,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+ckstu2,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+ckstu3,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+ckstu4,b'Windows 7 Professional  7601 SP1', , , ,sentinelone
+cktest1,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+cktest2,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+cktest3,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+cktest4,b'Windows 10 Pro 18363', ,huntress, ,sentinelone
+classcomp,b'windows',cybercns-sec-vm, ,microsoft-ad, 
+cleanmachine,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+codyn19,b'Windows 10 Enterprise 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+coleenc2,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+colinc1,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+connies1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+dana,b'OS X 12.6.5 (21G531)',cybercns-sec-vm,huntress, ,sentinelone
+danae3,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+daneenl2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+darciem2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+dbbackup,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone
+dc10,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+dc3,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+dc30,b'Windows Server 2019 Standard 17763', ,huntress, ,sentinelone
+deannah1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+deeb3,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+dental100,b'Windows 10 Pro 19043', ,huntress, ,sentinelone
+dental200,b'Windows 10 Pro 19043', ,huntress, ,sentinelone
+dental300,b'Windows 10 Pro 19043', ,huntress, ,sentinelone
+dental400,b'Windows 10 Pro 19043', ,huntress, ,sentinelone
+dental500,b'Windows 10 Pro 19043', ,huntress, ,sentinelone
+dental600,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+desktop-6k4rd9m,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+desktop-8s6ef94,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+desktop-cu6ufnj,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+desktop-edrqr32,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+desktop-t6b8mrt,b'Windows 10 Pro 17134', ,huntress, ,sentinelone
+digac037fa0, ,cybercns-sec-vm, , , 
+digac037fd5, ,cybercns-sec-vm, , , 
+digac038095, ,cybercns-sec-vm, , , 
+digac03c51c, ,cybercns-sec-vm, , , 
+digac03c551, ,cybercns-sec-vm, , , 
+digac03c573, ,cybercns-sec-vm, , , 
+digac03c587, ,cybercns-sec-vm, , , 
+digac03c591, ,cybercns-sec-vm, , , 
+digac03c593, ,cybercns-sec-vm, , , 
+digac03c76c, ,cybercns-sec-vm, , , 
+digac03c771, ,cybercns-sec-vm, , , 
+digac03c77f, ,cybercns-sec-vm, , , 
+digac03c7be, ,cybercns-sec-vm, , , 
+digac03c7c4, ,cybercns-sec-vm, , , 
+digac03c7c5, ,cybercns-sec-vm, , , 
+digac03c7c9, ,cybercns-sec-vm, , , 
+digac03c7d6, ,cybercns-sec-vm, , , 
+digac045f4b, ,cybercns-sec-vm, , , 
+digac045f50, ,cybercns-sec-vm, , , 
+digac045f52, ,cybercns-sec-vm, , , 
+digac045f9c, ,cybercns-sec-vm, , , 
+digac045fa4, ,cybercns-sec-vm, , , 
+dms10,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+dms2,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+dms4,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+dms5,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+dms8,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+doi,b'linux_kernel',cybercns-sec-vm, , , 
+douge2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+duo,b'Windows Server 2019 Standard 17763',cybercns-sec-vm, ,microsoft-ad,sentinelone
+eap225-outdoor-34-60-f9-bb-b1-10, ,cybercns-sec-vm, , , 
+elizabethk1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+elizabeths1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+emergency1,b'Windows 7 Professional  7601 SP1',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+emergency2,b'Windows 7 Professional  7601 SP1',cybercns-sec-vm, ,microsoft-ad,sentinelone
+emergserver,b'Windows 7 Professional  7601 SP1',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+emt1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+eng1,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+eng2,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+eng3,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+eng4,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+engl10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+engl12,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+engl21,b'Windows 10 Pro', ,huntress, , 
+engl4,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+engl6,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+engl9,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+esxi1,b'VMware ESXi 6.7.0',cybercns-sec-vm, , , 
+esxi1-idrac,b'dell iDRAC9_firmware',cybercns-sec-vm, , , 
+esxi2,b'VMware ESXi 6.7.0',cybercns-sec-vm, , , 
+esxi2-idrac,b'dell iDRAC9_firmware',cybercns-sec-vm, , , 
+esxi3,b'VMware ESXi 6.7.0',cybercns-sec-vm, , , 
+esxi3-idrac,b'dell iDRAC9_firmware',cybercns-sec-vm, , , 
+et00040033332d,b'Lexmark T642 version NS.NP.N118 kernel 2.6.6 All-N-1',cybercns-sec-vm, , , 
+et00040055c403,b'Lexmark T642 version NS.NP.N118 kernel 2.6.6 All-N-1',cybercns-sec-vm, , , 
+et0004005e6d1f,b'Lexmark T642 version NS.NP.N219 kernel 2.6.6 All-N-1',cybercns-sec-vm, , , 
+et000400735dfb,b'Lexmark T642 version NS.NP.N118 kernel 2.6.6 All-N-1',cybercns-sec-vm, , , 
+et000400b3666b,b'Lexmark T642 version NS.NP.N118 kernel 2.6.6 All-N-1',cybercns-sec-vm, , , 
+et000400d5537a,b'Lexmark T642 version NS.NP.N118 kernel 2.6.6 All-N-1',cybercns-sec-vm, , , 
+et0021b704fc06,b'linux based os',cybercns-sec-vm, , , 
+et0021b704fcfa,b'Lexmark T650 version NR.APS.N368cWS kernel 2.6.18.5 All-N-1',cybercns-sec-vm, , , 
+et0021b71334d8,b'linux based os',cybercns-sec-vm, , , 
+et0021b729fdfb,b'Lexmark MS610de version NH.CY.N439 kernel 3.0.0 All-N-1',cybercns-sec-vm, , , 
+et0021b738b607,b'Lexmark T650 version NR.APS.N368 kernel 2.6.18.5 All-N-1',cybercns-sec-vm, , , 
+et0021b75951d5,b'Lexmark MS610de version NH.CY.N439 kernel 3.0.0 All-N-1',cybercns-sec-vm, , , 
+et0021b759b528,b'Lexmark MS610de version NH.CY.N439 kernel 3.0.0 All-N-1',cybercns-sec-vm, , , 
+et0021b7774709,b'Lexmark B2442dw version MSNGM.052.023 kernel 4.11.12-yocto-standard-33ac965e10875c0d66fcd35d48ee8b23 All-N-1',cybercns-sec-vm, , , 
+et0021b77747c9,b'Lexmark B2442dw version MSNGM.052.023 kernel 4.11.12-yocto-standard-33ac965e10875c0d66fcd35d48ee8b23 All-N-1',cybercns-sec-vm, , , 
+et0021b7775cf2,b'Lexmark MB2442adwe version MXTGM.050.040 kernel 4.11.12-yocto-standard-8f2c0b832810469e4915bc3ae5f35ba9 All-N-1',cybercns-sec-vm, , , 
+et0021b77f31fd,b'Lexmark B2442dw version MSNGM.053.013 kernel 4.11.12-yocto-standard-79d23d13d766d347fedc6c4c98bc0aba All-N-1',cybercns-sec-vm, , , 
+et0021b786fe23,b'Lexmark T650 version NR.APS.N644 kernel 2.6.18.5 All-N-1',cybercns-sec-vm, , , 
+et0021b798d0fb,b'Lexmark T650 version NR.APS.N447b2 kernel 2.6.18.5 All-N-1',cybercns-sec-vm, , , 
+et0021b79e4c1b,b'Lexmark MS610de version NW2.CY.N235 kernel 3.0.0 All-N-1',cybercns-sec-vm, , , 
+et0021b7b71bf0,b'Lexmark B2442dw version MSNGM.050.040 kernel 4.11.12-yocto-standard-8f2c0b832810469e4915bc3ae5f35ba9 All-N-1',cybercns-sec-vm, , , 
+et0021b7b75b07,b'Lexmark B2442dw version MSNGM.050.040 kernel 4.11.12-yocto-standard-8f2c0b832810469e4915bc3ae5f35ba9 All-N-1',cybercns-sec-vm, , , 
+et0021b7b75bcd,b'Lexmark B2442dw version MSNGM.050.040 kernel 4.11.12-yocto-standard-8f2c0b832810469e4915bc3ae5f35ba9 All-N-1',cybercns-sec-vm, , , 
+et0021b7d3ff31,b'Lexmark MS415dn version NF63.TL.N639 kernel 3.0.0 All-N-1',cybercns-sec-vm, , , 
+et0021b7dc27e7,b'linux based os',cybercns-sec-vm, , , 
+et0021b7de8ed9,b'Lexmark MS410dn version NW2.CY.N235 kernel 3.0.0 All-N-1',cybercns-sec-vm, , , 
+et0021b7e0e3b2,b'Lexmark E360dn version NR.APS.N310 kernel 2.6.18.5 All-N-1',cybercns-sec-vm, , , 
+et0021b7e3c2b4,b'Lexmark MS517dn version NH63.CY.N639 kernel 3.0.0 All-N-1',cybercns-sec-vm, , , 
+et0021b7f0e99d,b'Lexmark T650 version NR.APS.N368 kernel 2.6.18.5 All-N-1',cybercns-sec-vm, , , 
+et0021b7f3b07a,b'Lexmark MS617dn version NH63.CY.N639 kernel 3.0.0 All-N-1',cybercns-sec-vm, , , 
+et0021b7f3daf2,b'Lexmark MS617dn version NH63.CY.N639 kernel 3.0.0 All-N-1',cybercns-sec-vm, , , 
+et788c7704170a,b'Lexmark B3340dw version MSLBD.071.016 kernel 4.17.19-yocto-standard-7d8d93b22c0602a22f1d4384d30ea268 All-N-1',cybercns-sec-vm, , , 
+et788c7704e77f,b'Lexmark B3340dw version MSLBD.071.016 kernel 4.17.19-yocto-standard-7d8d93b22c0602a22f1d4384d30ea268 All-N-1',cybercns-sec-vm, , , 
+et788c772cfb59,b'Lexmark MC3224adwe version CXLBL.061.039 kernel 4.11.12-yocto-standard-5f79c60bb8c70479e93f4814d57f7b9d All-N-1',cybercns-sec-vm, , , 
+et788c776ad56c,b'Lexmark MS431dn version MSLBD.081.215 kernel 5.4.90-yocto-standard All-N-1',cybercns-sec-vm, , , 
+et788c776ad5c8,b'Lexmark MS431dn version MSLBD.075.027 kernel 4.17.19-yocto-standard-54957bcefc94efade8bf88217aaf962a All-N-1',cybercns-sec-vm, , , 
+et788c776aecdb,b'Lexmark MX431adw version MXLBD.075.032 kernel 4.17.19-yocto-standard-c21f8138fc947d356def34505acdade6 All-N-1',cybercns-sec-vm, , , 
+et788c77b8d02e,b'Lexmark B2865dw version MSNGW.053.013 kernel 4.11.12-yocto-standard-32ed142f5c953e2c3e0e0a4020feb143 All-N-1',cybercns-sec-vm, , , 
+et788c77b8d06e,b'linux based os',cybercns-sec-vm, , , 
+et788c77b8e00d,b'Lexmark B2865dw version MSNGW.053.013 kernel 4.11.12-yocto-standard-32ed142f5c953e2c3e0e0a4020feb143 All-N-1',cybercns-sec-vm, , , 
+et788c77b8e0f5,b'Lexmark B2865dw version MSNGW.053.013 kernel 4.11.12-yocto-standard-32ed142f5c953e2c3e0e0a4020feb143 All-N-1',cybercns-sec-vm, , , 
+et788c77d4f8f6,b'Lexmark C2535dw version CSNZJ.070.049 kernel 4.17.19-yocto-standard-49d9d444f65a75da36b60afe3619e025 All-N-1',cybercns-sec-vm, , , 
+et788c77d6ba71,b'Lexmark CX331adwe version CXLBL.075.032 kernel 4.17.19-yocto-standard-c21f8138fc947d356def34505acdade6 All-N-1',cybercns-sec-vm, , , 
+et788c77e80d9d,b'Lexmark MB2338adw version MXNGM.053.023 kernel 4.11.12-yocto-standard-0db82913aa9eda284d6d18102f00e414 All-N-1',cybercns-sec-vm, , , 
+et788c77e81446,b'Lexmark MB2442adwe version MXTGM.053.023 kernel 4.11.12-yocto-standard-0db82913aa9eda284d6d18102f00e414 All-N-1',cybercns-sec-vm, , , 
+et788c77e866db,b'Lexmark MB2442adwe version MXTGM.053.023 kernel 4.11.12-yocto-standard-0db82913aa9eda284d6d18102f00e414 All-N-1',cybercns-sec-vm, , , 
+eventcenter,b'linux_kernel',cybercns-sec-vm, , , 
+exch03,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+facilitiesmaintenance,b'linux_kernel',cybercns-sec-vm, , , 
+finaidxtra,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+foundationws,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gabriellee,b'Windows 10 Pro 19043', ,huntress,microsoft-ad,sentinelone
+galeb1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gdprintcomp,b'Windows 7 Professional  7601 SP1',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+gdt-04,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt-instructor,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt-scanner,b'OS X 12.1 (21C52)',cybercns-sec-vm,huntress, ,sentinelone
+gdt01-2,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt02,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt03,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt04,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt05,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt06,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt07,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt08,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt09,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt10,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt11,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt12,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt13,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt14,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+gdt16,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+graphicdesign01,b'mac_os_x',cybercns-sec-vm, , , 
+gs308epp, ,cybercns-sec-vm, , , 
+gs728tpv2, ,cybercns-sec-vm, , , 
+gymwest, ,cybercns-sec-vm, , , 
+h109class,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+h1art, ,cybercns-sec-vm, , , 
+h1west,b'linux_kernel',cybercns-sec-vm, , , 
+h2,b'linux_kernel',cybercns-sec-vm, , , 
+h205class,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+h211class,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+h224class,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+haleyb1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+haleym2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+hannahb1,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+harrisonh1,b'Windows 11 Pro 22621',cybercns-sec-vm, ,microsoft-ad,sentinelone
+heidif1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+heidis1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+hillaryb2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+home,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+hughes212,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+iim710, ,cybercns-sec-vm, , , 
+im 9000,b'RICOH IM 9000 7.37 / RICOH Network Printer C model / RICOH Network Scanner C model',cybercns-sec-vm, , , 
+imagerunner1435,b'Canon iR1435 /P',cybercns-sec-vm, , , 
+ingrids1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+instructor, ,cybercns-sec-vm, , , 
+instructorpta,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+it, ,cybercns-sec-vm, , , 
+jackb1,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+janicee1,b'Windows 10 Pro', ,huntress,microsoft-ad, 
+janicee2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+janicer1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jarand,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jasonh2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jasons2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jdatabase2,b'Windows Server 2019 Standard 17763',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jeffv2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jenniferh3,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jenniferk1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jessical1,b'Windows 11 Pro 22621',cybercns-sec-vm, ,microsoft-ad,sentinelone
+jics2,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jicstest,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jodyb2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+jonathanw2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+juliep2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+karag1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+karaw1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+karenb3,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+kathib2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+kellyk1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+kene2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+kevind1,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+kimb1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+kimberlyd-imac,b'OS X 13.1 (22C65)',cybercns-sec-vm,huntress, ,sentinelone
+ks-us-labette,b'linux_kernel',cybercns-sec-vm, , , 
+kyliep2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laptop-029g0lrf,b'Windows 11 Home 22621',cybercns-sec-vm, , ,sentinelone
+laptop-eimune39, ,cybercns-sec-vm, , , 
+laptop-taol2oid,b'macOS 13 Ventura', ,huntress, , 
+laurah1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laurenh3,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+laurens1,b'Windows 10 Pro 19045',cybercns-sec-vm, ,microsoft-ad,sentinelone
+leannad2,b'Windows 10 Pro 19045',cybercns-sec-vm, ,microsoft-ad,sentinelone
+leighannm2,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+lib02,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+lib04,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+lib05,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+lib06,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+lib08,b'Windows 11 Pro 22000', ,huntress,microsoft-ad,sentinelone
+lib09,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+lib10,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+lib11,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+lib12,b'Windows 11 Pro 22000', ,huntress,microsoft-ad,sentinelone
+lib13,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+lib14,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+lib15,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+libaide3,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+libfilm,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+library-user,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+library1,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+library2,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+libraryada,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+librarystus-imac,b'OS X 12.4 (21F79)',cybercns-sec-vm,huntress, ,sentinelone
+lindif1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+lindif2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+lindseyd1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+lorif4,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+loriw1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ls720deb5,b'windows',cybercns-sec-vm, , , 
+lt610pm-10,b'windows',cybercns-sec-vm, , , 
+lucillem2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+lxke3300f,b'Lexmark T520 version 54.30.06 kernel 2.4.0-test6 All-N-1',cybercns-sec-vm, , , 
+m103inst,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+m104-inst,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+m106,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+m107, ,cybercns-sec-vm, , , 
+m107_instr,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+m208instr,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+m209instr,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+m2north,b'linux_kernel',cybercns-sec-vm, , , 
+m303inst,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+m304instr,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+m305-1,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-10,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-11,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-12,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-13,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+m305-14,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-15,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+m305-16,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-17,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-18,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+m305-19,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-2,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-20,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-3,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+m305-4,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-5,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+m305-6,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-7,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+m305-8,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305-9,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+m305pc,b'windows',cybercns-sec-vm, , , 
+m307instr,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+m308,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308-14,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+m308-15,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308-16,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+m308-17,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+m308-18,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308-19,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308-20,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+m308-8,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308pc1,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308pc10,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308pc11,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308pc12,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308pc13,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308pc2,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308pc3,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+m308pc4,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308pc5,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308pc6,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308pc7,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m308pc9,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+m309class,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mainidl3,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+margaretd1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+markw1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+medialab1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+medialab2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+medialab3,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+medialab4,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+medialab5,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+medialab6,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+medialab7,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+medialab8,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+medialablaptop,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+medialaptop20,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+medialaptop28,b'Windows 10 Pro 19045', , , ,sentinelone
+medialaptop30,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+mediavideopc,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+meganf4,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+melissa kipp3 macbook pro,b'OS X 13.3.1 (22E261)', , , ,sentinelone
+melissak3,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+melissakipp-office,b'OS X 13.2.1 (22D68)',cybercns-sec-vm, , ,sentinelone
+melissakipp-office-2,b'macOS 13 Ventura', ,huntress, , 
+michelled1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+mitchr1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ms315dnloriweaver,b'Lexmark MS315dn version NF61.TL.N634 kernel 3.0.0 All-N-1',cybercns-sec-vm, , , 
+nancysck,b'Windows 7 Professional  7601 SP1',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+npi22aaa5,b'hp HP ETHERNET MULTI-ENVIRONMENT',cybercns-sec-vm, , , 
+nur1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur10,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur11,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur12,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur13,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+nur14,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur15,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur16,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur17,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur18,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur19,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur20,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur208inst,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nur21,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur22,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur23,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur24,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur25,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur26,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur27,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur28,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur29,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur3,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur30,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur31,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur32,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur33,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur34,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur35,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur36,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur37,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur38,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nur39,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur4,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur40,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur41,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur42,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur5,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur6,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur7,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur8,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+nur9,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+nurs28,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+nursadj1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nursing-sec,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+nursingwest2fl, ,cybercns-sec-vm, , , 
+nursz209-1,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-10,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-11,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+nursz209-12,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-13,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+nursz209-14,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+nursz209-15,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+nursz209-16,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-17,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-18,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+nursz209-19,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+nursz209-2,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-20,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-22,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+nursz209-23,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-24,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+nursz209-25,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-26,b'Windows 11 Pro',cybercns-sec-vm,huntress, , 
+nursz209-27,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+nursz209-28,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-29,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-3,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+nursz209-30,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+nursz209-31,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress, ,sentinelone
+nursz209-32,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-33,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-34,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-4,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-5,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+nursz209-6,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-7,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-8,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-9,b'Windows 11 Pro 22000', ,huntress, ,sentinelone
+nursz209-inst,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+nvr23,b'Windows 10 Enterprise 19045', ,huntress, ,sentinelone
+pamg3,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+patd1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+phylisc1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+physicslab1,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+plab1,b'Windows 10 Pro 19042', ,huntress, ,sentinelone
+plab10,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+plab11,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+plab12,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+plab13,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+plab14,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+plab15,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+plab16,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+plab3,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+plab4,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+plab5,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+plab6,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+plab7,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+plab8,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+plab9,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+pr,b'linux_kernel',cybercns-sec-vm, , , 
+pta,b'linux_kernel',cybercns-sec-vm, , , 
+rad-1,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rad-10,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rad-11,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rad-12,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rad-13,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rad-14,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rad-3,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rad-4,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+rad-5,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+rad-6,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rad-7,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rad-8,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rad-9,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+ralphg1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ralphgck,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+randeeb2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+rat-t642,b'Lexmark T642 version NS.NP.N118 kernel 2.6.6 All-N-1',cybercns-sec-vm, , , 
+reginad2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+robertb2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+roberth1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+robertp2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ross-s-s22,b'linux based os',cybercns-sec-vm, , , 
+rossh1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+roxieh1,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+roxies-imac,b'OS X 13.3.1 (22E261)',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+rt01,b'Windows 7 Professional  7601 SP1',cybercns-sec-vm,huntress, ,sentinelone
+rt02,b'Windows 7 Professional', ,huntress, , 
+rt05,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+rt07,b'Windows 7 Professional', ,huntress, , 
+rt08,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+rt1,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rt10,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+rt19,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+rt2,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rt3,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+rt4,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rt6,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+rt7,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+rt8,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+rt9,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+rtinstructor,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+ryanp1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+saran1,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+sbasst1,b'Windows 10 Education 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+scottyz1,b'Windows 11 Pro',cybercns-sec-vm,huntress,microsoft-ad, 
+sean-s-galaxy-a51, ,cybercns-sec-vm, , , 
+serve,b'windows',cybercns-sec-vm, , , 
+shellys1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+sim1,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+sim2,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+simpcla-3mnmerc,b'Windows 10 Pro 19042', ,huntress, ,sentinelone
+simpcla-cvfop5m,b'Windows 11 Pro', ,huntress, ,sentinelone
+simroom2,b'Windows 7 Professional  7601 SP1', ,huntress, ,sentinelone
+simroom3,b'Windows 7 Professional  7601 SP1', ,huntress,microsoft-ad,sentinelone
+skills1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+sp1360-bc764b, ,cybercns-sec-vm, , , 
+ssc,b'linux_kernel',cybercns-sec-vm, , , 
+ssc-lab1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ssc-lab2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+ssc-lab3,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+ssc-lab4,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+ssc-lab5,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+ssc1000,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ssc1002,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ssc1003,b'Windows 11 Pro 22621', ,huntress, ,sentinelone
+ssc1004,b'Windows 11 Pro', ,huntress, , 
+ssc11,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+sscstu102,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+sscstu103,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+sscstu104,b'Windows 10 Pro', ,huntress, , 
+sscstu105,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+ssslab11,b'Windows 7 Professional', ,huntress, , 
+ssstu1,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+ssstu5,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+styluspro4880-434f99,b'linux based os',cybercns-sec-vm, , , 
+su0111,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+su1,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+switch5473b1, ,cybercns-sec-vm, , , 
+switch547417, ,cybercns-sec-vm, , , 
+switch547da7, ,cybercns-sec-vm, , , 
+switch5c75b4, ,cybercns-sec-vm, , , 
+switch75c6c3, ,cybercns-sec-vm, , , 
+switch767cc4, ,cybercns-sec-vm, , , 
+switch767dd2, ,cybercns-sec-vm, , , 
+switch7cb1ed,b'GS748Tv5 ProSafe 48-port Gigabit Ethernet Smart Switch',cybercns-sec-vm, , , 
+switch7fe609, ,cybercns-sec-vm, , , 
+switch9faff2, ,cybercns-sec-vm, , , 
+switchaac359, ,cybercns-sec-vm, , , 
+switchb044c6, ,cybercns-sec-vm, , , 
+switchbc859a, ,cybercns-sec-vm, , , 
+switchbf54b9, ,cybercns-sec-vm, , , 
+switchc4e76f, ,cybercns-sec-vm, , , 
+switched39db, ,cybercns-sec-vm, , , 
+switcheea843, ,cybercns-sec-vm, , , 
+switchf1596b, ,cybercns-sec-vm, , , 
+switchf18176, ,cybercns-sec-vm, , , 
+switchfbd388, ,cybercns-sec-vm, , , 
+talentsearch, ,cybercns-sec-vm, , , 
+tammyf4,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tammyk2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tapitnova,b'Windows 10 Enterprise LTSC 17763', ,huntress, ,sentinelone
+tarahc2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+taylors1,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+terip2,b'Windows 11 Pro 22621',cybercns-sec-vm, ,microsoft-ad,sentinelone
+terril2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+testing2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+testing3,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress, ,sentinelone
+testing5,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+theater1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+theresah1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tigerview, ,cybercns-sec-vm, , , 
+tigerview-pc,b'Windows 10 Enterprise LTSC 17763', ,huntress,microsoft-ad,sentinelone
+tigerview-scanx,b'Windows 10 Enterprise LTSC 17763',cybercns-sec-vm,huntress, ,sentinelone
+timm2,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone
+tomb1,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tonyab2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tonyr3,b'Windows 7 Professional  7601 SP1',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tonyw2,b'Windows 11 Pro 22621',cybercns-sec-vm, ,microsoft-ad,sentinelone
+tracie19,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+trainer, ,cybercns-sec-vm, , , 
+trentm2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+troopersuite,b'linux_kernel',cybercns-sec-vm, , , 
+trudyh2,b'Windows 7 Professional  7601 SP1',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+tthserver,b'linux_kernel',cybercns-sec-vm, , , 
+union102,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+union103,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+union111,b'Windows 10 Education 19045',cybercns-sec-vm,huntress, ,sentinelone
+union13,b'Windows 10 Education 19045', ,huntress, ,sentinelone
+union3,b'Windows 10 Education 19045', ,huntress, ,sentinelone
+union4,b'Windows 10 Education 19045',cybercns-sec-vm,huntress, ,sentinelone
+union5,b'Windows 10 Education 19045',cybercns-sec-vm,huntress, ,sentinelone
+union6,b'Windows 10 Education 19045', ,huntress, ,sentinelone
+union7,b'Windows 10 Education 19045', ,huntress, ,sentinelone
+union9,b'Windows 10 Education 19045',cybercns-sec-vm,huntress, ,sentinelone
+vbasst2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+vbr,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+vcenter,b'unknown',cybercns-sec-vm, ,microsoft-ad, 
+versalink c505,b'Xerox VersaLink C505; System 62.31.81',cybercns-sec-vm, , , 
+veteranoffc,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+wbbasst1,b'Windows 10 Education', ,huntress,microsoft-ad, 
+win-p75feq3ic9b,b'Windows Server 2012 R2 Standard 9600', ,huntress, ,sentinelone
+wrasst1,b'Windows 10 Education 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+www3,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+xray15,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+xray16,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+xray17,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+xray18,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+xray19,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+xray20,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+xray21,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+xray22,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress, ,sentinelone
+xray23,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+xray24,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+xray25,b'Windows 10 Pro 19044', ,huntress, ,sentinelone
+xrayinstructor,b'Windows 10 Pro 19045', ,huntress, ,sentinelone
+z113class,b'Windows 10 Pro 19045',cybercns-sec-vm, ,microsoft-ad,sentinelone
+z142,b'Windows 7 Professional  7601 SP1',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+z228-1,b'Windows 10 Pro 19045', ,huntress,microsoft-ad,sentinelone
+z229-1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+zconfrm1,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone
+zlobby02,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+zlobby05,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress, ,sentinelone
+10.10.20.254, ,cybercns-sec-vm, , , 
+10.10.20.255, ,cybercns-sec-vm, , , 
+10.10.20.245, ,cybercns-sec-vm, , , 
+10.10.22.168, ,cybercns-sec-vm, , , 
+10.10.20.238, ,cybercns-sec-vm, , , 
+10.10.20.201, ,cybercns-sec-vm, , , 
+10.10.75.111, ,cybercns-sec-vm, , , 
+10.10.21.254, ,cybercns-sec-vm, , , 
+10.30.131.102, ,cybercns-sec-vm, , , 
+10.10.23.230,b'GS748Tv5 ProSafe 48-port Gigabit Ethernet Smart Switch',cybercns-sec-vm, , , 
+10.10.21.25, ,cybercns-sec-vm, , , 
+10.30.3.11,b'linux based os',cybercns-sec-vm, , , 
+10.30.132.110, ,cybercns-sec-vm, , , 
+10.10.3.101,b'linux_kernel',cybercns-sec-vm, , , 
+10.10.10.160,b'linux based os',cybercns-sec-vm, , , 
+10.10.26.183,b'GS748Tv5 ProSafe 48-port Gigabit Ethernet Smart Switch',cybercns-sec-vm, , , 
+10.10.10.227,b'net%2bos',cybercns-sec-vm, , , 
+10.10.8.8,b'linux based os',cybercns-sec-vm, , , 
+10.10.14.101,b'linux_kernel',cybercns-sec-vm, , , 
+10.30.11.5, ,cybercns-sec-vm, , , 
+10.10.75.130, ,cybercns-sec-vm, , , 
+10.10.14.107, ,cybercns-sec-vm, , , 
+10.10.25.1, ,cybercns-sec-vm, , , 
+10.10.14.1, ,cybercns-sec-vm, , , 
+10.10.20.251, ,cybercns-sec-vm, , , 
+10.30.130.167, ,cybercns-sec-vm, , , 
+10.10.10.56,b'linux based os',cybercns-sec-vm, , , 
+10.10.20.96, ,cybercns-sec-vm, , , 
+10.10.3.102,b'linux_kernel',cybercns-sec-vm, , , 
+10.30.130.37, ,cybercns-sec-vm, , , 
+10.10.27.144, ,cybercns-sec-vm, , , 
+10.10.10.57, ,cybercns-sec-vm, , , 
+10.30.130.71, ,cybercns-sec-vm, , , 
+10.10.14.100,b'linux_kernel',cybercns-sec-vm, , , 
+10.10.75.35,b'linux based os',cybercns-sec-vm, , , 
+10.30.133.207, ,cybercns-sec-vm, , , 
+10.30.130.163, ,cybercns-sec-vm, , , 
+10.10.10.41,b'ios',cybercns-sec-vm, , , 
+10.30.3.9,b'windows',cybercns-sec-vm, , , 
+10.10.2.20, ,cybercns-sec-vm, , , 
+10.30.130.63,b'linux_kernel',cybercns-sec-vm, , , 
+10.30.130.200,b'windows',cybercns-sec-vm, , , 
+10.10.20.195,b'linux_kernel',cybercns-sec-vm, , , 
+10.30.130.159, ,cybercns-sec-vm, , , 
+10.10.10.45, ,cybercns-sec-vm, , , 
+10.10.20.158, ,cybercns-sec-vm, , , 
+10.30.3.13,b'aix',cybercns-sec-vm, , , 
+10.30.200.1,b'ArubaOS',cybercns-sec-vm, , , 
+10.30.130.5, ,cybercns-sec-vm, , , 
+10.30.132.77,b'ios',cybercns-sec-vm, , , 
+10.30.131.108, ,cybercns-sec-vm, , , 
+10.30.132.19,b'linux_kernel',cybercns-sec-vm, , , 
+10.30.130.162, ,cybercns-sec-vm, , , 
+10.10.12.10, ,cybercns-sec-vm, , , 
+10.30.131.16, ,cybercns-sec-vm, , , 
+10.10.13.2, ,cybercns-sec-vm, , , 
+10.10.22.10,b'linux_kernel',cybercns-sec-vm, , , 
+10.30.132.113,b'ios',cybercns-sec-vm, , , 
+10.10.20.73, ,cybercns-sec-vm, , , 
+10.10.20.104, ,cybercns-sec-vm, , , 
+10.10.21.7, ,cybercns-sec-vm, , , 
+10.10.12.1, ,cybercns-sec-vm, , , 
+10.10.10.164,b'Canon iR1023 /P',cybercns-sec-vm, , , 
+10.30.130.169, ,cybercns-sec-vm, , , 
+10.10.75.124, ,cybercns-sec-vm, , , 
+10.30.130.195, ,cybercns-sec-vm, , , 
+10.10.20.253, ,cybercns-sec-vm, , , 
+10.10.20.169, ,cybercns-sec-vm, , , 
+10.10.2.15, ,cybercns-sec-vm, , , 
+10.10.20.189, ,cybercns-sec-vm, , , 
+10.10.10.226,b'linux_kernel',cybercns-sec-vm, , , 
+10.30.132.43,b'linux_kernel',cybercns-sec-vm, , , 
+10.30.132.54, ,cybercns-sec-vm, , , 
+10.10.2.10, ,cybercns-sec-vm, , , 
+10.10.10.223, ,cybercns-sec-vm, , , 
+10.10.20.242, ,cybercns-sec-vm, , , 
+10.10.75.19, ,cybercns-sec-vm, , , 
+10.10.20.42, ,cybercns-sec-vm, , , 
+10.10.20.66, ,cybercns-sec-vm, , , 
+10.10.24.248,b'linux_kernel',cybercns-sec-vm, , , 
+10.10.10.137, ,cybercns-sec-vm, , , 
+10.10.75.122, ,cybercns-sec-vm, , , 
+10.10.10.55,b'linux based os',cybercns-sec-vm, , , 
+10.30.3.12, ,cybercns-sec-vm, , , 
+10.10.20.197, ,cybercns-sec-vm, , , 
+10.30.130.172, ,cybercns-sec-vm, , , 
+10.30.130.173,b'OS X',cybercns-sec-vm, , , 
+10.10.23.157, ,cybercns-sec-vm, , , 
+10.10.75.123, ,cybercns-sec-vm, , , 
+10.10.75.30,b'linux based os',cybercns-sec-vm, , , 
+10.10.10.105,b'linux based os',cybercns-sec-vm, , , 
+10.10.20.236, ,cybercns-sec-vm, , , 
+10.10.75.121,b'linux based os',cybercns-sec-vm, , , 
+10.30.130.73, ,cybercns-sec-vm, , , 
+10.10.75.31, ,cybercns-sec-vm, , , 
+10.10.2.16,b'linux based os',cybercns-sec-vm, , , 
+10.10.10.142,b'net%2bos',cybercns-sec-vm, , , 
+10.10.23.52, ,cybercns-sec-vm, , , 
+10.10.75.32,b'linux based os',cybercns-sec-vm, , , 
+10.10.23.35,b'linux_kernel',cybercns-sec-vm, , , 
+10.10.75.27,b'linux based os',cybercns-sec-vm, , , 
+10.10.24.132,b'Windows 10 Education',cybercns-sec-vm, , , 
+10.10.2.13, ,cybercns-sec-vm, , , 
+10.10.10.198, ,cybercns-sec-vm, , , 
+10.10.75.113, ,cybercns-sec-vm, , , 
+10.10.75.125, ,cybercns-sec-vm, , , 
+10.10.22.202, ,cybercns-sec-vm, , , 
+10.30.131.89,b'windows',cybercns-sec-vm, , , 
+10.30.132.114, ,cybercns-sec-vm, , , 
+10.10.2.11, ,cybercns-sec-vm, , , 
+10.10.21.176, ,cybercns-sec-vm, , , 
+10.10.20.32, ,cybercns-sec-vm, , , 
+10.10.25.46, ,cybercns-sec-vm, , , 
+10.10.10.41,b'ios',cybercns-sec-vm, , , 
+10.10.75.21,b'linux based os',cybercns-sec-vm, , , 
+10.10.14.102,b'linux_kernel',cybercns-sec-vm, , , 
+10.10.2.21, ,cybercns-sec-vm, , , 
+10.30.132.138, ,cybercns-sec-vm, , , 
+10.30.131.199, ,cybercns-sec-vm, , , 
+10.10.23.71, ,cybercns-sec-vm, , , 
+10.10.75.36, ,cybercns-sec-vm, , , 
+10.10.22.22, ,cybercns-sec-vm, , , 
+10.30.132.180, ,cybercns-sec-vm, , , 
+10.30.130.25,b'linux_kernel',cybercns-sec-vm, , , 
+10.30.131.51,b'linux based os',cybercns-sec-vm, , , 
+10.10.14.106, ,cybercns-sec-vm, , , 
+10.30.130.168, ,cybercns-sec-vm, , , 
+10.10.20.243, ,cybercns-sec-vm, , , 
+10.10.75.20, ,cybercns-sec-vm, , , 
+10.30.3.21,b'linux based os',cybercns-sec-vm, , , 
+10.10.13.3, ,cybercns-sec-vm, , , 
+10.10.22.26, ,cybercns-sec-vm, , , 
+10.10.21.18, ,cybercns-sec-vm, , , 
+10.10.2.12, ,cybercns-sec-vm, , , 
+10.10.80.11, ,cybercns-sec-vm, , , 
+10.10.10.100, ,cybercns-sec-vm, , , 
+10.10.27.0,b'linux_kernel',cybercns-sec-vm, , , 
+10.10.12.6, ,cybercns-sec-vm, , , 
+10.10.20.68, ,cybercns-sec-vm, , , 
+10.10.1.10,b'linux based os',cybercns-sec-vm, , , 
+10.10.10.1,b'ios',cybercns-sec-vm, , , 
+10.10.12.15, ,cybercns-sec-vm, , , 
+10.10.12.17, ,cybercns-sec-vm, , , 
+10.30.3.22, ,cybercns-sec-vm, , , 
+10.10.75.109, ,cybercns-sec-vm, , , 
+10.10.21.15, ,cybercns-sec-vm, , , 
+10.30.132.39,b'linux_kernel',cybercns-sec-vm, , , 
+10.10.20.166, ,cybercns-sec-vm, , , 
+10.30.131.162, ,cybercns-sec-vm, , , 
+10.10.20.134, ,cybercns-sec-vm, , , 
+10.10.21.9, ,cybercns-sec-vm, , , 
+10.30.131.167, ,cybercns-sec-vm, , , 
+10.10.20.100, ,cybercns-sec-vm, , , 
+10.10.3.103, ,cybercns-sec-vm, , , 
+10.10.21.181, ,cybercns-sec-vm, , , 
+10.10.30.30, ,cybercns-sec-vm, , , 
+10.30.131.67, ,cybercns-sec-vm, , , 
+10.30.132.109, ,cybercns-sec-vm, , , 
+10.10.23.124, ,cybercns-sec-vm, , , 
+10.10.21.8, ,cybercns-sec-vm, , , 
+10.10.26.143, ,cybercns-sec-vm, , , 
+10.10.2.14, ,cybercns-sec-vm, , , 
+10.10.10.48, ,cybercns-sec-vm, , , 
+10.30.130.42, ,cybercns-sec-vm, , , 
+10.10.20.98, ,cybercns-sec-vm, , , 
+10.10.75.120,b'linux based os',cybercns-sec-vm, , , 
+10.10.22.179,b'GS748Tv5 ProSafe 48-port Gigabit Ethernet Smart Switch',cybercns-sec-vm, , , 
+10.30.11.6, ,cybercns-sec-vm, , , 
+10.30.3.31, ,cybercns-sec-vm, , , 
+10.30.130.171, ,cybercns-sec-vm, , , 
+10.30.130.17, ,cybercns-sec-vm, , , 
+10.10.10.202, ,cybercns-sec-vm, , , 
+10.30.130.43, ,cybercns-sec-vm, , , 
+10.30.130.75, ,cybercns-sec-vm, , , 
+10.30.30.1,b'ios',cybercns-sec-vm, , , 
+10.10.1.5, ,cybercns-sec-vm, , , 
+10.10.27.204, ,cybercns-sec-vm, , , 

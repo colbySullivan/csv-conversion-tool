@@ -1,0 +1,55 @@
+Asset Name,OS,cybercns-sec-vm,huntress,sentinelone
+accounting3-pc-win10,b'Microsoft Windows 10 Pro',cybercns-sec-vm,huntress, 
+atakama-pc,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,sentinelone
+db,b'Windows Server 2012 Standard 9200',cybercns-sec-vm,huntress,sentinelone
+exd-laptop,b'Windows 10 Pro 18363',cybercns-sec-vm,huntress,sentinelone
+mhdc-dc01,b'Windows Server 2012 R2 Standard 9600', ,huntress,sentinelone
+mhdc-dt-100,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,sentinelone
+mhdc-hyperv-01,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-114,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-115,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-116,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-117,b'Windows 10 Pro 18363',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-119,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-120,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-121,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-123,b'Windows 10 Pro 19042',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-124,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-126,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-127,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-128,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-129,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-130,b'Microsoft Windows 10 Pro',cybercns-sec-vm, , 
+mhdc-lt-130,b'Windows 10 Pro 19042', ,huntress,sentinelone
+mhdc-lt-132,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-133,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-134,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-135,b'Windows 10 Pro 19042',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-136,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-138,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-139,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-140,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-141,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-142,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-143,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,sentinelone
+mhdc-lt-144,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,sentinelone
+mhdc-main-lt01-w10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhdc-mainaccess,b'Microsoft Windows 10 Pro',cybercns-sec-vm,huntress, 
+mhdc-mainaccess,b'Windows 10 Pro 16299', , ,sentinelone
+mhdc-mdrdaccess,b'Microsoft Windows 10 Pro',cybercns-sec-vm,huntress, 
+mhdc-mdrdaccess,b'Windows 10 Pro 16299', , ,sentinelone
+mhdc-ts01,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,sentinelone
+mhdc1950maccess,b'Microsoft Windows 10 Pro',cybercns-sec-vm,huntress, 
+mhdc1950maccess,b'Windows 10 Pro 16299', , ,sentinelone
+mhdc4,b'Windows 8.1 Pro 9600',cybercns-sec-vm,huntress,sentinelone
+mhdc490svaccess,b'Microsoft Windows 10 Pro',cybercns-sec-vm, , 
+mhdc490svaccess,b'Windows 10 Pro 16299', ,huntress,sentinelone
+mhdcparkaccess,b'Windows 10 Pro 16299', ,huntress,sentinelone
+mhlt-05,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+mhlt-06,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+p3002,b'Windows 8.1 Pro 9600',cybercns-sec-vm,huntress,sentinelone
+pierrewindows10,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+pleone-laptop,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+sams-air,b'macOS 13 Ventura', ,huntress, 
+sams-macbook-air,b'OS X 13.3.1 (22E261)',cybercns-sec-vm, ,sentinelone
+sc-mh2,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone

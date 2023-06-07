@@ -1,0 +1,21 @@
+Asset Name,OS,cybercns-sec-vm,huntress,sentinelone
+bc-win10-home,b'Windows 10 Pro 19044', , ,sentinelone
+cz-win10-home,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,sentinelone
+fg-w10-201710m,b'Windows 10 Pro for Workstations 19045',cybercns-sec-vm,huntress,sentinelone
+fl_home-win10-201601,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+host,b'CentOS Linux',cybercns-sec-vm, , 
+host,b'CentOS Linux',cybercns-sec-vm, , 
+id-win10-201606,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,sentinelone
+laptop-4mule6b1,b'Windows 10 Home', ,huntress, 
+lpibwj1ad01,b'Windows Server 2016 Datacenter 14393',cybercns-sec-vm,huntress,sentinelone
+lw-laptop-l80ch0hl,b'Windows 11 Home', ,huntress, 
+phonetracker2-winserver2016-201811,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,sentinelone
+qt-win10-201601,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+rs-win10-home,b'Windows 10 Pro 19045', , ,sentinelone
+ry2-win10-home,b'Windows 10 Pro 19044', , ,sentinelone
+ta-win10-home,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,sentinelone
+thnkwc1adc01,b'Windows Server 2019 Standard 17763', ,huntress,sentinelone
+thnkwc1app01,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,sentinelone
+thnkwc1app02,b'Windows Server 2019 Standard 17763', , ,sentinelone
+thnkwc1mgmt01,b'Windows Server 2016 Standard 14393', ,huntress,sentinelone
+zr-win81-home,b'Windows 8.1 Pro 9600',cybercns-sec-vm,huntress,sentinelone

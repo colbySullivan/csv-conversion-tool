@@ -1,0 +1,158 @@
+Asset Name,OS,cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+cwa-arch,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+cwa-d002,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+cwa-desk075,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+cwa-dfs1,b'Windows Storage Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+cwa-dfs2,b'Windows Server 2016 Standard 14393',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+cwa-dfs4, , , ,microsoft-ad, , 
+cwa-l010,b'Windows 11 Pro 22621',cybercns-sec-vm, ,microsoft-ad,sentinelone, 
+cwa-loaner01,b'Windows 10 Pro 19045', , ,microsoft-ad,sentinelone, 
+cwa-test2,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+cwalkey,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+cwasvr15,b'Windows Server 2016 Standard 14393',cybercns-sec-vm, ,microsoft-ad,sentinelone, 
+cwasvr16,b'Windows Server 2016 Standard 14393',cybercns-sec-vm, ,microsoft-ad,sentinelone,sophos
+cwasvr25,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+desktop-488q1mu,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+desktop-e7nj2kf,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone, 
+desktop-ua0m7b7,b'Windows 10 Home', ,huntress, , , 
+lp-rsurface,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+lp0118-004,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+lp0118-005,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0120-001,b'Windows 11 Pro', ,huntress,microsoft-ad, ,sophos
+lp0122-001,b'Windows 11 Pro', ,huntress,microsoft-ad, , 
+lp0122-002,b'Windows 11 Pro', ,huntress,microsoft-ad, ,sophos
+lp0122-003,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+lp0123-001,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0123-003,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0123-007,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0123-009,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0123-011,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0123-012,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0218-002,b'Windows 10 Pro 22621', , ,microsoft-ad,sentinelone,sophos
+lp0218-003,b'Windows 11 Pro', , ,microsoft-ad, ,sophos
+lp0218-004,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0218-005,b'Windows 10 Pro 22621', ,huntress,microsoft-ad,sentinelone, 
+lp0221-001,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone, 
+lp0322-101,b'Windows 11 Pro', ,huntress,microsoft-ad, ,sophos
+lp0421-001,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+lp0520-002,b'Windows 10 Pro', ,huntress,microsoft-ad, , 
+lp0520-003,b'Windows 11 Pro', , ,microsoft-ad, ,sophos
+lp0520-004,b'Windows 10 Pro', ,huntress,microsoft-ad, , 
+lp0522-001,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0522-002,b'Windows 11 Pro',cybercns-sec-vm,huntress,microsoft-ad, , 
+lp0622-001,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0622-002,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0622-004,b'Windows 11 Pro', , ,microsoft-ad, , 
+lp0622-a01,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0622-h01,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0720-002,b'Windows 11 Pro', ,huntress,microsoft-ad, ,sophos
+lp0818-000,b'Windows 10 Pro', ,huntress,microsoft-ad, , 
+lp0820-001,b'Windows 11 Pro', ,huntress,microsoft-ad, , 
+lp0820-002,b'Windows 10 Pro', ,huntress,microsoft-ad, , 
+lp0821-001,b'Windows 11 Pro', ,huntress,microsoft-ad, ,sophos
+lp0821-002,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+lp0821-003,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0821-004,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+lp0822-001,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0822-002,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0917-003,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0917-004,b'Windows 10 Pro', ,huntress,microsoft-ad, , 
+lp0919-001,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad, , 
+lp0919-003,b'Windows 10 Pro 19044',cybercns-sec-vm, ,microsoft-ad,sentinelone, 
+lp0919-004,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+lp0921-001,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone,sophos
+lp0921-003,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+lp0921-005,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0921-006,b'Windows 11 Pro',cybercns-sec-vm,huntress,microsoft-ad, , 
+lp0921-007,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0921-008,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0921-009,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0921-010,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+lp0921-011,b'Windows 11 Pro', ,huntress,microsoft-ad, ,sophos
+lp0921-012,b'Windows Server 2012 R2 Standard 9600',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+lp0921-013,b'Windows 11 Pro', ,huntress,microsoft-ad, ,sophos
+lp0921-014,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+lp0921-015,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0921-016,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+lp0922-001,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp0922-002,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1022-001,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1022-002,b'Windows 11 Pro 22621',cybercns-sec-vm, ,microsoft-ad,sentinelone, 
+lp1022-003,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1022-004,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1022-005,b'Windows 11 Pro 22621',cybercns-sec-vm, ,microsoft-ad,sentinelone, 
+lp1115-003,b'Windows 7 Professional  7601 SP1', , , ,sentinelone, 
+lp1116-001,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+lp1117-001,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+lp1117-003,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+lp1117-004,b'Windows 10 Pro', ,huntress,microsoft-ad, , 
+lp1117-005,b'Windows 10 Pro', , ,microsoft-ad, , 
+lp1117-006,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1118-001,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1118-002,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1118-003,b'Windows 11 Pro 22000',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+lp1119-sk001,b'Windows 10 Pro', ,huntress,microsoft-ad, , 
+lp1122-001,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1122-002,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1122-003,b'Windows 11 Pro 22621',cybercns-sec-vm, ,microsoft-ad,sentinelone, 
+lp1122-004,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1122-005,b'Windows 11 Pro 22621', ,huntress,microsoft-ad,sentinelone, 
+lp1212-006,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1215-001,b'Windows 11 Pro', ,huntress,microsoft-ad, ,sophos
+lp1216-001,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1216-003,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1219-001,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+lp1222-001,b'Windows 11 Pro', ,huntress,microsoft-ad, , 
+lp1222-004,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1222-005,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lp1222-007,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+lv-yoga_x1,b'Windows 10 Pro 19044', ,huntress,microsoft-ad,sentinelone, 
+marklenovo,b'Windows 10 Pro', ,huntress,microsoft-ad, , 
+pc0120-001,b'Windows 11 Pro for Workstations 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc0120-002,b'Windows 10 Pro for Workstations', , ,microsoft-ad, ,sophos
+pc0220-001,b'Windows 10 Pro for Workstations', ,huntress,microsoft-ad, ,sophos
+pc0220-002,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc0220-004,b'Windows 10 Pro for Workstations', ,huntress,microsoft-ad, ,sophos
+pc0319-001,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad, , 
+pc0319-003,b'Windows 10 Pro', , ,microsoft-ad, ,sophos
+pc0320-001,b'Windows 10 Pro for Workstations 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc0322-100,b'Windows 11 Pro',cybercns-sec-vm,huntress,microsoft-ad, , 
+pc0422-3600,b'Windows 11 Pro', ,huntress,microsoft-ad, ,sophos
+pc0517-002,b'Windows 10 Pro 19045',cybercns-sec-vm, ,microsoft-ad,sentinelone, 
+pc0517-003,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+pc0517-004,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc0520-001,b'Windows 10 Pro for Workstations 19044',cybercns-sec-vm, ,microsoft-ad,sentinelone, 
+pc0520-002,b'Windows 10 Pro for Workstations 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc0520-004,b'Windows 10 Pro for Workstations 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc0520-005,b'Windows 10 Pro for Workstations 19045',cybercns-sec-vm, ,microsoft-ad,sentinelone, 
+pc0522-001,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc0522-003,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc0622-001,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc0622-002,b'Windows 11 Pro',cybercns-sec-vm,huntress,microsoft-ad, , 
+pc0718-008,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc0718-010,b'Windows 10 Pro', ,huntress,microsoft-ad, , 
+pc0722-007,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc0818-008,b'Windows 11 Pro', , ,microsoft-ad, , 
+pc0822-004,b'Windows 10 Pro', ,huntress,microsoft-ad, , 
+pc0917-001,b'Windows 10 Pro 19044',cybercns-sec-vm, ,microsoft-ad,sentinelone, 
+pc0917-002,b'Windows 10 Pro 19044', , ,microsoft-ad,sentinelone, 
+pc0917-007,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc0917-008,b'Windows 10 Pro 19044',cybercns-sec-vm, ,microsoft-ad,sentinelone,sophos
+pc0917-010,b'Windows 10 Pro', ,huntress,microsoft-ad, , 
+pc0919-001,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+pc0919-002,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc1019-001,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc1022-002,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc1118-006,b'Windows 10 Pro', ,huntress,microsoft-ad, ,sophos
+pc1118-007,b'Windows 10 Pro 19044',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc1118-009,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc1119-001,b'Windows 11 Pro 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+pc1119-002,b'Windows 10 Pro for Workstations', ,huntress,microsoft-ad, ,sophos
+pc1119-003,b'Windows 11 Pro for Workstations 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc1119-004,b'Windows 11 Pro for Workstations 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+pc1119-sk001,b'Windows 10 Pro for Workstations 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+pc1219-001,b'Windows 10 Pro', , ,microsoft-ad, , 
+pc1219-002,b'Windows 11 Pro for Workstations 22621',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+pc1219-005,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone,sophos
+steves-surface,b'Windows 10 Pro 19045',cybercns-sec-vm,huntress,microsoft-ad,sentinelone, 
+test12,b'Windows 10 Pro',cybercns-sec-vm,huntress,microsoft-ad, , 

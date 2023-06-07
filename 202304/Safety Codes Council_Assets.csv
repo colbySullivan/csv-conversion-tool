@@ -1,0 +1,293 @@
+Asset Name,OS,huntress
+lp0119,b'Windows 10 Pro',huntress
+lp0121,b'Windows 11 Pro',huntress
+lp0122,b'Windows 10 Pro',huntress
+lp0123,b'Windows 11 Pro',huntress
+lp0219,b'Windows 10 Pro',huntress
+lp0221,b'Windows 10 Pro',huntress
+lp0222,b'Windows 10 Pro',huntress
+lp0223,b'Windows 10 Pro',huntress
+lp0321,b'Windows 10 Pro',huntress
+lp0322,b'Windows 10 Pro',huntress
+lp0421,b'Windows 10 Pro',huntress
+lp0422,b'Windows 11 Pro',huntress
+lp0521,b'Windows 10 Pro',huntress
+lp0522,b'Windows 11 Pro',huntress
+lp0919,b'Windows 10 Pro',huntress
+lp1320,b'Windows 10 Pro',huntress
+lp1520,b'Windows 10 Pro',huntress
+lp1720,b'Windows 10 Pro',huntress
+lp1820,b'Windows 10 Pro',huntress
+lp1920,b'Windows 10 Pro',huntress
+lp2020,b'Windows 10 Pro',huntress
+lp2120,b'Windows 10 Pro',huntress
+lp2220,b'Windows 10 Pro',huntress
+lp2320,b'Windows 11 Pro',huntress
+lp2420,b'Windows 10 Pro',huntress
+lp2520,b'Windows 10 Pro',huntress
+lp2620,b'Windows 10 Pro',huntress
+lp2720,b'Windows 10 Pro',huntress
+lp2920,b'Windows 10 Pro',huntress
+lp3020,b'Windows 10 Pro',huntress
+lp3220,b'Windows 11 Pro',huntress
+lp3320,b'Windows 10 Pro',huntress
+lp3420,b'Windows 10 Pro',huntress
+lp3520,b'Windows 10 Pro',huntress
+lp3620,b'Windows 10 Pro',huntress
+lp3820,b'Windows 10 Pro',huntress
+lp3920,b'Windows 10 Pro',huntress
+lp4020,b'Windows 10 Pro',huntress
+lp4120,b'Windows 10 Pro',huntress
+lp4220,b'Windows 10 Pro',huntress
+lp4320,b'Windows 10 Pro',huntress
+lp4420,b'Windows 10 Pro',huntress
+lp4520,b'Windows 10 Pro',huntress
+lp4620,b'Windows 10 Pro',huntress
+lp4820,b'Windows 10 Pro',huntress
+lp4920,b'Windows 10 Pro',huntress
+lp5020,b'Windows 10 Pro',huntress
+lp5120,b'Windows 10 Pro',huntress
+lp5220,b'Windows 11 Pro',huntress
+lp5320,b'Windows 10 Pro',huntress
+lp5420,b'Windows 10 Pro',huntress
+lp5520,b'Windows 10 Pro',huntress
+lp5620,b'Windows 10 Pro',huntress
+lp5720,b'Windows 10 Pro',huntress
+lp5820,b'Windows 10 Pro',huntress
+lp5920,b'Windows 10 Pro',huntress
+lp6020,b'Windows 10 Pro',huntress
+lp6120,b'Windows 10 Pro',huntress
+lp6220,b'Windows 10 Pro',huntress
+lp6320,b'Windows 10 Pro',huntress
+lp6420,b'Windows 10 Pro',huntress
+lp6520,b'Windows 10 Pro',huntress
+lp6620,b'Windows 10 Pro',huntress
+lp6720,b'Windows 10 Pro',huntress
+lp6820,b'Windows 10 Pro',huntress
+lp7020,b'Windows 10 Pro',huntress
+lp7120,b'Windows 10 Pro',huntress
+scc-app01,b'Windows Server 2016 Standard',huntress
+scc-biedev,b'Windows Server 2012 R2 Standard',huntress
+scc-bieprod,b'Windows Server 2012 R2 Standard',huntress
+scc-bieuat,b'Windows Server 2012 R2 Standard',huntress
+scc-colohal01,b'Windows Server 2016 Standard',huntress
+scc-colohal02,b'Windows Server 2016 Standard',huntress
+scc-db01,b'Windows Server 2016 Standard',huntress
+scc-edevapp02,b'Windows Server 2012 R2 Standard',huntress
+scc-edevrs02,b'Windows Server 2012 R2 Standard',huntress
+scc-edevsql02,b'Windows Server 2012 R2 Standard',huntress
+scc-edevwfe02,b'Windows Server 2012 R2 Standard',huntress
+scc-eprodapp,b'Windows Server 2012 R2 Standard',huntress
+scc-eprodrs,b'Windows Server 2012 R2 Standard',huntress
+scc-eprodsql,b'Windows Server 2012 R2 Standard',huntress
+scc-eprodwfe,b'Windows Server 2012 R2 Standard',huntress
+scc-esandbox,b'Windows Server 2012 R2 Standard',huntress
+scc-esign,b'Windows Server 2019 Standard',huntress
+scc-etrnapp,b'Windows Server 2012 R2 Standard',huntress
+scc-etrnrs,b'Windows Server 2012 R2 Standard',huntress
+scc-etrnsql,b'Windows Server 2012 R2 Standard',huntress
+scc-etrnwfe,b'Windows Server 2012 R2 Standard',huntress
+scc-etstapp,b'Windows Server 2012 R2 Standard',huntress
+scc-etstrs,b'Windows Server 2012 R2 Standard',huntress
+scc-etstsql,b'Windows Server 2012 R2 Standard',huntress
+scc-etstwfe,b'Windows Server 2012 R2 Standard',huntress
+scc-hal01,b'Windows Server 2016 Standard',huntress
+scc-hal02,b'Windows Server 2016 Standard',huntress
+scc-odev,b'Windows Server 2019 Standard',huntress
+scc-oprod,b'Windows Server 2019 Standard',huntress
+scc-otest,b'Windows Server 2019 Standard',huntress
+scc-repo,b'Windows Server 2016 Standard',huntress
+scc-sign,b'Windows Server 2016 Standard',huntress
+scc-sp2013tst,b'Windows Server 2012 Standard',huntress
+scc-sp2013tst2,b'Windows Server 2012 Standard',huntress
+scc-sp2016,b'Windows Server 2016 Standard',huntress
+scc-sql2016dev,b'Windows Server 2016 Standard',huntress
+scc-tmsdev,b'Windows Server 2012 R2 Standard',huntress
+scc-tmstst,b'Windows Server 2012 R2 Standard',huntress
+scc-util,b'Windows Server 2016 Standard',huntress
+scc-veeam,b'Windows Server 2016 Standard',huntress
+scc-veeamprox,b'Windows Server 2016 Standard',huntress
+scc-vmanagerbox,b'Windows Server 2019 Standard',huntress
+scc-web02,b'Windows Server 2019 Standard',huntress
+scc-web03,b'Windows Server 2012 R2 Standard',huntress
+scc-web04,b'Windows Server 2016 Standard',huntress
+scc-web05,b'Windows Server 2016 Standard',huntress
+scc-web06,b'Windows Server 2019 Standard',huntress
+scc-webapps,b'Windows Server 2019 Standard',huntress
+scc-webservices,b'Windows Server 2016 Standard',huntress
+scc-websvc-dev,b'Windows Server 2016 Standard',huntress
+scc-websvc-uat,b'Windows Server 2016 Standard',huntress
+scc-wsus,b'Windows Server 2019 Standard',huntress
+scc-xenapp01,b'Windows Server 2016 Standard',huntress
+scc-xenapp02,b'Windows Server 2016 Standard',huntress
+scc-xenapp03,b'Windows Server 2016 Standard',huntress
+scc-xenapp04,b'Windows Server 2016 Standard',huntress
+scc-xendc01,b'Windows Server 2016 Standard',huntress
+scc-xendc02,b'Windows Server 2016 Standard',huntress
+sccexam01,b'Windows 10 Pro',huntress
+sccexam02,b'Windows 10 Pro',huntress
+sccexam03,b'Windows 10 Pro',huntress
+sccexam04,b'Windows 10 Pro',huntress
+sccexam05,b'Windows 10 Pro',huntress
+sccexam06,b'Windows 10 Pro',huntress
+sccwkst-monitor,b'Windows 10 Pro',huntress
+sccwkst183,b'Windows 10 Pro',huntress
+sccwkst187,b'Windows 10 Pro',huntress
+sccwkst190,b'Windows 10 Pro',huntress
+sccwkst191,b'Windows 10 Pro',huntress
+sccwkst192,b'Windows 10 Pro',huntress
+sccwkst193,b'Windows 10 Pro',huntress
+sccwkst194,b'Windows 10 Pro',huntress
+sccwkst195,b'Windows 10 Pro',huntress
+sccwkst199,b'Windows 10 Pro',huntress
+sql-1,b'Windows Server 2012 R2 Standard',huntress
+ws0120,b'Windows 10 Pro',huntress
+ws0220,b'Windows 10 Pro',huntress
+ws0519,b'Windows 10 Pro',huntress
+ws1920,b'Windows 10 Pro',huntress
+lp0119,b'Windows 10 Pro',huntress
+lp0121,b'Windows 11 Pro',huntress
+lp0122,b'Windows 10 Pro',huntress
+lp0123,b'Windows 11 Pro',huntress
+lp0219,b'Windows 10 Pro',huntress
+lp0221,b'Windows 10 Pro',huntress
+lp0222,b'Windows 10 Pro',huntress
+lp0223,b'Windows 10 Pro',huntress
+lp0321,b'Windows 10 Pro',huntress
+lp0322,b'Windows 10 Pro',huntress
+lp0421,b'Windows 10 Pro',huntress
+lp0422,b'Windows 11 Pro',huntress
+lp0521,b'Windows 10 Pro',huntress
+lp0522,b'Windows 11 Pro',huntress
+lp0919,b'Windows 10 Pro',huntress
+lp1320,b'Windows 10 Pro',huntress
+lp1520,b'Windows 10 Pro',huntress
+lp1720,b'Windows 10 Pro',huntress
+lp1820,b'Windows 10 Pro',huntress
+lp1920,b'Windows 10 Pro',huntress
+lp2020,b'Windows 10 Pro',huntress
+lp2120,b'Windows 10 Pro',huntress
+lp2220,b'Windows 10 Pro',huntress
+lp2320,b'Windows 11 Pro',huntress
+lp2420,b'Windows 10 Pro',huntress
+lp2520,b'Windows 10 Pro',huntress
+lp2620,b'Windows 10 Pro',huntress
+lp2720,b'Windows 10 Pro',huntress
+lp2920,b'Windows 10 Pro',huntress
+lp3020,b'Windows 10 Pro',huntress
+lp3220,b'Windows 11 Pro',huntress
+lp3320,b'Windows 10 Pro',huntress
+lp3420,b'Windows 10 Pro',huntress
+lp3520,b'Windows 10 Pro',huntress
+lp3620,b'Windows 10 Pro',huntress
+lp3820,b'Windows 10 Pro',huntress
+lp3920,b'Windows 10 Pro',huntress
+lp4020,b'Windows 10 Pro',huntress
+lp4120,b'Windows 10 Pro',huntress
+lp4220,b'Windows 10 Pro',huntress
+lp4320,b'Windows 10 Pro',huntress
+lp4420,b'Windows 10 Pro',huntress
+lp4520,b'Windows 10 Pro',huntress
+lp4620,b'Windows 10 Pro',huntress
+lp4820,b'Windows 10 Pro',huntress
+lp4920,b'Windows 10 Pro',huntress
+lp5020,b'Windows 10 Pro',huntress
+lp5120,b'Windows 10 Pro',huntress
+lp5220,b'Windows 11 Pro',huntress
+lp5320,b'Windows 10 Pro',huntress
+lp5420,b'Windows 10 Pro',huntress
+lp5520,b'Windows 10 Pro',huntress
+lp5620,b'Windows 10 Pro',huntress
+lp5720,b'Windows 10 Pro',huntress
+lp5820,b'Windows 10 Pro',huntress
+lp5920,b'Windows 10 Pro',huntress
+lp6020,b'Windows 10 Pro',huntress
+lp6120,b'Windows 10 Pro',huntress
+lp6220,b'Windows 10 Pro',huntress
+lp6320,b'Windows 10 Pro',huntress
+lp6420,b'Windows 10 Pro',huntress
+lp6520,b'Windows 10 Pro',huntress
+lp6620,b'Windows 10 Pro',huntress
+lp6720,b'Windows 10 Pro',huntress
+lp6820,b'Windows 10 Pro',huntress
+lp7020,b'Windows 10 Pro',huntress
+lp7120,b'Windows 10 Pro',huntress
+scc-app01,b'Windows Server 2016 Standard',huntress
+scc-biedev,b'Windows Server 2012 R2 Standard',huntress
+scc-bieprod,b'Windows Server 2012 R2 Standard',huntress
+scc-bieuat,b'Windows Server 2012 R2 Standard',huntress
+scc-colohal01,b'Windows Server 2016 Standard',huntress
+scc-colohal02,b'Windows Server 2016 Standard',huntress
+scc-db01,b'Windows Server 2016 Standard',huntress
+scc-edevapp02,b'Windows Server 2012 R2 Standard',huntress
+scc-edevrs02,b'Windows Server 2012 R2 Standard',huntress
+scc-edevsql02,b'Windows Server 2012 R2 Standard',huntress
+scc-edevwfe02,b'Windows Server 2012 R2 Standard',huntress
+scc-eprodapp,b'Windows Server 2012 R2 Standard',huntress
+scc-eprodrs,b'Windows Server 2012 R2 Standard',huntress
+scc-eprodsql,b'Windows Server 2012 R2 Standard',huntress
+scc-eprodwfe,b'Windows Server 2012 R2 Standard',huntress
+scc-esandbox,b'Windows Server 2012 R2 Standard',huntress
+scc-esign,b'Windows Server 2019 Standard',huntress
+scc-etrnapp,b'Windows Server 2012 R2 Standard',huntress
+scc-etrnrs,b'Windows Server 2012 R2 Standard',huntress
+scc-etrnsql,b'Windows Server 2012 R2 Standard',huntress
+scc-etrnwfe,b'Windows Server 2012 R2 Standard',huntress
+scc-etstapp,b'Windows Server 2012 R2 Standard',huntress
+scc-etstrs,b'Windows Server 2012 R2 Standard',huntress
+scc-etstsql,b'Windows Server 2012 R2 Standard',huntress
+scc-etstwfe,b'Windows Server 2012 R2 Standard',huntress
+scc-hal01,b'Windows Server 2016 Standard',huntress
+scc-hal02,b'Windows Server 2016 Standard',huntress
+scc-odev,b'Windows Server 2019 Standard',huntress
+scc-oprod,b'Windows Server 2019 Standard',huntress
+scc-otest,b'Windows Server 2019 Standard',huntress
+scc-repo,b'Windows Server 2016 Standard',huntress
+scc-sign,b'Windows Server 2016 Standard',huntress
+scc-sp2013tst,b'Windows Server 2012 Standard',huntress
+scc-sp2013tst2,b'Windows Server 2012 Standard',huntress
+scc-sp2016,b'Windows Server 2016 Standard',huntress
+scc-sql2016dev,b'Windows Server 2016 Standard',huntress
+scc-tmsdev,b'Windows Server 2012 R2 Standard',huntress
+scc-tmstst,b'Windows Server 2012 R2 Standard',huntress
+scc-util,b'Windows Server 2016 Standard',huntress
+scc-veeam,b'Windows Server 2016 Standard',huntress
+scc-veeamprox,b'Windows Server 2016 Standard',huntress
+scc-vmanagerbox,b'Windows Server 2019 Standard',huntress
+scc-web02,b'Windows Server 2019 Standard',huntress
+scc-web03,b'Windows Server 2012 R2 Standard',huntress
+scc-web04,b'Windows Server 2016 Standard',huntress
+scc-web05,b'Windows Server 2016 Standard',huntress
+scc-web06,b'Windows Server 2019 Standard',huntress
+scc-webapps,b'Windows Server 2019 Standard',huntress
+scc-webservices,b'Windows Server 2016 Standard',huntress
+scc-websvc-dev,b'Windows Server 2016 Standard',huntress
+scc-websvc-uat,b'Windows Server 2016 Standard',huntress
+scc-wsus,b'Windows Server 2019 Standard',huntress
+scc-xenapp01,b'Windows Server 2016 Standard',huntress
+scc-xenapp02,b'Windows Server 2016 Standard',huntress
+scc-xenapp03,b'Windows Server 2016 Standard',huntress
+scc-xenapp04,b'Windows Server 2016 Standard',huntress
+scc-xendc01,b'Windows Server 2016 Standard',huntress
+scc-xendc02,b'Windows Server 2016 Standard',huntress
+sccexam01,b'Windows 10 Pro',huntress
+sccexam02,b'Windows 10 Pro',huntress
+sccexam03,b'Windows 10 Pro',huntress
+sccexam04,b'Windows 10 Pro',huntress
+sccexam05,b'Windows 10 Pro',huntress
+sccexam06,b'Windows 10 Pro',huntress
+sccwkst-monitor,b'Windows 10 Pro',huntress
+sccwkst183,b'Windows 10 Pro',huntress
+sccwkst187,b'Windows 10 Pro',huntress
+sccwkst190,b'Windows 10 Pro',huntress
+sccwkst191,b'Windows 10 Pro',huntress
+sccwkst192,b'Windows 10 Pro',huntress
+sccwkst193,b'Windows 10 Pro',huntress
+sccwkst194,b'Windows 10 Pro',huntress
+sccwkst195,b'Windows 10 Pro',huntress
+sccwkst199,b'Windows 10 Pro',huntress
+sql-1,b'Windows Server 2012 R2 Standard',huntress
+ws0120,b'Windows 10 Pro',huntress
+ws0220,b'Windows 10 Pro',huntress
+ws0519,b'Windows 10 Pro',huntress
+ws1920,b'Windows 10 Pro',huntress
