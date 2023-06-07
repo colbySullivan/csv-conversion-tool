@@ -12,5 +12,5 @@ pip install -r requirements.txt
 To run the program use the command
 
 ```
-python convert.py
+python DCU.py
 ```
