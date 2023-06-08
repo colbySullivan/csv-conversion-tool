@@ -29,14 +29,45 @@ def switch(key_to_lookup):
         return "MISSING SENTINEL ONE AGENT"
     elif key_to_lookup == "cybercns-sec-vm":
         return "MISSING CYBERCNS AGENT"
-        
+    elif key_to_lookup == "cb-cloud":
+        return "MISSING CARBON AGENTS"
+    else:
+        return "MISSING ALL"
+    
 
 def write_Html(file_path, html_buffer, missing):
-    set_of_services = {'huntress', 'sentinelone', 'cybercns-sec-vm'}
+    set_of_services = {'huntress', 'sentinelone', 'cybercns-sec-vm', 'cb-cloud', 'all'}
+    number_of_serverices = 0
+    for x in missing:
+        if x in set_of_services:
+            number_of_serverices+=1
+            
+    set_of_all = []
+    if number_of_serverices > 1:
+        frequency = {}
+        for service in set_of_services:
+            if service in missing:
+                for x in missing[service]:
+                    if x in frequency:
+                        frequency[x] += 1
+                    else:
+                        frequency[x] = 1
+        for names in frequency:
+            if frequency[names] == number_of_serverices:
+                set_of_all += [names]
+
+    missing['all'] = set_of_all
     with open(os.path.join(file_path, html_buffer), 'w') as Func:
         Func.write("<html>\n<head>\n<title> \nDCUP</title>") #change title when needed
         Func.write("\n<meta hr {display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0;}>")
-        Func.write("\n<style> .column { float: left; width: 50%;}")
+        Func.write("\n<style> ")
+        Func.write("\nh2 {\nfont-family:  Century Gothic;\n")
+        Func.write("\nfont-weight: lighter}")
+        Func.write("\np {\nfont-family:  Calibri;\n")
+        Func.write("\nfont-weight: lighter}")
+        Func.write("\np2 {\nfont-family:  Calibri;\n")
+        Func.write("\nfont-weight: lighter}")
+        Func.write("\n.column { float: left; width: 50%;}")
         Func.write("\n{box-sizing: border-box}")
         Func.write("\n.row:after \n{content: \"\"; \ndisplay: table; \nclear: both;}")
         Func.write("</style>")
@@ -44,59 +75,37 @@ def write_Html(file_path, html_buffer, missing):
             if key_to_lookup in set_of_services:
                 Func.write("\n</h2> <body><h2>" + switch(key_to_lookup) + "</h2><hr>")   # Fill in with whatever needs to be filled
                 if not len(missing[key_to_lookup]) == 0: 
+                    Func.write("<div class =\"row\">") 
+                    Func.write("<div class=\"column\" >") 
+                    Func.write("<p>")
                     j=0
                     for x in missing[key_to_lookup]:
-                        if j % 2 == 0:
-                            Func.write("\n")
-                            Func.write("&bull; ")
-                            Func.write(x)
-                            Func.write("<br>")
-                        j+=1
-                Func.write("</p2>")
-                Func.write("</div>") #26
-                Func.write("</div>") #22
-
+                        if not x in set_of_all or key_to_lookup == 'all':
+                            if j % 2 == 0:
+                                Func.write("\n")
+                                Func.write("&bull; ")
+                                Func.write(x)
+                                Func.write("<br>")
+                            j+=1
+                    Func.write("</p>")
+                    Func.write("</div>") 
                 j=0
+                Func.write("<div class =\"row\">") 
+                Func.write("<div class=\"column\" >") 
+                Func.write("<p2><br>")
                 if not len(missing[key_to_lookup]) == 0: 
                     for x in missing[key_to_lookup]:
-                        if j % 2 == 1:
-                            Func.write("\n")
-                            Func.write("&bull; ")
-                            Func.write(x)
-                            Func.write("<br>")
-                        j+=1
+                        if not x in set_of_all or key_to_lookup == 'all':
+                            if j % 2 == 1:
+                                Func.write("\n")
+                                Func.write("&bull; ")
+                                Func.write(x)
+                                Func.write("<br>")
+                            j+=1
 
                 Func.write("</p2>")
                 Func.write("</div>") #26
                 Func.write("</div>") #22
-
-        Func.write("<div class =\"row\">") #30
-        Func.write("<div class=\"column\" >") #25
-
-        Func.write("\n<p>")
-
-        Func.write("\n<p>")
-        Func.write("</div>") #23
-        
-        Func.write("<div class=\"column\" >")
-        #for loop that goes through as many assets as there are /2
-        Func.write("\n<p2>")
-        Func.write("<br>")
-        
-        Func.write("\n<p>")
-        
-        Func.write("<div class=\"column\" >")
-        #for loop that goes through as many assets as there are /2
-        Func.write("\n<p2>")
-        Func.write("<br>")
-
-        Func.write("</p2>")
-        Func.write("</div>") #26
-        Func.write("</div>") #22
-        
-        Func.write("\n<p>test for clients</p>")
-        Func.write("\n<h2> Missing All</h2><hr>")
-        Func.write("\n<p>test for clients</p>")
         Func.write("\n</body></html>") #needs to be last line
         Func.close()
         #DELETE ME 
@@ -198,7 +207,6 @@ def find_missing_services(csv_file):
         missing = all_devices - present_devices
         dict_missing[service] = missing
         #print(f"Missing devices for service '{service}': {', '.join(sorted(missing))}")
-    print(dict_missing.keys())
     return dict_missing
     
                                
