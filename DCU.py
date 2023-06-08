@@ -22,44 +22,122 @@ def check_duplicates():
             current_files += [new_filename]
     return current_files
 
-def write_Html(file_path, html_buffer):
+def writing_mising(missing, file_path, html_buffer):
+    #with open(os.path.join(file_path, html_buffer), 'w') as Func:
+    file_extra = file_path + "\\" + html_buffer
+    with open(file_extra,"w") as Func:
+        j=0
+        if not len(missing['huntress']) == 0: 
+            for x in missing['huntress']:
+                if j % 2 == 1:
+                    Func.write("\n")
+                    Func.write("&bull; ")
+                    Func.write(x)
+                    Func.write("<br>")
+                j+=1
+
+        Func.write("</p2>")
+        Func.write("</div>") #26
+        Func.write("</div>") #22
+
+
+        Func.write("\n<h2> Missing Huntress Agent</h2><hr>")
+        Func.write("\n<p>")
+        j=0
+        if not len(missing['huntress']) == 0: 
+            for x in missing['huntress']:
+                if j % 2 == 0:
+                    Func.write("\n")
+                    Func.write("&bull; ")
+                    Func.write(x)
+                    Func.write("<br>")
+                j+=1
+        
+
+def write_Html(file_path, html_buffer, missing):
     with open(os.path.join(file_path, html_buffer), 'w') as Func:
-        #Func = open(html_buffer, "w") #changeme
         Func.write("<html>\n<head>\n<title> \nDCUP</title>") #change title when needed
         Func.write("\n<meta hr {display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0;}>")
         Func.write("\n<style> .column { float: left; width: 50%;}")
-        Func.write("{box-sizing: border-box}")
-        Func.write(".row:after {content: \"\"; display: table; clear: both;}")
+        Func.write("\n{box-sizing: border-box}")
+        Func.write("\n.row:after \n{content: \"\"; \ndisplay: table; \nclear: both;}")
         Func.write("</style>")
         Func.write("\n</h2> <body><h2>Missing Sentinel One Agent</h2><hr>")   # Fill in with whatever needs to be filled
 
         Func.write("<div class =\"row\">") #30
         Func.write("<div class=\"column\" >") #25
-        Func.write("\n<p>")
-        #for loop that goes through as many assets as there are /2
-        Func.write("test for clients") # Insert Code here
-        Func.write("<br>")
-        #end loop
-        Func.write("\n<p>")
 
+        Func.write("\n<p>")
+        
+
+        Func.write("\n<p>")
         Func.write("</div>") #23
         
         Func.write("<div class=\"column\" >")
         #for loop that goes through as many assets as there are /2
-        Func.write("\n<p2>test for clients<br>")
-        Func.write("\ntest for clients</p2>")
+        Func.write("\n<p2>")
+        Func.write("<br>")
+        
+        #TODO
+        #writing_mising(missing, file_path, html_buffer)
 
+        j=0
+        if not len(missing['huntress']) == 0: 
+            for x in missing['huntress']:
+                if j % 2 == 1:
+                    Func.write("\n")
+                    Func.write("&bull; ")
+                    Func.write(x)
+                    Func.write("<br>")
+                j+=1
+
+        Func.write("</p2>")
         Func.write("</div>") #26
         Func.write("</div>") #22
 
+
         Func.write("\n<h2> Missing Huntress Agent</h2><hr>")
-        Func.write("\n<p>test for clients</p>")
+        Func.write("\n<p>")
+        j=0
+        if not len(missing['huntress']) == 0: 
+            for x in missing['huntress']:
+                if j % 2 == 0:
+                    Func.write("\n")
+                    Func.write("&bull; ")
+                    Func.write(x)
+                    Func.write("<br>")
+                j+=1
+
+        Func.write("\n<p>")
+        Func.write("</div>") #23
+        
+        Func.write("<div class=\"column\" >")
+        #for loop that goes through as many assets as there are /2
+        Func.write("\n<p2>")
+        Func.write("<br>")
+        
+        j=0
+        if not len(missing['huntress']) == 0: 
+            for x in missing['huntress']:
+                if j % 2 == 1:
+                    Func.write("\n")
+                    Func.write("&bull; ")
+                    Func.write(x)
+                    Func.write("<br>")
+                j+=1
+
+        Func.write("</p2>")
+        Func.write("</div>") #26
+        Func.write("</div>") #22
+        
         Func.write("\n<h2> Missing CyberCNS Agent</h2><hr>")
         Func.write("\n<p>test for clients</p>")
         Func.write("\n<h2> Missing All</h2><hr>")
         Func.write("\n<p>test for clients</p>")
         Func.write("\n</body></html>") #needs to be last line
         Func.close()
+        #DELETE ME 
+        #file1.close()
 
 def create_html(f):
     """
@@ -119,10 +197,11 @@ def convert(processed_count, file_path, process_type):
                 f = os.path.join(file_path, filename)
                 if os.path.isfile(f): # checking if it is a file
                     print(filename) #Needed print
+                    missing = find_missing_services(f)
                     buffer = filename[:-3]
                     html_buffer = buffer + "html"
                     html_location = file_path + "\\" + html_buffer
-                    write_Html(file_path, html_buffer)
+                    write_Html(file_path, html_buffer, missing)
                     create_pdf(f, html_location)
                     processed_count+=1
         elif process_type == 'abort':
@@ -149,12 +228,15 @@ def find_missing_services(csv_file):
                     services.setdefault(service, []).append(device)
 
     # List devices missing each service
+    dict_missing = {}
     for service, missing_devices in services.items():
         present_devices = set(missing_devices)
         all_devices = set(devices)
         missing = all_devices - present_devices
+        dict_missing[service] = missing
         #print(f"Missing devices for service '{service}': {', '.join(sorted(missing))}")
-        return missing
+    print(dict_missing.keys())
+    return dict_missing
     
                                
 class CommandLine:
