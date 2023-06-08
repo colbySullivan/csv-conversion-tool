@@ -128,8 +128,8 @@ class CommandLine:
         print("{}{}".format(convert_counter, ' files have been converted'))
     
     # Usage
-    #csv_file = input("Enter the CSV file name: ")
-    #find_missing_services(csv_file) 
+    csv_file = input("Enter the CSV file name: ")
+    find_missing_services(csv_file) 
 
 
 if __name__ == '__main__':
