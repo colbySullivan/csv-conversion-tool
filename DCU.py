@@ -22,6 +22,44 @@ def check_duplicates():
             current_files += [new_filename]
     return current_files
 
+def write_Html(file_path, html_buffer):
+    with open(os.path.join(file_path, html_buffer), 'w') as Func:
+        #Func = open(html_buffer, "w") #changeme
+        Func.write("<html>\n<head>\n<title> \nDCUP</title>") #change title when needed
+        Func.write("\n<meta hr {display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0;}>")
+        Func.write("\n<style> .column { float: left; width: 50%;}")
+        Func.write("{box-sizing: border-box}")
+        Func.write(".row:after {content: \"\"; display: table; clear: both;}")
+        Func.write("</style>")
+        Func.write("\n</h2> <body><h2>Missing Sentinel One Agent</h2><hr>")   # Fill in with whatever needs to be filled
+
+        Func.write("<div class =\"row\">") #30
+        Func.write("<div class=\"column\" >") #25
+        Func.write("\n<p>")
+        #for loop that goes through as many assets as there are /2
+        Func.write("test for clients") # Insert Code here
+        Func.write("<br>")
+        #end loop
+        Func.write("\n<p>")
+
+        Func.write("</div>") #23
+        
+        Func.write("<div class=\"column\" >")
+        #for loop that goes through as many assets as there are /2
+        Func.write("\n<p2>test for clients<br>")
+        Func.write("\ntest for clients</p2>")
+
+        Func.write("</div>") #26
+        Func.write("</div>") #22
+
+        Func.write("\n<h2> Missing Huntress Agent</h2><hr>")
+        Func.write("\n<p>test for clients</p>")
+        Func.write("\n<h2> Missing CyberCNS Agent</h2><hr>")
+        Func.write("\n<p>test for clients</p>")
+        Func.write("\n<h2> Missing All</h2><hr>")
+        Func.write("\n<p>test for clients</p>")
+        Func.write("\n</body></html>") #needs to be last line
+        Func.close()
 
 def create_html(f):
     """
@@ -31,12 +69,13 @@ def create_html(f):
     :param f: current csv file
     :return: converted html file
     """ 
-    missing_string = find_missing_services(f)
+    #missing_string = find_missing_services(f)
     
-    return missing_string.to_html() #Converts file to html
+    df1 = pd.read_csv(f)
+    return df1.to_html() #Converts file to html
     #TODO we can edit the html here
 
-def create_pdf(current_file, html_file):
+def create_pdf(current_file, html_location):
     """
     Takes in an HTML file and converts it into
     a PDF file
@@ -44,15 +83,14 @@ def create_pdf(current_file, html_file):
     :param current_file: string name of CSV file
     :param html_file: current HTML file
     """ 
-    print(current_file)
     path_wkhtmltopdf = r'wkhtmltopdf\bin\wkhtmltopdf.exe' #Dependency needed for pdfkit
     config = pdfkit.configuration(wkhtmltopdf=path_wkhtmltopdf)
 
     #Formats the csv to pdf
     buffer = current_file[:-3]
     pdf_file = buffer + "pdf"
-    pdfkit.from_string(html_file, pdf_file, configuration=config)  #Utilizes the pdfkit API to convert the html to a pdf
-
+    pdfkit.from_file(html_location, pdf_file, configuration=config)  #Utilizes the pdfkit API to convert the html to a pdf
+    os.remove(html_location)
 
 def convert(processed_count, file_path, process_type):
     """
@@ -80,8 +118,12 @@ def convert(processed_count, file_path, process_type):
             if filename.endswith('.csv'): #Ignores pdf files
                 f = os.path.join(file_path, filename)
                 if os.path.isfile(f): # checking if it is a file
-                    html_file = create_html(f)
-                    create_pdf(f, html_file)
+                    print(filename) #Needed print
+                    buffer = filename[:-3]
+                    html_buffer = buffer + "html"
+                    html_location = file_path + "\\" + html_buffer
+                    write_Html(file_path, html_buffer)
+                    create_pdf(f, html_location)
                     processed_count+=1
         elif process_type == 'abort':
             print("abort")
@@ -95,7 +137,7 @@ def find_missing_services(csv_file):
 
     # Read CSV file
     with open(csv_file, 'r') as file:
-        reader = pd.reader(file)
+        reader = csv.reader(file)
         for row in reader:
             device = row[0]
             services_data = row[1:]  # Remaining elements on the line
