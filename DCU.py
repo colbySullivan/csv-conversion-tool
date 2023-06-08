@@ -20,41 +20,19 @@ def check_duplicates():
         if filename.endswith('.pdf'): #Ignores pdf files
             new_filename = filename[:-3]
             current_files += [new_filename]
-    return current_files
+    return current_files     
 
-def writing_mising(missing, file_path, html_buffer):
-    #with open(os.path.join(file_path, html_buffer), 'w') as Func:
-    file_extra = file_path + "\\" + html_buffer
-    with open(file_extra,"w") as Func:
-        j=0
-        if not len(missing['huntress']) == 0: 
-            for x in missing['huntress']:
-                if j % 2 == 1:
-                    Func.write("\n")
-                    Func.write("&bull; ")
-                    Func.write(x)
-                    Func.write("<br>")
-                j+=1
-
-        Func.write("</p2>")
-        Func.write("</div>") #26
-        Func.write("</div>") #22
-
-
-        Func.write("\n<h2> Missing Huntress Agent</h2><hr>")
-        Func.write("\n<p>")
-        j=0
-        if not len(missing['huntress']) == 0: 
-            for x in missing['huntress']:
-                if j % 2 == 0:
-                    Func.write("\n")
-                    Func.write("&bull; ")
-                    Func.write(x)
-                    Func.write("<br>")
-                j+=1
+def switch(key_to_lookup):
+    if key_to_lookup == "huntress":
+        return "MISSING HUNTRESS AGENT"
+    elif key_to_lookup == "sentinelone":
+        return "MISSING SENTINEL ONE AGENT"
+    elif key_to_lookup == "cybercns-sec-vm":
+        return "MISSING CYBERCNS AGENT"
         
 
 def write_Html(file_path, html_buffer, missing):
+    set_of_services = {'huntress', 'sentinelone', 'cybercns-sec-vm'}
     with open(os.path.join(file_path, html_buffer), 'w') as Func:
         Func.write("<html>\n<head>\n<title> \nDCUP</title>") #change title when needed
         Func.write("\n<meta hr {display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0;}>")
@@ -62,13 +40,40 @@ def write_Html(file_path, html_buffer, missing):
         Func.write("\n{box-sizing: border-box}")
         Func.write("\n.row:after \n{content: \"\"; \ndisplay: table; \nclear: both;}")
         Func.write("</style>")
-        Func.write("\n</h2> <body><h2>Missing Sentinel One Agent</h2><hr>")   # Fill in with whatever needs to be filled
+        for key_to_lookup in missing:
+            if key_to_lookup in set_of_services:
+                Func.write("\n</h2> <body><h2>" + switch(key_to_lookup) + "</h2><hr>")   # Fill in with whatever needs to be filled
+                if not len(missing[key_to_lookup]) == 0: 
+                    j=0
+                    for x in missing[key_to_lookup]:
+                        if j % 2 == 0:
+                            Func.write("\n")
+                            Func.write("&bull; ")
+                            Func.write(x)
+                            Func.write("<br>")
+                        j+=1
+                Func.write("</p2>")
+                Func.write("</div>") #26
+                Func.write("</div>") #22
+
+                j=0
+                if not len(missing[key_to_lookup]) == 0: 
+                    for x in missing[key_to_lookup]:
+                        if j % 2 == 1:
+                            Func.write("\n")
+                            Func.write("&bull; ")
+                            Func.write(x)
+                            Func.write("<br>")
+                        j+=1
+
+                Func.write("</p2>")
+                Func.write("</div>") #26
+                Func.write("</div>") #22
 
         Func.write("<div class =\"row\">") #30
         Func.write("<div class=\"column\" >") #25
 
         Func.write("\n<p>")
-        
 
         Func.write("\n<p>")
         Func.write("</div>") #23
@@ -78,59 +83,17 @@ def write_Html(file_path, html_buffer, missing):
         Func.write("\n<p2>")
         Func.write("<br>")
         
-        #TODO
-        #writing_mising(missing, file_path, html_buffer)
-
-        j=0
-        if not len(missing['huntress']) == 0: 
-            for x in missing['huntress']:
-                if j % 2 == 1:
-                    Func.write("\n")
-                    Func.write("&bull; ")
-                    Func.write(x)
-                    Func.write("<br>")
-                j+=1
-
-        Func.write("</p2>")
-        Func.write("</div>") #26
-        Func.write("</div>") #22
-
-
-        Func.write("\n<h2> Missing Huntress Agent</h2><hr>")
         Func.write("\n<p>")
-        j=0
-        if not len(missing['huntress']) == 0: 
-            for x in missing['huntress']:
-                if j % 2 == 0:
-                    Func.write("\n")
-                    Func.write("&bull; ")
-                    Func.write(x)
-                    Func.write("<br>")
-                j+=1
-
-        Func.write("\n<p>")
-        Func.write("</div>") #23
         
         Func.write("<div class=\"column\" >")
         #for loop that goes through as many assets as there are /2
         Func.write("\n<p2>")
         Func.write("<br>")
-        
-        j=0
-        if not len(missing['huntress']) == 0: 
-            for x in missing['huntress']:
-                if j % 2 == 1:
-                    Func.write("\n")
-                    Func.write("&bull; ")
-                    Func.write(x)
-                    Func.write("<br>")
-                j+=1
 
         Func.write("</p2>")
         Func.write("</div>") #26
         Func.write("</div>") #22
         
-        Func.write("\n<h2> Missing CyberCNS Agent</h2><hr>")
         Func.write("\n<p>test for clients</p>")
         Func.write("\n<h2> Missing All</h2><hr>")
         Func.write("\n<p>test for clients</p>")
