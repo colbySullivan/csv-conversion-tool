@@ -31,8 +31,9 @@ def create_html(f):
     :param f: current csv file
     :return: converted html file
     """ 
-    df1 = pd.read_csv(f)
-    return df1.to_html() #Converts file to html
+    missing_string = find_missing_services(f)
+    
+    return missing_string.to_html() #Converts file to html
     #TODO we can edit the html here
 
 def create_pdf(current_file, html_file):
@@ -94,7 +95,7 @@ def find_missing_services(csv_file):
 
     # Read CSV file
     with open(csv_file, 'r') as file:
-        reader = csv.reader(file)
+        reader = pd.reader(file)
         for row in reader:
             device = row[0]
             services_data = row[1:]  # Remaining elements on the line
@@ -110,7 +111,8 @@ def find_missing_services(csv_file):
         present_devices = set(missing_devices)
         all_devices = set(devices)
         missing = all_devices - present_devices
-        print(f"Missing devices for service '{service}': {', '.join(sorted(missing))}")
+        #print(f"Missing devices for service '{service}': {', '.join(sorted(missing))}")
+        return missing
     
                                
 class CommandLine:
@@ -126,10 +128,6 @@ class CommandLine:
         convert_counter = 0 #Keeps track of files that have been converted
         convert_counter = convert(convert_counter, argument1, argument2)
         print("{}{}".format(convert_counter, ' files have been converted'))
-    
-    # Usage
-    csv_file = input("Enter the CSV file name: ")
-    find_missing_services(csv_file) 
 
 
 if __name__ == '__main__':
