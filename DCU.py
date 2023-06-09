@@ -23,6 +23,14 @@ def check_duplicates():
     return current_files     
 
 def switch(key_to_lookup):
+    """
+    Used to format the header of the missing
+    service. Add to this "switch case"
+    when new services are used.
+
+    :param file_path: key of dict which is the service type
+    :return: formatted output string
+    """ 
     if key_to_lookup == "huntress":
         return "MISSING HUNTRESS AGENT"
     elif key_to_lookup == "sentinelone":
@@ -34,29 +42,53 @@ def switch(key_to_lookup):
     else:
         return "MISSING ALL"
     
+def find_missing(missing, set_of_services):
+    """
+    Finds the total number of services and 
+    returns the devices that are missing that
+    number of services
 
-def write_Html(file_path, html_buffer, missing):
-    set_of_services = {'huntress', 'sentinelone', 'cybercns-sec-vm', 'cb-cloud', 'all'}
-    number_of_serverices = 0
-    for x in missing:
-        if x in set_of_services:
+    :param missing: dict of services
+    :param set_of_services: services for current client
+    :return: set of devices missing all services
+    """ 
+    number_of_serverices = 0 #Total number of services
+    for services in missing:
+        if services in set_of_services:
             number_of_serverices+=1
-            
+
+    #Creates a list of devices that are missing all the services       
     set_of_all = []
     if number_of_serverices > 1:
         frequency = {}
         for service in set_of_services:
             if service in missing:
-                for x in missing[service]:
-                    if x in frequency:
-                        frequency[x] += 1
+                for device in missing[service]:
+                    if device in frequency:
+                        frequency[device] += 1
                     else:
-                        frequency[x] = 1
+                        frequency[device] = 1
         for names in frequency:
             if frequency[names] == number_of_serverices:
                 set_of_all += [names]
+    return set_of_all
 
-    missing['all'] = set_of_all
+def write_Html(file_path, html_buffer, missing):
+    """
+    Takes in a CSV file and converts it into
+    an HTML file
+
+    :param file_path: current csv file
+    :param html_buffer: current csv file
+    :param missing: dict were key is service and value is list of devices missing
+    """ 
+
+    #Add new services to this set and in the switch def
+    set_of_services = {'huntress', 'sentinelone', 'cybercns-sec-vm', 'cb-cloud'} 
+    missing['all'] = find_missing(missing, set_of_services) #Set of devices missing all
+
+    if not len(missing['all']) == 0:
+        set_of_services.add('all')
     with open(os.path.join(file_path, html_buffer), 'w') as Func:
         Func.write("<html>\n<head>\n<title> \nDCUP</title>") #change title when needed
         Func.write("\n<meta hr {display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0;}>")
@@ -73,43 +105,42 @@ def write_Html(file_path, html_buffer, missing):
         Func.write("</style>")
         for key_to_lookup in missing:
             if key_to_lookup in set_of_services:
-                Func.write("\n</h2> <body><h2>" + switch(key_to_lookup) + "</h2><hr>")   # Fill in with whatever needs to be filled
-                if not len(missing[key_to_lookup]) == 0: 
+                if not len(key_to_lookup) == 0: #TODO check if this works
+                    Func.write("\n</h2> <body><h2>" + switch(key_to_lookup) + "</h2><hr>")   # Fill in with whatever needs to be filled
+                    if not len(missing[key_to_lookup]) == 0: 
+                        Func.write("<div class =\"row\">") 
+                        Func.write("<div class=\"column\" >") 
+                        Func.write("<p>")
+                        j=0
+                        for x in missing[key_to_lookup]:
+                            if not x in missing['all'] or key_to_lookup == 'all':
+                                if j % 2 == 0:
+                                    Func.write("\n")
+                                    Func.write("&bull; ")
+                                    Func.write(x)
+                                    Func.write("<br>")
+                                j+=1
+                        Func.write("</p>")
+                        Func.write("</div>") 
+                    j=0
                     Func.write("<div class =\"row\">") 
                     Func.write("<div class=\"column\" >") 
-                    Func.write("<p>")
-                    j=0
-                    for x in missing[key_to_lookup]:
-                        if not x in set_of_all or key_to_lookup == 'all':
-                            if j % 2 == 0:
-                                Func.write("\n")
-                                Func.write("&bull; ")
-                                Func.write(x)
-                                Func.write("<br>")
-                            j+=1
-                    Func.write("</p>")
-                    Func.write("</div>") 
-                j=0
-                Func.write("<div class =\"row\">") 
-                Func.write("<div class=\"column\" >") 
-                Func.write("<p2><br>")
-                if not len(missing[key_to_lookup]) == 0: 
-                    for x in missing[key_to_lookup]:
-                        if not x in set_of_all or key_to_lookup == 'all':
-                            if j % 2 == 1:
-                                Func.write("\n")
-                                Func.write("&bull; ")
-                                Func.write(x)
-                                Func.write("<br>")
-                            j+=1
+                    Func.write("<p2><br>")
+                    if not len(missing[key_to_lookup]) == 0: 
+                        for x in missing[key_to_lookup]:
+                            if not x in missing['all'] or key_to_lookup == 'all':
+                                if j % 2 == 1:
+                                    Func.write("\n")
+                                    Func.write("&bull; ")
+                                    Func.write(x)
+                                    Func.write("<br>")
+                                j+=1
 
                 Func.write("</p2>")
                 Func.write("</div>") #26
                 Func.write("</div>") #22
         Func.write("\n</body></html>") #needs to be last line
         Func.close()
-        #DELETE ME 
-        #file1.close()
 
 def create_html(f):
     """
@@ -183,6 +214,14 @@ def convert(processed_count, file_path, process_type):
                 
 
 def find_missing_services(csv_file):
+    """
+    Traverses through a given CSV file and creates a
+    dict where the service is the key and the missing
+    devices are the value.
+
+    :param processed_count: CSV file contain client devices
+    :return: dict from CSV file
+    """ 
     services = {}
     devices = []
 
@@ -206,7 +245,6 @@ def find_missing_services(csv_file):
         all_devices = set(devices)
         missing = all_devices - present_devices
         dict_missing[service] = missing
-        #print(f"Missing devices for service '{service}': {', '.join(sorted(missing))}")
     return dict_missing
     
                                
