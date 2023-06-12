@@ -14,3 +14,8 @@ To run the program use the command
 ```
 python DCU.py
 ```
+
+# TODO
+Add multiprocessing
+Cleanup/centralize main function
+More detailed readme
