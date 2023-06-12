@@ -7,6 +7,7 @@ import csv
 import sys
 import time
 import configparser
+import getopt
 
 def check_duplicates(file_path):
     """
@@ -219,26 +220,27 @@ def find_missing_services(csv_file):
     
 class CommandLine:
     def __init__(self):
-        if len(sys.argv) == 3:
-            argument1 = sys.argv[1]
-            argument2 = sys.argv[2]
-        elif len(sys.argv) == 2:
-            argument1 = sys.argv[1]
-            argument2 = 'smart'
-        else:
-            raise Exception("\nMissing at least one argument \nArgument 1 is the path to the CSV file \nArgument 2 is optional and is the processing type")
-        
         config_file = configparser.ConfigParser()
         config_file.read('config.ini')
-        config_file['ARGS']['process'] = argument2
-        argument1 = config_file['ARGS']['path']
-        argument2 = config_file['ARGS']['process']
-        print(config_file['SERVICES']['huntress'])
-        #argument1 = create_config()
+        file_path = config_file['ARGS']['path']
+        process_type = config_file['ARGS']['process']
+        argv = sys.argv[1:]
+        try:
+            opts, args = getopt.getopt(argv, "f:p:", 
+                                    ["file_path =",
+                                        "process_type ="])
+        except:
+            print("Error")
+    
+        for opt, arg in opts:
+            if opt in ['-f', '--file_path']:
+                file_path = arg
+            elif opt in ['-p', '--process_type']:
+                process_type = arg
 
         convert_counter = 0 #Keeps track of files that have been converted
         tic = time.perf_counter()
-        convert_counter = convert(convert_counter, argument1, argument2)
+        convert_counter = convert(convert_counter, file_path, process_type)
         toc = time.perf_counter()
         print("{}{}{:0.3f}{}".format(convert_counter, ' files have been converted in ', toc - tic, ' seconds'))
 
