@@ -32,15 +32,17 @@ def switch(key_to_lookup):
     :return: formatted output string
     """ 
     if key_to_lookup == "huntress":
-        return "MISSING HUNTRESS AGENT"
+        return "MISSING HUNTRESS AGENTS"
     elif key_to_lookup == "sentinelone":
-        return "MISSING SENTINEL ONE AGENT"
+        return "MISSING SENTINEL ONE AGENTS"
     elif key_to_lookup == "cybercns-sec-vm":
         return "MISSING CYBERCNS AGENT"
     elif key_to_lookup == "cb-cloud":
-        return "MISSING CARBON AGENTS"
+        return "MISSING CARBON BLACK AGENTS"
+    elif key_to_lookup == "sophos":
+        return "MISSING SOPHOS AGENTS"
     else:
-        return "MISSING ALL"
+        return "MISSING ALL AGENTS"
     
 def create_missing_dict(missing, set_of_services):
     """
@@ -58,7 +60,7 @@ def create_missing_dict(missing, set_of_services):
             number_of_serverices+=1
 
     #Creates a list of devices that are missing all the services       
-    set_of_all = []
+    set_of_all = [] #Set of devices with all services
     if number_of_serverices > 1:
         frequency = {}
         for service in set_of_services:
@@ -84,7 +86,7 @@ def write_html(file_path, html_buffer, missing):
     """ 
 
     #Add new services to this set and in the switch def
-    set_of_services = {'huntress', 'sentinelone', 'cybercns-sec-vm', 'cb-cloud'} 
+    set_of_services = {'huntress', 'sentinelone', 'cybercns-sec-vm', 'cb-cloud', 'sophos'} 
     missing['all'] = create_missing_dict(missing, set_of_services) #Set of devices missing all
 
     if not len(missing['all']) == 0:
@@ -113,13 +115,13 @@ def write_html(file_path, html_buffer, missing):
                         Func.write("<p>")
                         j=0
                         for device in missing[key_to_lookup]:
-                            if not device in missing['all'] or key_to_lookup == 'all':
-                                if j % 2 == 0:
-                                    Func.write("\n")
-                                    Func.write("&bull; ")
-                                    Func.write(device)
-                                    Func.write("<br>")
-                                j+=1
+                            #if not device in missing['all'] or key_to_lookup == 'all':
+                            if j % 2 == 0:
+                                Func.write("\n")
+                                Func.write("&bull; ")
+                                Func.write(device)
+                                Func.write("<br>")
+                            j+=1
                         Func.write("</p>")
                         Func.write("</div>") 
                     j=0
@@ -128,13 +130,13 @@ def write_html(file_path, html_buffer, missing):
                     Func.write("<p2><br>")
                     if not len(missing[key_to_lookup]) == 0: 
                         for device in missing[key_to_lookup]:
-                            if not device in missing['all'] or key_to_lookup == 'all':
-                                if j % 2 == 1:
-                                    Func.write("\n")
-                                    Func.write("&bull; ")
-                                    Func.write(device)
-                                    Func.write("<br>")
-                                j+=1
+                            #if not device in missing['all'] or key_to_lookup == 'all': 
+                            if j % 2 == 1:
+                                Func.write("\n")
+                                Func.write("&bull; ")
+                                Func.write(device)
+                                Func.write("<br>")
+                            j+=1
 
                 Func.write("</p2>")
                 Func.write("</div>") #26
