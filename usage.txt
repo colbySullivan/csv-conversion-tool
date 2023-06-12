@@ -1,0 +1,16 @@
+Usage:
+  python DFU.py
+  python DFU.py -f <file path>
+  python DFU.py -p <process type>
+  python DFU.py -h | --help
+
+Options:
+  -h --help           Show this screen
+  -f --file_path      Path to folder containing CSVs
+  -p --process_type   smart, abort, reprocess
+
+Process types:
+  smart: only process the files that have not already been processed.
+  abort: abort the whole job when one file has already been processed.
+  reprocess: treat all files like they have not been processed and recreate all PDF documents.
+

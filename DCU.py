@@ -235,17 +235,22 @@ class CommandLine:
         process_type = config_file['ARGS']['process']
         argv = sys.argv[1:]
         try:
-            opts, args = getopt.getopt(argv, "f:p:", 
-                                    ["file_path =",
-                                        "process_type ="])
+            opts, arg = getopt.getopt(argv, "hf:p", 
+                                    ["file_path=",
+                                        "process_type=",
+                                        "help"])
         except:
-            print("Error")
+            raise IOError("Argument dependency not met")
     
         for opt, arg in opts:
             if opt in ['-f', '--file_path']:
                 file_path = arg
             elif opt in ['-p', '--process_type']:
                 process_type = arg
+            elif opt in ['-h', '--help']:
+                with open('usage.txt', 'r') as fin:
+                    print(fin.read())
+                sys.exit()
 
         convert_counter = 0 #Keeps track of files that have been converted
         tic = time.perf_counter()
