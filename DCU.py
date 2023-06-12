@@ -5,6 +5,7 @@ import pdfkit
 import os
 import csv
 import sys
+import time
 
 def check_duplicates(file_path):
     """
@@ -41,7 +42,7 @@ def switch(key_to_lookup):
     else:
         return "MISSING ALL"
     
-def find_missing(missing, set_of_services):
+def create_missing_dict(missing, set_of_services):
     """
     Finds the total number of services and 
     returns the devices that are missing that
@@ -72,7 +73,7 @@ def find_missing(missing, set_of_services):
                 set_of_all += [names]
     return set_of_all
 
-def write_Html(file_path, html_buffer, missing):
+def write_html(file_path, html_buffer, missing):
     """
     Takes in a CSV file and converts it into
     an HTML file
@@ -84,7 +85,7 @@ def write_Html(file_path, html_buffer, missing):
 
     #Add new services to this set and in the switch def
     set_of_services = {'huntress', 'sentinelone', 'cybercns-sec-vm', 'cb-cloud'} 
-    missing['all'] = find_missing(missing, set_of_services) #Set of devices missing all
+    missing['all'] = create_missing_dict(missing, set_of_services) #Set of devices missing all
 
     if not len(missing['all']) == 0:
         set_of_services.add('all')
@@ -111,12 +112,12 @@ def write_Html(file_path, html_buffer, missing):
                         Func.write("<div class=\"column\" >") 
                         Func.write("<p>")
                         j=0
-                        for x in missing[key_to_lookup]:
-                            if not x in missing['all'] or key_to_lookup == 'all':
+                        for device in missing[key_to_lookup]:
+                            if not device in missing['all'] or key_to_lookup == 'all':
                                 if j % 2 == 0:
                                     Func.write("\n")
                                     Func.write("&bull; ")
-                                    Func.write(x)
+                                    Func.write(device)
                                     Func.write("<br>")
                                 j+=1
                         Func.write("</p>")
@@ -126,12 +127,12 @@ def write_Html(file_path, html_buffer, missing):
                     Func.write("<div class=\"column\" >") 
                     Func.write("<p2><br>")
                     if not len(missing[key_to_lookup]) == 0: 
-                        for x in missing[key_to_lookup]:
-                            if not x in missing['all'] or key_to_lookup == 'all':
+                        for device in missing[key_to_lookup]:
+                            if not device in missing['all'] or key_to_lookup == 'all':
                                 if j % 2 == 1:
                                     Func.write("\n")
                                     Func.write("&bull; ")
-                                    Func.write(x)
+                                    Func.write(device)
                                     Func.write("<br>")
                                 j+=1
 
@@ -189,11 +190,11 @@ def convert(processed_count, file_path, process_type):
                     buffer = filename[:-3]
                     html_buffer = buffer + "html"
                     html_location = file_path + "\\" + html_buffer
-                    write_Html(file_path, html_buffer, missing)
+                    write_html(file_path, html_buffer, missing)
                     create_pdf(f, html_location)
                     processed_count+=1
         elif process_type == 'abort':
-            print("abort")
+            print("A CSV file has already been processed aborting")
             return processed_count
     return processed_count
                 
@@ -243,9 +244,12 @@ class CommandLine:
             argument2 = 'smart'
         else:
             raise Exception("\nMissing at least one argument \nArgument 1 is the path to the CSV file \nArgument 2 is optional and is the processing type")
+        
         convert_counter = 0 #Keeps track of files that have been converted
+        tic = time.perf_counter()
         convert_counter = convert(convert_counter, argument1, argument2)
-        print("{}{}".format(convert_counter, ' files have been converted'))
+        toc = time.perf_counter()
+        print("{}{}{:0.3f}{}".format(convert_counter, ' files have been converted in ', toc - tic, ' seconds'))
 
 
 if __name__ == '__main__':
