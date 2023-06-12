@@ -6,7 +6,7 @@ import os
 import csv
 import sys
 
-def check_duplicates():
+def check_duplicates(file_path):
     """
     Traverses through given CSV file and puts all
     PDF files into a list so that they can be compared
@@ -15,8 +15,7 @@ def check_duplicates():
     :return: list of PDF files without their extension type
     """ 
     current_files = [] #list of current pdf files to skip
-    csv_directory = 'csvFolder'
-    for filename in os.listdir(csv_directory):
+    for filename in os.listdir(file_path):
         if filename.endswith('.pdf'): #Ignores pdf files
             new_filename = filename[:-3]
             current_files += [new_filename]
@@ -142,20 +141,6 @@ def write_Html(file_path, html_buffer, missing):
         Func.write("\n</body></html>") #needs to be last line
         Func.close()
 
-def create_html(f):
-    """
-    Takes in a CSV file and converts it into
-    an HTML file
-
-    :param f: current csv file
-    :return: converted html file
-    """ 
-    #missing_string = find_missing_services(f)
-    
-    df1 = pd.read_csv(f)
-    return df1.to_html() #Converts file to html
-    #TODO we can edit the html here
-
 def create_pdf(current_file, html_location):
     """
     Takes in an HTML file and converts it into
@@ -190,7 +175,7 @@ def convert(processed_count, file_path, process_type):
     if process_type == 'reprocess':
         current_files = []
     else:
-        current_files = check_duplicates()
+        current_files = check_duplicates(file_path)
 
     # iterate over files in the given directory path
     for filename in os.listdir(file_path):
