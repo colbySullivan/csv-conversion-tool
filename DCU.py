@@ -64,7 +64,6 @@ def write_html(file_path, html_buffer, missing):
     :param html_buffer: current csv file
     :param missing: dict were key is service and value is list of devices missing
     """ 
-
     config_file = configparser.ConfigParser()
     config_file.read('config.ini')
 
@@ -74,54 +73,64 @@ def write_html(file_path, html_buffer, missing):
 
     if not len(missing['all']) == 0:
         set_of_services.add('all')
+    para_num = 0
     with open(os.path.join(file_path, html_buffer), 'w') as Func:
         Func.write("<html>\n<head>\n<title> \nDCUP</title>") #change title when needed
         Func.write("\n<meta hr {display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0;}>")
         Func.write("\n<style> ")
         Func.write("\nh2 {\nfont-family:  Century Gothic;\n")
         Func.write("\nfont-weight: lighter}")
-        Func.write("\np {\nfont-family:  Calibri;\n")
+        Func.write("\np1 {\nfont-family:  Calibri;\n")
         Func.write("\nfont-weight: lighter}")
         Func.write("\np2 {\nfont-family:  Calibri;\n")
+        Func.write("\nfont-weight: lighter}")
+        Func.write("\np3 {\nfont-family:  Calibri;\n")
+        Func.write("\nfont-weight: lighter}")
+        Func.write("\np4 {\nfont-family:  Calibri;\n")
+        Func.write("\nfont-weight: lighter}")
+        Func.write("\np5 {\nfont-family:  Calibri;\n")
         Func.write("\nfont-weight: lighter}")
         Func.write("\n.column { float: left; width: 50%;}")
         Func.write("\n{box-sizing: border-box}")
         Func.write("\n.row:after \n{content: \"\"; \ndisplay: table; \nclear: both;}")
         Func.write("</style>")
         for key_to_lookup in missing:
+            
             if key_to_lookup in set_of_services:
                 if not len(key_to_lookup) == 0: #TODO check if this works
-                    Func.write("\n</h2> <body><h2>" + config_file['SERVICES'][key_to_lookup] + "</h2><hr>")   # Fill in with whatever needs to be filled
+                    Func.write("\n</h2> <body><h2>" + config_file['SERVICES'][key_to_lookup] + "</h2><hr>\n")   # Fill in with whatever needs to be filled
                     if not len(missing[key_to_lookup]) == 0: 
                         Func.write("<div class =\"row\">") 
                         Func.write("<div class=\"column\" >") 
-                        Func.write("<p>")
+                        Func.write("<ul type = &bull>")
+                        para_num = para_num + 1
+                        Func.write("\n<p" + str(para_num) + ">")
                         j=0
                         for device in missing[key_to_lookup]:
                             #if not device in missing['all'] or key_to_lookup == 'all':
                             if j % 2 == 0:
                                 Func.write("\n")
-                                Func.write("&bull; ")
+                                Func.write("<li>")
                                 Func.write(device)
-                                Func.write("<br>")
                             j+=1
-                        Func.write("</p>")
+                        Func.write("</p" + str(para_num) + ">")
                         Func.write("</div>") 
+                        Func.write("</ul>")
                     j=0
                     Func.write("<div class =\"row\">") 
                     Func.write("<div class=\"column\" >") 
-                    Func.write("<p2><br>")
+                    Func.write("<ul type = &bull>")
+                    Func.write("<p" + str(para_num)  + ">")
                     if not len(missing[key_to_lookup]) == 0: 
                         for device in missing[key_to_lookup]:
                             #if not device in missing['all'] or key_to_lookup == 'all': 
                             if j % 2 == 1:
                                 Func.write("\n")
-                                Func.write("&bull; ")
+                                Func.write("<li>")
                                 Func.write(device)
-                                Func.write("<br>")
                             j+=1
-
-                Func.write("</p2>")
+                Func.write("</ul>")
+                Func.write("<p" + str(para_num) + ">")
                 Func.write("</div>") #26
                 Func.write("</div>") #22
         Func.write("\n</body></html>") #needs to be last line
