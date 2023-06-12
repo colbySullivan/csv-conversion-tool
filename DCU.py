@@ -6,6 +6,7 @@ import os
 import csv
 import sys
 import time
+import configparser
 
 def check_duplicates(file_path):
     """
@@ -21,28 +22,6 @@ def check_duplicates(file_path):
             new_filename = filename[:-3]
             current_files += [new_filename]
     return current_files     
-
-def switch(key_to_lookup):
-    """
-    Used to format the header of the missing
-    service. Add to this "switch case"
-    when new services are used.
-
-    :param file_path: key of dict which is the service type
-    :return: formatted output string
-    """ 
-    if key_to_lookup == "huntress":
-        return "MISSING HUNTRESS AGENTS"
-    elif key_to_lookup == "sentinelone":
-        return "MISSING SENTINEL ONE AGENTS"
-    elif key_to_lookup == "cybercns-sec-vm":
-        return "MISSING CYBERCNS AGENT"
-    elif key_to_lookup == "cb-cloud":
-        return "MISSING CARBON BLACK AGENTS"
-    elif key_to_lookup == "sophos":
-        return "MISSING SOPHOS AGENTS"
-    else:
-        return "MISSING ALL AGENTS"
     
 def create_missing_dict(missing, set_of_services):
     """
@@ -85,6 +64,9 @@ def write_html(file_path, html_buffer, missing):
     :param missing: dict were key is service and value is list of devices missing
     """ 
 
+    config_file = configparser.ConfigParser()
+    config_file.read('config.ini')
+
     #Add new services to this set and in the switch def
     set_of_services = {'huntress', 'sentinelone', 'cybercns-sec-vm', 'cb-cloud', 'sophos'} 
     missing['all'] = create_missing_dict(missing, set_of_services) #Set of devices missing all
@@ -108,7 +90,7 @@ def write_html(file_path, html_buffer, missing):
         for key_to_lookup in missing:
             if key_to_lookup in set_of_services:
                 if not len(key_to_lookup) == 0: #TODO check if this works
-                    Func.write("\n</h2> <body><h2>" + switch(key_to_lookup) + "</h2><hr>")   # Fill in with whatever needs to be filled
+                    Func.write("\n</h2> <body><h2>" + config_file['SERVICES'][key_to_lookup] + "</h2><hr>")   # Fill in with whatever needs to be filled
                     if not len(missing[key_to_lookup]) == 0: 
                         Func.write("<div class =\"row\">") 
                         Func.write("<div class=\"column\" >") 
@@ -235,7 +217,6 @@ def find_missing_services(csv_file):
         dict_missing[service] = missing
     return dict_missing
     
-                               
 class CommandLine:
     def __init__(self):
         if len(sys.argv) == 3:
@@ -247,6 +228,14 @@ class CommandLine:
         else:
             raise Exception("\nMissing at least one argument \nArgument 1 is the path to the CSV file \nArgument 2 is optional and is the processing type")
         
+        config_file = configparser.ConfigParser()
+        config_file.read('config.ini')
+        config_file['ARGS']['process'] = argument2
+        argument1 = config_file['ARGS']['path']
+        argument2 = config_file['ARGS']['process']
+        print(config_file['SERVICES']['huntress'])
+        #argument1 = create_config()
+
         convert_counter = 0 #Keeps track of files that have been converted
         tic = time.perf_counter()
         convert_counter = convert(convert_counter, argument1, argument2)
