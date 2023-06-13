@@ -1,6 +1,5 @@
 # Data Conversion Utility Script
 
-import pandas as pd
 import pdfkit
 import os
 import csv
@@ -8,6 +7,8 @@ import sys
 import time
 import configparser
 import getopt
+import multiprocessing
+from multiprocessing import Manager, Pool
 
 def check_duplicates(file_path):
     """
@@ -55,7 +56,7 @@ def create_missing_dict(missing, set_of_services):
                 set_of_all += [names]
     return set_of_all
 
-def write_html(file_path, html_buffer, missing):
+def write_html(file_path, html_buffer, missing, f, html_location):
     """
     Takes in a CSV file and converts it into
     an HTML file
@@ -95,10 +96,9 @@ def write_html(file_path, html_buffer, missing):
         Func.write("\n.row:after \n{content: \"\"; \ndisplay: table; \nclear: both;}")
         Func.write("</style>")
         for key_to_lookup in missing:
-            
             if key_to_lookup in set_of_services:
-                if not len(key_to_lookup) == 0: #TODO check if this works
-                    Func.write("\n</h2> <body><h2>" + config_file['SERVICES'][key_to_lookup] + "</h2><hr>\n")   # Fill in with whatever needs to be filled
+                if not len(key_to_lookup) == 0:
+                    Func.write("\n</h2> <body><h2>" + config_file['SERVICES'][key_to_lookup] + "</h2><hr>\n")
                     if not len(missing[key_to_lookup]) == 0: 
                         Func.write("<div class =\"row\">") 
                         Func.write("<div class=\"column\" >") 
@@ -135,6 +135,7 @@ def write_html(file_path, html_buffer, missing):
                 Func.write("</div>") #22
         Func.write("\n</body></html>") #needs to be last line
         Func.close()
+        create_pdf(f, html_location)
 
 def create_pdf(current_file, html_location):
     """
@@ -153,7 +154,7 @@ def create_pdf(current_file, html_location):
     pdfkit.from_file(html_location, pdf_file, configuration=config)  #Utilizes the pdfkit API to convert the html to a pdf
     os.remove(html_location)
 
-def convert(processed_count, file_path, process_type):
+def convert(processed_count, file_path, process_type, shared_list):
     """
     Traverses through a given directory and searches 
     for CSV files. For each file they are converted
@@ -164,7 +165,6 @@ def convert(processed_count, file_path, process_type):
     :param process_type: Smart, Abort, or Process
     :return: integer of files processed
     """ 
-    #file_path = 'csvFolder'
 
     #Checks for reprocess and smart
     if process_type == 'reprocess':
@@ -175,21 +175,22 @@ def convert(processed_count, file_path, process_type):
     # iterate over files in the given directory path
     for filename in os.listdir(file_path):
         buffer_filename = filename[:-3]
-        if buffer_filename not in current_files:
-            if filename.endswith('.csv'): #Ignores pdf files
-                f = os.path.join(file_path, filename)
-                if os.path.isfile(f): # checking if it is a file
-                    print(filename) #Needed print
-                    missing = find_missing_services(f)
-                    buffer = filename[:-3]
-                    html_buffer = buffer + "html"
-                    html_location = file_path + "\\" + html_buffer
-                    write_html(file_path, html_buffer, missing)
-                    create_pdf(f, html_location)
-                    processed_count+=1
-        elif process_type == 'abort':
-            print("A CSV file has already been processed aborting")
-            return processed_count
+        if not buffer_filename in shared_list:
+            shared_list += [buffer_filename]
+            if buffer_filename not in current_files:
+                if filename.endswith('.csv'): #Ignores pdf files
+                    f = os.path.join(file_path, filename)
+                    if os.path.isfile(f): # checking if it is a file
+                        buffer = filename[:-3]
+                        html_buffer = buffer + "html"
+                        html_location = file_path + "\\" + html_buffer
+                        print(filename) #Needed print
+                        missing = find_missing_services(f)
+                        write_html(file_path, html_buffer, missing, f, html_location)
+                        processed_count+=1
+            elif process_type == 'abort':
+                print("A CSV file has already been processed aborting")
+                return processed_count
     return processed_count
                 
 
@@ -235,7 +236,7 @@ class CommandLine:
         process_type = config_file['ARGS']['process']
         argv = sys.argv[1:]
         try:
-            opts, arg = getopt.getopt(argv, "hf:p", 
+            opts, arg = getopt.getopt(argv, "hfp:", 
                                     ["file_path=",
                                         "process_type=",
                                         "help"])
@@ -251,12 +252,20 @@ class CommandLine:
                 with open('usage.txt', 'r') as fin:
                     print(fin.read())
                 sys.exit()
-
         convert_counter = 0 #Keeps track of files that have been converted
+        shared_list = []
+        manager = Manager()
+        shared_list = manager.list()
+        config_processes = config_file['ARGS']['processes']
+        process_number = [multiprocessing.Process(target=convert, args=(convert_counter, file_path, process_type, shared_list)) for x in range(int(config_processes))]
+
+        for p in process_number:
+            p.start()
         tic = time.perf_counter()
-        convert_counter = convert(convert_counter, file_path, process_type)
+        for p in process_number:
+            p.join()
         toc = time.perf_counter()
-        print("{}{}{:0.3f}{}".format(convert_counter, ' files have been converted in ', toc - tic, ' seconds'))
+        print("{}{}{:0.3f}{}".format(len(shared_list), ' files have been converted in ', toc - tic, ' seconds'))
 
 
 if __name__ == '__main__':
