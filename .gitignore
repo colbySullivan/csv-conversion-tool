@@ -1,3 +1,5 @@
-.pdf
-.csv
-.html
+*.pdf
+*.csv
+*.html
+!ExampleCSV.csv
+!ExampleCSV.pdf

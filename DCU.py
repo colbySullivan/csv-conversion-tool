@@ -234,20 +234,27 @@ class CommandLine:
         config_file.read('config.ini')
         file_path = config_file['ARGS']['path']
         process_type = config_file['ARGS']['process']
+        process_count = config_file['ARGS']['process_count']
         argv = sys.argv[1:]
         try:
-            opts, arg = getopt.getopt(argv, "hfp:", 
+            opts, arg = getopt.getopt(argv, "hf:p:c:", 
                                     ["file_path=",
                                         "process_type=",
+                                        "process_count=",
                                         "help"])
         except:
-            raise IOError("Argument dependency not met")
+            with open('usage.txt', 'r') as fin:
+                    print(fin.read())
+            #raise IOError("Argument dependency not met")
+            sys.exit()
     
         for opt, arg in opts:
             if opt in ['-f', '--file_path']:
                 file_path = arg
             elif opt in ['-p', '--process_type']:
                 process_type = arg
+            elif opt in ['-c', '--process_count']:
+                process_count = arg
             elif opt in ['-h', '--help']:
                 with open('usage.txt', 'r') as fin:
                     print(fin.read())
@@ -256,16 +263,17 @@ class CommandLine:
         shared_list = []
         manager = Manager()
         shared_list = manager.list()
-        config_processes = config_file['ARGS']['processes']
-        process_number = [multiprocessing.Process(target=convert, args=(convert_counter, file_path, process_type, shared_list)) for x in range(int(config_processes))]
 
+        process_number = [multiprocessing.Process(target=convert, args=(convert_counter, file_path, process_type, shared_list)) for x in range(int(process_count))]
         for p in process_number:
             p.start()
         tic = time.perf_counter()
+        
         for p in process_number:
             p.join()
+            
         toc = time.perf_counter()
-        print("{}{}{:0.3f}{}".format(len(shared_list), ' files have been converted in ', toc - tic, ' seconds'))
+        print("{}{}{:0.3f}{}".format(1, ' files have been converted in ', toc - tic, ' seconds'))
 
 
 if __name__ == '__main__':
