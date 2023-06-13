@@ -154,7 +154,7 @@ def create_pdf(current_file, html_location):
     pdfkit.from_file(html_location, pdf_file, configuration=config)  #Utilizes the pdfkit API to convert the html to a pdf
     os.remove(html_location)
 
-def convert(processed_count, file_path, process_type, shared_list):
+def convert(processed_count, file_path, process_type, shared_list, shared_int):
     """
     Traverses through a given directory and searches 
     for CSV files. For each file they are converted
@@ -187,11 +187,9 @@ def convert(processed_count, file_path, process_type, shared_list):
                         print(filename) #Needed print
                         missing = find_missing_services(f)
                         write_html(file_path, html_buffer, missing, f, html_location)
-                        processed_count+=1
+                        shared_int.value +=1
             elif process_type == 'abort':
                 print("A CSV file has already been processed aborting")
-                return processed_count
-    return processed_count
                 
 
 def find_missing_services(csv_file):
@@ -263,8 +261,8 @@ class CommandLine:
         shared_list = []
         manager = Manager()
         shared_list = manager.list()
-
-        process_number = [multiprocessing.Process(target=convert, args=(convert_counter, file_path, process_type, shared_list)) for x in range(int(process_count))]
+        shared_int = manager.Value('i', 0)
+        process_number = [multiprocessing.Process(target=convert, args=(convert_counter, file_path, process_type, shared_list, shared_int)) for x in range(int(process_count))]
         for p in process_number:
             p.start()
         tic = time.perf_counter()
@@ -273,7 +271,7 @@ class CommandLine:
             p.join()
             
         toc = time.perf_counter()
-        print("{}{}{:0.3f}{}".format(1, ' files have been converted in ', toc - tic, ' seconds'))
+        print("{}{}{:0.3f}{}".format(shared_int.value, ' files have been converted in ', toc - tic, ' seconds'))
 
 
 if __name__ == '__main__':
