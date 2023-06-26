@@ -4,7 +4,6 @@ We have developed a utility to automate the True Up reporting process for Solis 
 are installed on the host. After pulling this data from the CSV, the utility compiles a PDF report for the client listing which hosts are missing each security tool provided. 
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Install needed Python modules by executing the following from the command line:
 
 ```
