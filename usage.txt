@@ -1,9 +1,9 @@
 Usage:
-  python DFU.py (will automitcally run in smart mode in default path)
-  python DFU.py -f <file path> (changes the file path to what is stated)
-  python DFU.py -p <process type> (changes between the three modes; smart, abort, reprocess)
+  python DCU.py (will automitcally run in smart mode in default path)
+  python DCU.py -f <file path> (changes the file path to what is stated)
+  python DCU.py -p <process type> (changes between the three modes; smart, abort, reprocess)
   python DCU.py -f <file path> -p <process type> (changes the file path as well as the process type)
-  python DFU.py -h | --help (brings up this menu)
+  python DCU.py -h | --help (brings up this menu)
 
 
 Options:
